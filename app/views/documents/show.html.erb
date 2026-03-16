@@ -1,2 +1,7 @@
 <h1><%= @document.title %></h1>
 
+<ol>
+  <% @similar_documents.each do |document| %>
+    <li><%= document.title %></li>
+  <% end %>
+</ol>

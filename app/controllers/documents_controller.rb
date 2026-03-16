@@ -5,5 +5,6 @@ class DocumentsController < ApplicationController
 
   def show
     @document = Document.find(params[:id])
+    @similar_documents = @document.nearest_neighbors(:embedding, distance: 'cosine').first(5)
   end
 end
