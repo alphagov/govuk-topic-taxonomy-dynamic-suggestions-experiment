@@ -22,7 +22,6 @@ class DocumentsController < ApplicationController
       assume_model_exists: true
     )
     @document.embedding = embedding.vectors
-    @document.taxons = []
     @similar_documents = @document.nearest_neighbors(:embedding, distance: 'cosine').first(5)
 
     render :show
