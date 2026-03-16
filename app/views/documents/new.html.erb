@@ -1,0 +1,11 @@
+<%= form_for @document do |form| %>
+  <div>
+    <%= form.text_field :title %>
+  </div>
+  <div>
+    <%= form.textarea :body, cols: '100', rows: '25' %>
+  </div>
+  <div>
+    <%= form.submit 'Suggest tags!' %>
+  </div>
+<% end %>
