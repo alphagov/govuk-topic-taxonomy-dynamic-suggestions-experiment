@@ -1,7 +1,27 @@
 <h1><%= link_to @document.title, @document.govuk_url %></h1>
 
+<h2>Taxons</h2>
+
+<ol>
+  <% @document.taxons.each do |taxon| %>
+    <li><%= taxon['title'] %></li>
+  <% end %>
+</ol>
+
+<h2>Similar documents</h2>
+
 <ol>
   <% @similar_documents.each do |document| %>
     <li><%= link_to document.title, document_path(document) %></li>
+  <% end %>
+</ol>
+
+<h2>Suggested taxons</h2>
+
+<ol>
+  <% @similar_documents.each.with_index do |document, index| %>
+    <% document.taxons.each do |taxon| %>
+      <li><%= taxon['title'] %> (<%= index + 1 %>)</li>
+    <% end %>
   <% end %>
 </ol>
