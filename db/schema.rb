@@ -10,15 +10,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 2026_03_16_141520) do
+ActiveRecord::Schema[8.1].define(version: 2026_03_16_154254) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "pg_catalog.plpgsql"
   enable_extension "vector"
 
   create_table "documents", force: :cascade do |t|
+    t.string "base_path"
     t.uuid "content_store_id", null: false
     t.datetime "created_at", null: false
     t.vector "embedding", limit: 2560
+    t.jsonb "taxons"
     t.string "title", null: false
     t.datetime "updated_at", null: false
   end

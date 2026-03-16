@@ -14,14 +14,20 @@ embeddings.each.with_index do |path, index|
   puts "#{index} / #{total}" if index % 100 == 0
 
   content_store_id = File.basename(path, '.json')
+
+  clean_path = Rails.root.join("db/seeds/clean/#{content_store_id}.json")
+  clean_data = JSON.load_file(clean_path)
+  base_path = clean_data['base_path']
+  taxons = clean_data['taxons']
+
   data = JSON.load_file(path)
   title = data['title']
   embedding = data['vector']
 
   document = Document.find_by(content_store_id:)
   if document
-    document.update!(title:, embedding:)
+    document.update!(title:, embedding:, base_path:, taxons:)
   else
-    Document.create!(content_store_id:, title:, embedding:)
+    Document.create!(content_store_id:, title:, embedding:, base_path:, taxons:)
   end
 end
