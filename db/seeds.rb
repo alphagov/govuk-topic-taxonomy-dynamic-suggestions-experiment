@@ -7,3 +7,21 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+
+embeddings = Dir[Rails.root.join('db/seeds/embeddings/*.json')]
+total = embeddings.length
+embeddings.each.with_index do |path, index|
+  puts "#{index} / #{total}" if index % 100 == 0
+
+  content_store_id = File.basename(path, '.json')
+  data = JSON.load_file(path)
+  title = data['title']
+  embedding = data['vector']
+
+  document = Document.find_by(content_store_id:)
+  if document
+    document.update!(title:, embedding:)
+  else
+    Document.create!(content_store_id:, title:, embedding:)
+  end
+end
