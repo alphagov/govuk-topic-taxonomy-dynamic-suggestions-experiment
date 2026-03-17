@@ -12,6 +12,8 @@ class Document < ApplicationRecord
   end
 
   def govuk_url
+    return if draft?
+
     "https://www.gov.uk#{base_path}"
   end
 end

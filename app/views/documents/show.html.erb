@@ -1,4 +1,10 @@
-<h1><%= link_to @document.title, @document.govuk_url %></h1>
+<h1>
+  <% if @document.govuk_url.present? %>
+    <%= link_to @document.title, @document.govuk_url %>
+  <% else %>
+    <%= @document.title %>
+  <% end %>
+</h1>
 
 <h2>Taxons</h2>
 
