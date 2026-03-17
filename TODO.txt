@@ -1,5 +1,3 @@
-Add link to new document form
-
 Display the full taxon tree for each suggestion
 
 Promote the suggested taxons over the similar documents. The similar documents are only really there so that we can describe how we derived the suggested taxons.
