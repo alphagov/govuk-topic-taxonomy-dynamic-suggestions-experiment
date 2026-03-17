@@ -1,0 +1,22 @@
+Store user-entered content in database so that we can redirect to the show page
+  Possibly expire it after some period of time
+  Possibly don't show it on the index page
+
+Remove duplicates in the suggested taxons
+  Possibly order suggested taxons by the number of times they appear in the similar documents
+
+Don't display suggested taxons that have already been associated with the document
+
+Display the full taxon tree for each suggestion
+
+Promote the suggested taxons over the similar documents. The similar documents are only really there so that we can describe how we derived the suggested taxons.
+
+Use design system to make it look more GOV.UK'y
+
+---
+
+Ensure we always recommend n? taxons (e.g. by not necessarily taking just the first 5 similar documents)
+
+Use some distance threshold so that we don't include taxons from "similar" documents that aren't actually very similar
+
+Add bookmarklet for Whitehall publisher so that publisher can request suggested taxons for a new document
