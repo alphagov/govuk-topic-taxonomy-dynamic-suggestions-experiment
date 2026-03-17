@@ -32,7 +32,7 @@ class DocumentsController < ApplicationController
     if @document.save
       redirect_to document_path(@document)
     else
-      flash[:alert] = @document.errors.full_messages.to_sentence
+      flash.now[:alert] = @document.errors.full_messages.to_sentence
       render :new
     end
   end
