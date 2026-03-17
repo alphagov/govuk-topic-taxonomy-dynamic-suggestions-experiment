@@ -19,7 +19,7 @@
 <h2>Suggested taxons</h2>
 
 <ol>
-  <% @suggested_taxons.each do |taxon| %>
-    <li><%= taxon['title'] %></li>
+  <% @suggested_taxons.each do |title, taxons| %>
+    <li><%= title %> (<%= taxons.length %>)</li>
   <% end %>
 </ol>

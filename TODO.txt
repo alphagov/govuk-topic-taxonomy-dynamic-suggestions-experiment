@@ -2,9 +2,6 @@ Add link to new document form
 
 Don't linkify title for new documents
 
-Remove duplicates in the suggested taxons
-  Possibly order suggested taxons by the number of times they appear in the similar documents
-
 Don't display suggested taxons that have already been associated with the document
 
 Display the full taxon tree for each suggestion
