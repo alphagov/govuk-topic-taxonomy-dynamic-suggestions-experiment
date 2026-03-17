@@ -13,17 +13,20 @@ class DocumentsController < ApplicationController
   end
 
   def create
-    @document = Document.new(params.expect(document: [:title, :body]))
-    text_to_embed = [@document.title, @document.body].join(' ')
+    text_to_embed = [document_params[:title], document_params[:body]].join(' ')
     embedding = RubyLLM.embed(
       text_to_embed,
       provider: 'openrouter',
       model: 'qwen/qwen3-embedding-4b',
       assume_model_exists: true
     )
-    @document.content_store_id = SecureRandom.uuid
-    @document.draft = true
-    @document.embedding = embedding.vectors
+
+    @document = Document.new(
+      content_store_id: SecureRandom.uuid,
+      draft: true,
+      embedding: embedding.vectors,
+      **document_params
+    )
 
     if @document.save
       redirect_to document_path(@document)
@@ -31,5 +34,11 @@ class DocumentsController < ApplicationController
       flash[:alert] = @document.errors.full_messages.to_sentence
       render :new
     end
+  end
+
+  private
+
+  def document_params
+    params.expect(document: [:title, :body])
   end
 end
