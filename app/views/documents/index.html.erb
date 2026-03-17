@@ -1,5 +1,7 @@
 <h1>Documents</h1>
 
+<p><%= link_to 'New document', new_document_path %></p>
+
 <ul>
 <% @documents.each do |document| %>
   <li><%= link_to document.title, document_path(document) %></li>
