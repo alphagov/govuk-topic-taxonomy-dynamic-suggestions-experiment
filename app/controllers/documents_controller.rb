@@ -1,11 +1,11 @@
 class DocumentsController < ApplicationController
   def index
-    @documents = Document.select(:id, :title)
+    @documents = Document.published.select(:id, :title)
   end
 
   def show
     @document = Document.find(params[:id])
-    @similar_documents = @document.nearest_neighbors(:embedding, distance: 'cosine').first(5)
+    @similar_documents = @document.nearest_neighbors(:embedding, distance: 'cosine').select(&:published?).first(5)
   end
 
   def new
@@ -22,6 +22,7 @@ class DocumentsController < ApplicationController
       assume_model_exists: true
     )
     @document.content_store_id = SecureRandom.uuid
+    @document.draft = true
     @document.embedding = embedding.vectors
 
     if @document.save

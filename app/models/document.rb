@@ -5,6 +5,12 @@ class Document < ApplicationRecord
 
   validates :title, presence: true
 
+  scope :published, -> { where(draft: false) }
+
+  def published?
+    !draft?
+  end
+
   def govuk_url
     "https://www.gov.uk#{base_path}"
   end
