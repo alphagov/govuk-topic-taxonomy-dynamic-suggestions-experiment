@@ -21,9 +21,14 @@ class DocumentsController < ApplicationController
       model: 'qwen/qwen3-embedding-4b',
       assume_model_exists: true
     )
+    @document.content_store_id = SecureRandom.uuid
     @document.embedding = embedding.vectors
-    @similar_documents = @document.nearest_neighbors(:embedding, distance: 'cosine').first(5)
 
-    render :show
+    if @document.save
+      redirect_to document_path(@document)
+    else
+      flash[:alert] = @document.errors.full_messages.to_sentence
+      render :new
+    end
   end
 end

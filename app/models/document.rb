@@ -3,6 +3,8 @@ class Document < ApplicationRecord
 
   attr_accessor :body
 
+  validates :title, presence: true
+
   def govuk_url
     "https://www.gov.uk#{base_path}"
   end

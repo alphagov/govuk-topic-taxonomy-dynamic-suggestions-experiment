@@ -1,3 +1,7 @@
+<% if flash[:alert] %>
+  <p><%= flash[:alert] %></p>
+<% end %>
+
 <%= form_for @document do |form| %>
   <div>
     <%= form.text_field :title %>
