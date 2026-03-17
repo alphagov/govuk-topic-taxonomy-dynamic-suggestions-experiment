@@ -6,7 +6,7 @@ class DocumentsController < ApplicationController
   def show
     @document = Document.find(params[:id])
     @similar_documents = @document.nearest_neighbors(:embedding, distance: 'cosine').select(&:published?).first(5)
-    @suggested_taxons = @similar_documents.flat_map(&:taxons).group_by { |t| t['title'] }
+    @suggested_taxons = (@similar_documents.flat_map(&:taxons) - @document.taxons).group_by { |t| t['title'] }
   end
 
   def new
