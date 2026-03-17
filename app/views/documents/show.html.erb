@@ -30,8 +30,12 @@
 
 <h2>Suggested taxons</h2>
 
-<ol>
-  <% @suggested_taxons.each do |title, taxons| %>
-    <li><%= title %> (<%= taxons.length %>)</li>
-  <% end %>
-</ol>
+<% if @suggested_taxons.any? %>
+  <ol>
+    <% @suggested_taxons.each do |title, taxons| %>
+      <li><%= title %> (<%= taxons.length %>)</li>
+    <% end %>
+  </ol>
+<% else %>
+  <p>There are no other suitable taxons.</p>
+<% end %>
