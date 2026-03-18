@@ -1,0 +1,1345 @@
+id,title,base_path,parent_base_path
+02895c91-447f-4699-966d-49c13527686f,GOV.UK homepage,/,""
+2f79ba63-6e14-4c7e-8b30-e594051d456d,Work,/work,/
+a2d298d5-4126-44dc-94a3-70ed3acf6449,Environment,/environment,/
+988f3097-316f-4941-b8fa-1801b5249ba4,Money,/money,/
+7a1cec19-da3a-40e9-a7cd-0db9b64f86e4,Entering and staying in the UK,/entering-staying-uk,/
+a0e7a8af-4752-405f-a163-cd7be5ea4e39,Regional and local government,/regional-and-local-government,/
+aa3bf57b-6931-4013-b127-bf477bd08306,Defence and armed forces,/defence-and-armed-forces,/
+fea8592c-181c-4fc7-b7e4-b66044cd5b26,International,/international,/
+8b69b668-1efe-4200-a8b7-43065cccd4ef,Health and social care,/health-and-social-care,/
+563b970f-bb65-4e53-aea5-db521495543a,"Education, training and skills",/education,/
+002cd26d-ed53-42d7-9581-f88fe23b0951,"Parenting, childcare and children's services ",/childcare-parenting,/
+32bacfc2-691e-40a2-b18d-94f027c1a79c,Going and being abroad,/going-and-being-abroad,/
+05a623ad-8549-4b1b-81c6-8ef1fa4b9f4f,"Crime, justice and law",/crime-justice-and-law,/
+3766197a-b7fc-47e1-aa37-8ce6f6a5d6f5,Welfare,/welfare,/
+19adde55-7620-4f89-b0c3-2c07684c107a,Transport,/transport,/
+55bf13ce-e3ae-4c00-8119-828785dbb474,Government,/government/all,/
+e7ccab0d-f7ac-48a0-8319-f8cff35d4d3f,Corporate information,/corporate-information,/
+4182488b-16fd-4de6-92e8-6dbe1949aee0,Life circumstances,/life-circumstances,/
+8aae5115-bbf5-4083-876f-cf37fbf0ed95,Society and culture,/society-and-culture,/
+3edd6ee8-ee23-4647-96ae-82480d4f659a,"Housing, local and community",/housing-local-and-community,/
+db8e73d2-bb26-42ad-80f0-9c51227de47b,Business and industry,/business-and-industry,/
+0bedd351-cc6e-4a5b-bdae-02592ba3a9fe,Income Tax,/money/income-tax,/money/personal-tax
+51796db2-364c-415e-a760-4b014942d16a,Personal tax,/money/personal-tax,/money
+76b10e69-41fc-4b9f-974b-4fbd60a5bc20,Consumer rights and issues,/business-and-industry/consumer-rights-and-issues,/business-and-industry/business-regulation
+c269e490-b5d0-42ca-afbe-234256378cb9,Current UK sanctions regimes,/international/current-uk-sanctions-regimes,/international
+5046206e-82b0-4b18-88bc-3b2799087654,Charities and social enterprises,/business-and-industry/charities-and-social-enterprises,/business-and-industry
+4553d45e-7afc-4f13-ae14-b5070e78e3fd,UK economic growth,/business/uk-economic-growth,/business-and-industry/uk-economy
+a014f276-c762-4b80-bb28-647496216c47,Patient safety,/health-and-social-care/patient-safety,/health-and-social-care/national-health-service
+456cf60b-e441-4a5c-815b-2d7b32dd6207,EU and international driving rules,/transport/eu-and-international-driving-rules,/transport/professional-driving-of-lorries-buses-and-coaches
+a9ea8db2-ccbc-401d-8866-e61ec1478af0,Self Assessment,/employment/business-tax-self-employed-self-assessment,/employment/self-employed
+0e581ae5-506c-489e-b4c4-0618a1fff795,Industrial strategy,/business-and-industry/industrial-strategy,/business-and-industry
+a8ed85ca-756a-4e19-9f80-da461f23b62b,Financial services,/business-and-industry/financial-services,/business-and-industry
+c174b13a-f80b-448d-995a-f7cef612d7dd,Fishing quota and catch limits ,/environment/fishing-quota-and-catch-limits,/environment/fishing-regulations-monitoring-enforcement
+0a1dd01a-9142-487f-b6a1-59a536e47848,Human rights internationally,/international/human-rights-internationally,/international
+ffae6520-785b-4423-b865-033e36b3f4f2,Northern Ireland security,/regional-and-local-government/northern-ireland-security,/regional-and-local-government/northern-ireland
+8ce3300f-8e6e-4c72-9344-f9361ad13400,Competition Act and cartels,/business/competition-competition-act-cartels,/business/competition
+fa308455-670c-49b0-aaa7-241190a6f5b8,Mergers,/business/competition-mergers,/business/competition
+b480f121-3c8b-4670-8829-1673f3066f40,Energy efficiency,/environment/climate-change-energy-energy-efficiency,/environment/climate-change-energy
+1a01d0cc-d7ea-4c62-bbfa-333da6fa4738,"Courts, sentencing and tribunals",/crime-justice-and-law/courts-sentencing-tribunals,/crime-justice-and-law
+dc46156d-48c5-4109-89a2-846094cec673,Violence against women and girls,/crime-justice-and-law/violence-against-women-and-girls,/crime-justice-and-law
+a8d8b251-ad22-4e4c-bb56-e7b0432f8a90,Providing childcare,/childcare-parenting/providing-childcare,/childcare-parenting/childcare-and-early-years
+dd64fdb0-209e-4b46-866d-dc5a196d6e23,"Divorce, separation and legal issues",/childcare-parenting/divorce-separation-and-legal-issues,/childcare-parenting
+f2f6aa0a-d5c3-4ac2-a127-614f0702af4a,Planning permission and appeals,/housing-local-and-community/planning-permission-appeals,/housing-local-and-community/planning-and-building
+bbb3df2c-1b75-4afb-bc10-24e903c00d51,Rules for specific goods and services,/business/business-tax-import-export-rules-for-specific-goods-and-services,/business-and-industry/customs-declarations-duties-tariffs
+aa901277-4a5a-4a04-92c6-11a043b8a03a,Customs Freight Simplified Procedures,/business/business-tax-import-export-customs-freight-simplified-procedures,/business-and-industry/customs-declarations-duties-tariffs
+60fc3ed4-eb2a-49e0-bc7d-003a7dd50c17,Childcare and early years,/childcare-parenting/childcare-and-early-years,/childcare-parenting
+bb0b5d75-3bcb-49ba-8dbe-4187b98df4f6,Access to financial services,/business/access-to-financial-services,/business-and-industry/financial-services
+1ae6600b-b651-42d9-ad8e-23888c64c796,Getting married ,/life-circumstances/births-deaths-marriages-marriage-divorce-getting-married,/life-circumstances/marriage-divorce
+b8f7e9bb-772f-4bc9-8c7e-1fc004a9abdb,"Equality, rights and citizenship",/society-and-culture/equality-rights-and-citizenship,/society-and-culture
+30e19d34-cc21-4441-8f2f-093095730931,Freshwater fisheries,/environment/freshwater-fisheries,/environment/fishing-fisheries-and-vessels
+c99c369c-83b4-49b3-8c14-6934c11eb2ae,Travel abroad,/going-and-being-abroad/travel-abroad,/going-and-being-abroad
+f054b365-23f8-484d-9592-4d5dea604138,Cancer research and treatment,/health-and-social-care/cancer-research-and-treatment,/health-and-social-care/health-conditions
+f1be8a77-8a3e-4bd0-b8a8-311b3658289c,Starting and attending school,/education/starting-and-attending-school,/education
+57891a17-e26e-4e2d-9c30-4f3aead67aa4,Environmental permits,/environment/environmental-permits,/environment
+aa955c8d-f591-4531-b033-f8a96631e49c,Self-employment,/employment/self-employed,/work
+c06bd8b4-8c50-4c7b-ba32-3db9c470c70c,Tax agent and adviser guidance,/money/tax-agent-guidance,/money/dealing-with-hmrc
+58c4589e-c187-4a96-8807-c18072b46236,Dealing with problems at school,/education/dealing-with-problems-at-school,/education/starting-and-attending-school
+e3a23744-c3f8-4a68-9960-aefce0c189f4,"Refugees, asylum and human rights",/entering-staying-uk/refugees-asylum-human-rights,/entering-staying-uk
+5c7034d8-3796-4dd1-b6b8-040360fb6829,"UK prosperity and security: Asia, Latin America and Africa",/international/uk-prosperity-and-security-asia-latin-america-and-africa,/international
+838146df-6f37-4b33-8344-1ef4ed603c27,Northern Ireland community relations,/regional-and-local-government/northern-ireland-community-relations,/regional-and-local-government/northern-ireland
+09d3427e-b609-4b37-a9ae-75a86061e64c,Alcohol licensing ,/business-and-industry/alcohol-sales,/business-and-industry/business-licensing
+70d583fa-0d26-4c69-9104-4f3fa2e5c6b2,Business debt and bankruptcy,/business-and-industry/business-debt-and-bankruptcy,/business-and-industry/running-a-business
+3a9aaf5a-71f0-4c10-8f1c-f7204fb1f42f,Licences and special rules,/business-and-industry/business-exports-licences-and-special-rules,/business-and-industry/exporting
+ecf2842c-9867-4832-a543-cbd6bb602441,Community interest companies,/business-and-industry/community-interest-companies,/business-and-industry/charities-and-social-enterprises
+33dbf2f2-fa97-426d-ad8c-f122ce45bff8,"Company closure, administration, liquidation and insolvency ",/business-and-industry/company-closure-administration-liquidation-and-insolvency,/business-and-industry/limited-companies-and-partnerships
+34cf345a-376f-4e21-9943-83e34fe3924f,Company names,/business-and-industry/company-names,/business-and-industry/limited-companies-and-partnerships
+f07a8140-bdbd-413e-ab29-c674d4ff86cd,Overseas companies and European companies,/business-and-industry/company-registration-filing-running-company-overseas-companies-and-european-companies,/business-and-industry/limited-companies-and-partnerships
+d05664e3-a36e-49f7-9816-da3705744bc8,Partnerships,/business-and-industry/company-registration-filing-running-company-partnerships,/business-and-industry/limited-companies-and-partnerships
+6dd72aee-6f0a-47ab-9241-ce2437b17050,Digital trade,/business-and-industry/digital-trade,/business-and-industry/trade-and-investment
+5be96f74-1b8d-4849-b4f6-c970508c6e39,Directorship disqualification,/business-and-industry/directorship-disqualification,/business-and-industry/limited-companies-and-partnerships
+ca96e6ea-47a1-41d1-8abb-f47e744fe533,Dismissing staff and redundancies,/business-and-industry/dismissals-redundancies,/business-and-industry/employing-people
+6b1dfdae-cca4-45e2-8ae3-45a3a1e58985,Employing people,/business-and-industry/employing-people,/business-and-industry/running-a-business
+2e7979c0-ca92-4525-bed5-eb1f4bb432fa,Energy demand reduction,/business-and-industry/energy-demand-reduction-in-industry-business-and-the-public-sector,/business-and-industry/business-and-the-environment
+a879e9d3-edfa-4fa0-bc96-510387d1e346,Inward investment,/business-and-industry/inward-investment,/business-and-industry/trade-and-investment
+a6d8ecda-7223-4844-bd0d-d57ea5db4076,Limited companies and partnerships,/business-and-industry/limited-companies-and-partnerships,/business-and-industry/running-a-business
+391f36b7-7f7a-41ea-be62-1a7fa1d2129e,Media and creative industries,/business-and-industry/media-and-creative-industries,/business-and-industry/media-and-communications
+60523578-d302-4ab7-abdb-f76186940f98,Outward investment,/business-and-industry/outward-investment,/business-and-industry/trade-and-investment
+6bdcc233-d8bb-4492-8c7c-7d5a94f35881,Payroll,/business-and-industry/payroll,/business-and-industry/employing-people
+37249fae-71c5-46ce-8303-24b3f4b97009,Regional growth fund,/business-and-industry/regional-growth-fund,/business-and-industry/uk-economy
+a506db69-3c32-4a18-9d21-8e281783c003,Running a business,/business-and-industry/running-a-business,/business-and-industry
+1a96cd00-0740-42f2-8b5c-91b784b08fec,Fundraising,/business-and-industry/running-charity-fundraising,/business-and-industry/charities-and-social-enterprises
+9f476468-7220-44e6-844a-0276fbe4cc7e,Research and development,/business-and-industry/research-and-development,/business-and-industry/science-and-innovation
+a678501c-3709-42e8-8eaf-de08d08310af,Trustee role and board,/business-and-industry/running-charity-trustee-role-board,/business-and-industry/charities-and-social-enterprises
+95016e85-4482-4fe2-9ee3-293dd096530e,Sale of goods and services and data protection,/business-and-industry/sale-goods-services-data,/business-and-industry/business-regulation
+c1cc0786-e9ea-4c67-bca6-42333a1616eb,Space,/business-and-industry/space,/business-and-industry/science-and-innovation
+1084687f-097f-451d-84bb-575c808df822,State aid,/business-and-industry/state-aid,/business-and-industry/business-regulation
+c21bf946-fced-435f-9279-cbb43ab6ab49,Trade barriers,/business-and-industry/trade-barriers,/business-and-industry/trade-and-investment
+350e2de1-c47d-4ed8-a7c4-7e5c3fc7925c,Early years curriculum (0 to 5),/childcare-parenting/Early-years-curriculum-0-to-5,/childcare-parenting/providing-childcare
+1506121f-15fc-493b-812d-6f2f5b8785cf,Data collection for safeguarding and child protection,/childcare-parenting/data-collection-safeguarding-child-protection,/childcare-parenting/safeguarding-child-protection
+3c9cec43-2f45-45e5-ae9b-fbe215dbb7c5,Child abduction and cross-border child protection,/childcare-parenting/child-abduction-cross-border-child-protection,/childcare-parenting/safeguarding-child-protection
+7d029ad3-fa5d-4804-8ee3-8fe44999698a,Becoming a children's social care provider,/childcare-parenting/becoming-a-childrens-social-care-provider,/childcare-parenting/childrens-social-care-providers
+bf334849-f592-4d3d-b6e5-250363db6895,"Adoption, fostering and surrogacy",/childcare-parenting/adoption-fostering-and-surrogacy,/childcare-parenting
+db0a9b6a-4e3c-4e84-99d6-e3d558e185a6,Data collection for early years and childcare,/childcare-parenting/data-collection-for-early-years-and-childcare,/childcare-parenting/childcare-and-early-years
+8b889b4e-26a9-45fa-aeab-c00ca094049d,Child benefit,/childcare-parenting/child-benefit,/childcare-parenting/financial-help-if-you-have-children
+5860cb32-ac80-4b66-a466-36e24f14809d,Child custody,/childcare-parenting/child-custody,/childcare-parenting/divorce-separation-and-legal-issues
+950961d0-ab21-405b-829d-fa15081d3677,Child maintenance,/childcare-parenting/child-maintenance,/childcare-parenting/divorce-separation-and-legal-issues
+86cd2033-39f9-455f-8261-7fc16f306e1a,Children's homes and other accommodation,/childcare-parenting/childrens-homes-and-other-accommodation,/childcare-parenting/looked-after-children-children-in-care
+f20ac60e-4005-4a81-be8d-ff8d0795ac35,Children and young people leaving care,/childcare-parenting/children-and-young-people-leaving-care,/childcare-parenting/looked-after-children-children-in-care
+cf57c3c2-072d-4063-990a-c20978e74287,Children's rights,/childcare-parenting/childrens-rights,/childcare-parenting/childrens-health-and-welfare
+1a141214-185f-4050-8620-3f59b807aa2a,Data collection for looked-after children,/childcare-parenting/data-collection-for-looked-after-children,/childcare-parenting/looked-after-children-children-in-care
+f10a2732-7087-48f9-ae55-d1040381dc7f,Disagreements about parentage,/childcare-parenting/disagreements-about-parentage,/childcare-parenting/divorce-separation-and-legal-issues
+24c84e7e-c4ab-47d4-b97b-48659de0a262,Early years census,/childcare-parenting/early-years-census,/childcare-parenting/data-collection-for-early-years-and-childcare
+e502360e-f2d7-45d5-91a5-2c66fec91479,"Health, wellbeing and education of looked-after children",/childcare-parenting/health-wellbeing-and-education-of-looked-after-children,/childcare-parenting/looked-after-children-children-in-care
+ce5cc40f-fd13-4745-adf6-9f32c735e862,Early years foundation stage profile return,/childcare-parenting/early-years-foundation-stage-profile-return,/childcare-parenting/data-collection-for-early-years-and-childcare
+24aa2c18-29da-43a8-83e9-db8d4fdace06,Surrogacy,/childcare-parenting/surrogacy,/childcare-parenting/adoption-fostering-and-surrogacy
+a1235eb5-e53c-4b96-b3c5-6eabbb176cad,Financial help if you have a disabled child,/childcare-parenting/financial-help-if-you-have-a-disabled-child,/childcare-parenting/financial-help-if-you-have-children
+05c1bdd1-a067-4554-bebb-40bd25490dbd,Financial help if you're a student with children,/childcare-parenting/financial-help-if-youre-a-student-with-children,/childcare-parenting/financial-help-if-you-have-children
+5d20b2d7-634a-414e-9ada-372277b816b3,Financial help when having a baby,/childcare-parenting/financial-help-when-having-a-baby,/childcare-parenting/financial-help-if-you-have-children
+8393ed89-70ea-49d6-8782-596b6dc2acc6,Financial support for childcare,/childcare-parenting/financial-support-for-childcare,/childcare-parenting/financial-help-if-you-have-children
+70475aff-38dc-46a5-8429-cd83ddb95a7d,Finding childcare,/childcare-parenting/finding-childcare,/childcare-parenting/childcare-and-early-years
+d3b276f5-1942-42b8-876d-d8eda303de1a,Inspections of fostering and adoption agencies,/childcare-parenting/inspections-fostering-adoption-agencies,/childcare-parenting/inspection-of-childrens-social-care-providers
+fc9ae738-8763-4230-a4ce-4133210de4ed,Funding and finance for childcare providers,/childcare-parenting/funding-and-finance-for-childcare-providers,/childcare-parenting/providing-childcare
+4e5cc6e3-1fa4-431a-bffa-d5ec8ec847fd,Local authorities and early years,/childcare-parenting/local-authorities-early-years,/childcare-parenting/childcare-and-early-years
+eebd6033-e599-49e0-a80a-4113f97980ce,Help for children with a long-term illness or disability,/childcare-parenting/help-for-children-with-a-long-term-illness-or-disability,/childcare-parenting/childrens-health-and-welfare
+94ca4f2f-46ae-4be4-b842-b18256417ed1,"Incidents, concerns and feedback about children's social care providers",/childcare-parenting/incidents-concerns-feedback-about-childrens-social-care-providers,/childcare-parenting/inspection-of-childrens-social-care-providers
+47f03f43-5700-4526-a04d-9e90978d948b,Inspections of local authority children's services,/childcare-parenting/inspections-of-local-authority-childrens-services,/childcare-parenting/inspection-of-childrens-social-care-providers
+a46e634c-fbd4-4aa0-9660-8c6050626b6b,Intercountry adoption,/childcare-parenting/intercountry-adoption,/childcare-parenting/adoption-fostering-and-surrogacy
+6c28432c-d744-48dc-ac6f-15e63465796d,Broadband investment,/business/broadband-investment,/business-and-industry/media-and-communications
+910f06d9-af20-43a1-a9d6-f125c8f96cbc,Commodity codes and reporting,/business/business-exports-commodity-codes-and-reporting,/business-and-industry/customs-declarations-duties-tariffs
+dd6f3f34-47a9-4287-9bf3-60673adeecdf,Commodity codes and reporting,/business/business-imports-commodity-codes-and-reporting,/business-and-industry/importing
+f7d81a3e-31ef-41d0-a32c-f3e6f036e5d9,Wood packaging,/business/business-imports-wood-packaging,/business-and-industry/importing
+3d715d5f-1f20-4235-bade-a50a83623d8d,Get goods through customs,/business/business-tax-import-export-get-goods-through-customs,/business-and-industry/customs-declarations-duties-tariffs
+c6332072-57c2-4ccf-9ad7-503fcc189d9e,Exchange rates,/business/business-tax-import-export-exchange-rates,/business-and-industry/customs-declarations-duties-tariffs
+0807288a-48a4-41d4-98ac-f747c4e869b5,Company law reform,/business/company-law-reform,/business-and-industry/regulation-reform
+47d2aa37-3f7e-4bde-a030-eea2971bc9d2,Markets,/business/competition-markets,/business/competition
+ca9203be-1502-4d13-9307-c35bec6635eb,Consumer credit market,/business/consumer-credit-market,/business-and-industry/consumer-rights-and-issues
+e1bf38a8-b2e6-4a68-9845-bb3c792783ca,Consumer protection,/business/consumer-protection,/business-and-industry/consumer-rights-and-issues
+5fbeb115-e112-45d8-9ca1-825e5aeae474,Copyright,/business/copyright,/business/intellectual-property
+c3f382ad-8f74-4fea-b522-246c5797f841,Designs,/business/designs,/business/intellectual-property
+0a6ffdc0-f32f-4608-a974-f1c005b7bdfb,Economic development in coastal and seaside areas,/business/economic-development-in-coastal-and-seaside-areas,/business/uk-economic-growth
+ea3bb184-8d5a-4449-a598-502e068bd626,Drought and water availability,/business/environmental-management-water-drought-and-water-availability,/environment/water-management
+21aca707-f39a-4dcd-8703-4c1e5af151dd,Business finance and support,/business/finance-support,/business-and-industry/running-a-business
+b56b0d59-e580-4926-aac1-7a056e5b91c0,Financial services regulation,/business/financial-services-regulation,/business-and-industry/financial-services
+fb04a74a-01fd-478d-b4b6-461ef273412b,Local Enterprise Partnerships (LEPs) and Enterprise Zones,/business/local-enterprise-partnerships-leps-and-enterprise-zones,/business/uk-economic-growth
+a1dd73ac-71de-4433-a356-e5410f0f31fd,Management of the European Regional Development Fund,/business/management-of-the-european-regional-development-fund,/business/uk-economic-growth
+43f586d7-dbc2-47b5-8a89-031f768a1478,Patents,/business/patents,/business/intellectual-property
+11a43969-3437-425a-9b5c-b99176600ca1,Trade marks,/business/trade-marks,/business/intellectual-property
+e45336e9-203d-4bd6-ae16-6e316e76bf5a,Financial help if you have children,/childcare-parenting/financial-help-if-you-have-children,/childcare-parenting
+38f1aa3f-b677-4406-960f-8d3db6e7b1d9,Sexual and reproductive health,/health-and-social-care/sexual-and-reproductive-health,/health-and-social-care/public-health
+ffd30c89-7d06-4877-87f5-4e3f201ef2f3,Armed Forces Covenant,/defence-and-armed-forces/armed-forces-covenant,/defence-and-armed-forces
+56c6d43e-80db-4074-b899-bccae9452cc6,Weapons proliferation,/defence-and-armed-forces/weapons-proliferation,/defence-and-armed-forces
+bab7b2f2-c2f1-4e02-b165-79abce9b7251,Honours and awards,/defence/defence-armed-forces-military-awards-commemorations-honours-and-awards,/defence/military-awards-commemorations
+9ffd18ce-b9b4-43d6-a99a-b1f48ebefe2d,Medals,/defence/defence-armed-forces-military-awards-commemorations-medals,/defence/military-awards-commemorations
+56cdeec4-5fd3-4c48-af69-c46eabb914bc,Looked-after children and children in care,/childcare-parenting/looked-after-children-children-in-care,/childcare-parenting/safeguarding-and-social-care-for-children
+19c58e69-b549-4ea3-9b37-0d482278ee1c,Mental health of children and young people,/childcare-parenting/mental-health-of-children-and-young-people,/childcare-parenting/childrens-health-and-welfare
+120812f9-2f98-4ca4-aeb2-b9ecc1bba60e,Performance and inspection of childcare providers,/childcare-parenting/performance-and-inspection-of-childcare-providers,/childcare-parenting/providing-childcare
+b45ed0f9-38ed-4f04-ba66-869b4c366bb7,Pregnancy and birth,/childcare-parenting/pregnancy-and-birth,/childcare-parenting
+3e1cf705-8bba-4dcd-909b-0c17f57ad473,"Preventing neglect, abuse and exploitation",/childcare-parenting/preventing-neglect-abuse-and-exploitation,/childcare-parenting/safeguarding-child-protection
+f901cd41-f3a6-4cb5-84e7-3cafd406a812,Recruiting and managing early years staff,/childcare-parenting/recruiting-and-managing-early-years-staff,/childcare-parenting/providing-childcare
+96ff4be4-3949-49ba-842a-315a47360cb7,Register the birth of a child,/childcare-parenting/register-the-birth-of-a-child,/childcare-parenting/pregnancy-and-birth
+a41c60b4-7366-4d77-8aaa-4f4cde9acc93,Safeguarding and child protection,/childcare-parenting/safeguarding-child-protection,/childcare-parenting/safeguarding-and-social-care-for-children
+8f16cb58-51a8-472f-9c14-1667385f1a10,Savings accounts for children,/childcare-parenting/savings-accounts-for-children,/childcare-parenting/financial-help-if-you-have-children
+66ceadea-c7ad-4dcf-93ee-51994ca234e1,Serious case reviews,/childcare-parenting/serious-case-reviews,/childcare-parenting/safeguarding-child-protection
+e24cbd5f-9b90-4273-b117-3191848f189e,Social care provider complaints,/childcare-parenting/social-care-provider-complaints,/childcare-parenting/childrens-social-care-providers
+d06369a7-37a2-4694-842a-bf4fe0b57c98,Special guardianship,/childcare-parenting/special-guardianship,/childcare-parenting/adoption-fostering-and-surrogacy
+3c79ed8f-03c3-491b-bf03-6d189aef70c0,Support for children with special educational needs and disabilities (SEND),/childcare-parenting/support-for-children-with-send,/childcare-parenting/childrens-health-and-welfare
+95825781-7376-46eb-8c8f-352cee0a1307,Tax credits if you have children,/childcare-parenting/tax-credits-if-you-have-children,/childcare-parenting/financial-help-if-you-have-children
+b910e66d-71a5-425e-a7fd-5f78f54208d7,Youth employment and social issues,/childcare-parenting/youth-employment-and-social-issues,/childcare-parenting
+4b4b1bd5-fc57-4dc0-9fff-3335c85575e3,Administrative justice reform,/crime-justice-and-law/administrative-justice-reform,/crime-justice-and-law
+337a7da6-9289-4fb6-856f-06ea27d114a2,Attorney General guidance to the legal profession,/crime-justice-and-law/attorney-general-guidance-to-legal-profession,/crime-justice-and-law
+6da7272a-cf5f-4a3e-9377-d29b5ab7005d,Byelaws,/crime-justice-and-law/byelaws,/crime-justice-and-law
+8a95bd4f-46f8-4840-8ecf-0dce8422c7a8,Civil justice reform,/crime-justice-and-law/civil-justice-reform,/crime-justice-and-law
+651db30d-59b5-4ab6-a69d-a8dfcb7f6e72,Counter-extremism ,/crime-justice-and-law/counter-extremism,/crime-justice-and-law
+9ee777df-c760-46da-8325-60df66d703d3,Patents,/crime-justice-and-law/intellectual-property-law-practice-patents,/crime-justice-and-law/law-practice
+fc89f283-a1b8-48f2-9c49-a8f6f90347fa,Family justice system,/crime-justice-and-law/family-justice-system,/crime-justice-and-law
+9f0bcdc7-0559-4f62-ad98-2765a383f9ff,Forced marriage,/crime-justice-and-law/forced-marriage,/crime-justice-and-law
+24ff7f92-38d8-4aca-a18e-f22c8d46a218,Copyright,/crime-justice-and-law/intellectual-property-law-practice-copyright,/crime-justice-and-law/law-practice
+f63313e5-6988-44c3-8054-ee19d0eb7a4f,Designs,/crime-justice-and-law/intellectual-property-law-practice-designs,/crime-justice-and-law/law-practice
+3359a700-6ec9-493d-939c-74f4bd9fd850,Trade marks,/crime-justice-and-law/intellectual-property-law-practice-trade-marks,/crime-justice-and-law/law-practice
+30576a70-1a31-4021-9632-30b622af23ae,Justice system transparency,/crime-justice-and-law/justice-system-transparency,/crime-justice-and-law
+0ea13a19-1872-4a0e-a834-c9a5b3b4cb24,Legal aid,/crime-justice-and-law/legal-aid-for-providers,/crime-justice-and-law
+a96ac150-d011-452a-8d82-952bfa8d4885,Crime,/crime-justice-and-law/legal-aid-for-providers-crime,/crime-justice-and-law/legal-aid-for-providers
+2e590443-5c16-485e-99c5-a506cd215e79,Electronic working,/crime-justice-and-law/legal-aid-for-providers-electronic-working,/crime-justice-and-law/legal-aid-for-providers
+eca59ee6-0e25-447f-8825-934d135cdb66,High cost and complex cases,/crime-justice-and-law/legal-aid-for-providers-high-cost-complex-cases,/crime-justice-and-law/legal-aid-for-providers
+4e8e8d32-8a55-4895-8a4d-d98ef1b5f477,Payments and processing,/crime-justice-and-law/legal-aid-for-providers-payments-processing,/crime-justice-and-law/legal-aid-for-providers
+52f9ba56-4c65-4f8a-b7ec-d33dfda141c1,Tenders,/crime-justice-and-law/legal-aid-for-providers-tenders,/crime-justice-and-law/legal-aid-for-providers
+d650ad87-4bb9-4d18-a65b-1193788567a8,Art collection,/defence/defence-armed-forces-ministry-of-defence-estate-art-collection,/defence/ministry-of-defence-estate
+0dfba795-f8d5-49a4-8a8e-7aa41629568b,Film locations,/defence/defence-armed-forces-ministry-of-defence-estate-film-locations,/defence/ministry-of-defence-estate
+2e177fa0-e89f-48d8-adeb-788ff3063844,Military crash sites,/defence/defence-armed-forces-ministry-of-defence-estate-military-crash-sites,/defence/ministry-of-defence-estate
+5ba08c48-0bbe-40e4-8762-b2d40d6ae814,Public access,/defence/defence-armed-forces-ministry-of-defence-estate-public-access,/defence/ministry-of-defence-estate
+58aaca49-18a5-4a3f-829c-1d1a252ff550,Sale of land,/defence/defence-armed-forces-ministry-of-defence-estate-sale-of-land,/defence/ministry-of-defence-estate
+ebb71d8f-e3c0-4495-9ba7-e0bebe6fcdb5,British Forces Post Office,/defence/defence-armed-forces-support-services-military-defence-personnel-families-british-forces-post-office,/defence/support-services-military-defence-personnel-families
+e0ec5635-9591-4c1a-8410-dc0d60625717,Housing and accommodation,/defence/defence-armed-forces-support-services-military-defence-personnel-families-housing-and-accommodation,/defence/support-services-military-defence-personnel-families
+e882c99d-6064-4f4f-8d93-be8d19ed64a8,International defence commitments,/defence/international-defence-commitments,/defence-and-armed-forces
+3fb97b13-7555-46e0-8e6e-2b32d1b63628,"Military equipment, logistics and technology",/defence/military-equipment-logistics-technology,/defence-and-armed-forces
+394bccea-0a30-44c9-b8e7-da5f708a3b47,Nuclear disarmament,/defence/nuclear-disarmament,/defence-and-armed-forces
+441fbbf0-51c4-4b83-abbe-b9049ec5480b,Stability in the Western Balkans,/defence/stability-in-the-western-balkans,/defence-and-armed-forces
+cb7906c1-7162-47d1-bc13-d986a17b7718,Support services for military and defence personnel and their families,/defence/support-services-military-defence-personnel-families,/defence-and-armed-forces
+a5894357-233d-48e7-9c23-55633db35414,Armed forces,/defence/working-armed-forces,/defence-and-armed-forces
+4216fb36-895b-4031-a848-fb84ae195bda,Data protection,/crime-justice-and-law/data-protection,/crime-justice-and-law
+dcd94ff7-8746-437c-9d5c-c1714e9f2f62,Armed forces and Ministry of Defence reform,/defence/armed-forces-and-ministry-of-defence-reform,/defence-and-armed-forces
+5c7a2982-0f93-448c-922c-ff29cfa80519,Digital identity,/government/digital-identity,/government/cyber-security
+13ee2c5e-8efe-4d63-8162-0d82a9eccdd2,Diabetes,/health-and-social-care/diabetes,/health-and-social-care/health-conditions
+acd2fa0b-5eaf-4e17-905e-cd2e022d9784,Obesity,/health-and-social-care/obesity,/health-and-social-care/health-conditions
+97b01132-7d83-4b18-a086-ff517a3cd78f,Exporting,/business-and-industry/exporting,/business-and-industry/trade-and-investment
+9ee6c440-a59a-4efb-b5d1-fe933d1d341f,Radiation protection,/health-and-social-care/health-protection-radiation,/health-and-social-care/health-protection
+ae4460d4-f1a9-4152-9439-3fe97a23a05a,Employers' associations,/work/employers-associations,/work
+8ed1b60c-5fdb-4275-adf9-89ebadfaa7ee,Non-bovine tuberculosis (non-bovine TB),/environment/non-bovine-tuberculosis,/environment/keeping-farmed-animals
+20df7a1a-2638-41a9-875c-1e2d7cf2122a,Ministry of Defence estate,/defence/ministry-of-defence-estate,/defence-and-armed-forces
+f6f9a624-0af5-40e0-ae85-824e9db19f91,Constitutional affairs,/government/constitutional-reform,/government/democracy
+09f49c9d-28b5-4c0c-b1a0-4411f774f918,Product safety,/business-and-industry/product-safety,/business-and-industry/business-regulation
+747fd470-bcbc-4d54-8932-0ddbf4b81516,Children's social care providers,/childcare-parenting/childrens-social-care-providers,/childcare-parenting/safeguarding-and-social-care-for-children
+d09b0688-1c61-4e23-8e5e-39c2f407a47b,"Refugee, runaway and homeless children",/childcare-parenting/refugee-runaway-and-homeless-children,/childcare-parenting/safeguarding-child-protection
+79247c11-1c79-4fdb-b8bd-4b24b6309964,School and academy financial management and assurance,/education/school-and-academy-financial-management-and-assurance,/education
+1db92af7-fe38-43f3-acfb-239b11a6499c,"Apprenticeships, traineeships and internships",/education/apprenticeships-traineeships-and-internships,/education/further-and-higher-education-skills-and-vocational-training
+1a733d4e-7275-4079-b231-b417611147ee,Academy and academy trust finance and reporting,/education/academy-and-academy-trust-finance-and-reporting,/education/school-and-academy-financial-management-and-assurance
+8efeae62-f781-41d1-9778-927185e1ab77,Academy funding,/education/academy-funding,/education/funding-for-different-types-of-schools-and-settings
+09f0acb6-49c0-48b2-9c69-8524039d06a8,Alternative provision and pupil referral units,/education/alternative-provision-and-pupil-referral-units,/education/pupil-wellbeing-behaviour-and-attendance
+2a0e5deb-69ab-43bf-ad34-c68441e56772,Alternative provision censuses,/education/alternative-provision-censuses,/education/data-collection-and-censuses-for-schools
+f876f08a-35a2-4222-95cb-25d36f1f7331,Alternative provision funding,/education/alternative-provision-funding,/education/funding-for-different-types-of-schools-and-settings
+7ed95b22-3457-44eb-b933-2352afc6336a,Financial management for further education providers,/education/financial-management-for-further-education-providers,/education/further-education-financial-management-and-data-collection
+35abce5a-0047-4d34-886f-cc72b4dded3f,Apprenticeships funding,/education/apprenticeships-funding,/education/further-education-funding
+bf58010d-bdf4-487b-b47f-dcf82ca19b75,AS and A level changes and reforms,/education/as-and-a-level-changes-and-reforms,/education/key-stage-5-as-and-a-levels
+df2e0226-38c2-4547-9976-958a4b930443,AS and A level subject content and requirements,/education/as-and-a-level-subject-content-and-requirements,/education/key-stage-5-as-and-a-levels
+5f2d90c2-3504-4908-9a81-3dba7733bf2e,Further education buildings and land,/education/further-education-building-and-premises,/education/further-education-funding
+bb95433e-97e5-4948-8803-8cf462942634,Becoming an apprentice,/education/becoming-an-apprentice,/education/apprenticeships-traineeships-and-internships
+2fbea583-6eda-4504-beda-4ed4089eaa77,Becoming an intern or trainee,/education/becoming-an-intern-or-trainee,/education/apprenticeships-traineeships-and-internships
+fbf1b9b1-a0f5-426e-ac83-afc61b1a0264,Careers guidance in schools,/education/careers-guidance-in-schools,/education/running-and-managing-a-school
+6fb75520-368d-41cf-9921-034967ab0227,Dance and drama funding for 16 to 19 year olds,/education/dance-and-drama-funding-for-16-to-19-year-olds,/education/further-education-funding
+9c634b47-0c13-4e2f-b1d8-2e6fec45b107,Data collection and censuses for schools,/education/data-collection-and-censuses-for-schools,/education/running-and-managing-a-school
+ddb0ddaf-0e4b-486c-b9d7-cc438e846af0,Early years curriculum,/education/early-years-curriculum,/education/school-curriculum
+26e020c3-11e8-41b8-8567-0b7326dd80fb,Early years funding,/education/early-years-funding,/education/funding-for-different-types-of-schools-and-settings
+199a9c4c-caf0-4122-b3fa-829afcbb970c,Education in prisons,/education/education-in-prisons,/education/further-and-higher-education-skills-and-vocational-training
+6f2c26bd-d55c-4e56-ae61-0a0a645d7e82,Education of disadvantaged children,/education/education-of-disadvantaged-children,/education
+6014cff5-bf2f-4972-9253-0953c689b1ba,European Social Fund (ESF) and skills funding,/education/european-social-fund-esf-and-skills-funding,/education/further-education-funding
+2d709dfc-2217-414d-bd46-6d4eaa02c976,Financial help for students who are parents or carers,/education/financial-help-for-students-who-are-parents-or-carers,/education/funding-and-finance-for-students
+11c19dcf-0faf-417d-8777-1b6d189bf3c0,Free meals for 16 to 18 year olds,/education/free-meals-for-16-to-18-year-olds,/education/further-education-funding
+b4220a5c-8d41-4261-9ec0-bda46abe3192,Free school meals (FSM) funding ,/education/free-school-meals-fsm-funding,/education/school-and-academy-funding
+1a58543c-ea28-424d-914e-4db3970fa463,Functional skills,/education/functional-skills,/education/further-and-higher-education-courses-and-qualifications
+90182f52-9c6d-4315-90cb-33bb47546ab9,Funding for different types of schools and settings,/education/funding-for-different-types-of-schools-and-settings,/education/school-and-academy-funding
+4d4576ed-ea0e-4c58-b905-e63859d63c0a,Inspection of British schools overseas,/education/inspection-of-british-schools-overseas,/education/inspection-and-performance-of-schools
+572d0288-2e5b-4008-ba7b-1b09eab19ec5,Funding for high needs,/education/funding-for-high-needs,/education/special-educational-needs-and-disability-send-and-high-needs
+1216bf3d-0a1d-4ba8-b622-b011e93b0401,Funding for school buildings and land,/education/funding-for-school-buildings-and-land,/education/school-and-academy-funding
+b23be19b-7a1c-4626-840f-512cd8bf3682,Funding for school places,/education/funding-for-school-places,/education/school-and-academy-funding
+c63e4bf7-9b82-42ca-9ee3-0fc432616eaa,Funding for special educational needs and disability (SEND),/education/funding-for-special-educational-needs-and-disability-send,/education/special-educational-needs-and-disability-send-and-high-needs
+51214c9d-4772-49a8-bc84-e2df1085775a,Further education funding data,/education/further-education-funding-data,/education/further-education-funding
+2073e380-1d32-451d-90e2-ae0ebadaa679,Further education intervention notices and reports,/education/further-education-intervention-notices-and-reports,/education/inspection-and-performance-of-further-education-providers
+79c1ea53-9586-4d4e-83e9-618888d12c0e,Further education provider performance measures,/education/further-education-provider-performance-measures,/education/inspection-and-performance-of-further-education-providers
+80fdc1b6-7daf-4fb4-91c4-f1bb58d3c44e,GCSE changes and reforms,/education/gcse-changes-and-reforms,/education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses
+2f37d459-115f-49fd-98c1-6e0e4f27f219,Inspection and performance of further education providers,/education/inspection-and-performance-of-further-education-providers,/education/inspections-and-performance-of-education-providers
+0c0449a5-6018-4fa0-b670-7d104cb64f03,GCSE subject content and requirements,/education/gcse-subject-content-and-requirements,/education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses
+97d9673d-87d0-4811-8873-fcabfec2b006,General hospital school censuses,/education/general-hospital-school-censuses,/education/data-collection-and-censuses-for-schools
+541793dd-8838-4b5e-b9e3-27c661d0248b,"Health, safety and wellbeing in schools",/education/health-safety-and-wellbeing-in-schools,/education/pupil-wellbeing-behaviour-and-attendance
+3159d9b5-9452-4366-8742-d64a7ba9a797,Help with school costs,/education/help-with-school-costs,/education/starting-and-attending-school
+d1a39d33-582a-4775-9962-606d5e600f91,Hiring and training an apprentice,/education/hiring-and-training-an-apprentice,/education/apprenticeships-traineeships-and-internships
+6c2e7231-f85e-472b-b41f-04d8f6b09709,Hiring and training an intern or trainee,/education/hiring-and-training-and-intern-or-trainee,/education/apprenticeships-traineeships-and-internships
+61dda0ee-6c05-403c-b389-db71884effb1,Inspection of further education and skills providers,/education/inspection-of-further-education-and-skills-providers,/education/inspection-and-performance-of-further-education-providers
+a35f7eba-a69d-42e9-a9e8-49b8d853a029,Home schooling,/education/home-schooling,/education/starting-and-attending-school
+302083e9-470f-4d38-b87d-87f22955df39,Initial Teacher Training funding,/education/initial-teacher-training-funding,/education/school-and-academy-funding
+65b9647a-c86f-4963-9e88-7a80c9f95557,Initial Teacher Training (ITT),/education/initial-teacher-training-itt,/education/teacher-training-and-professional-development
+706f55ff-e771-4412-8833-ad2ab1140712,Inspection of independent schools,/education/inspection-of-independent-schools,/education/inspection-and-performance-of-schools
+4ec729bb-00c9-4e35-bf8e-8e0b439ebbba,Inspection of local authority support for schools,/education/inspection-of-local-authority-support-for-schools,/education/inspection-and-performance-of-schools
+5176c4e4-d08a-4cb3-a36b-d3b4217eff40,Inspection of maintained schools and academies,/education/inspection-of-maintained-schools-and-academies,/education/inspection-and-performance-of-schools
+cfef0a4e-c693-4205-80a8-456bbc4bf089,Inspection of non-maintained schools,/education/inspection-of-non-maintained-schools,/education/inspection-and-performance-of-schools
+754d5351-1771-474f-b953-c3c59b461b66,Performance data and Ofsted reports of further education providers,/education/performance-data-and-ofsted-reports-of-further-education-providers,/education/inspection-and-performance-of-further-education-providers
+0cca49e7-3294-4ce8-b9c7-072f495955f4,Inspection of residential provision in further education colleges,/education/inspection-of-residential-provision-in-further-education-colleges,/education/inspection-and-performance-of-further-education-providers
+28df2320-fe48-4995-baf0-0f296e18a8ab,Inspections and performance of education providers,/education/inspections-and-performance-of-education-providers,/education
+03268927-5ff1-48bb-a948-106fd20bc802,Key stage 1 and 2 assessments data collection,/education/key-stage-1-and-2-assessments-data-collection,/education/data-collection-and-censuses-for-schools
+34b253c8-9033-407a-b748-c029d00dbb49,"Key stage 3 and 4 exam marking, qualifications and results",/education/key-stage-3-and-4-exam-marking-qualifications-and-results,/education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses
+6207dd65-45e2-43df-bb67-c303b5ea556a,Key stage 5 (AS and A Levels),/education/key-stage-5-as-and-a-levels,/education/school-curriculum
+a943403f-7fb7-4ae4-b8d4-be356733b2ff,"Key stage 5 exam marking, qualifications and results",/education/key-stage-5-exam-marking-qualifications-and-results,/education/key-stage-5-as-and-a-levels
+1edd7c53-991d-49b4-8573-a2bb05d61c2e,"Pupil wellbeing, behaviour and attendance",/education/pupil-wellbeing-behaviour-and-attendance,/education
+a2bd7fe0-ef32-4041-ac30-5990940cfed6,Learning Records Service (LRS),/education/learning-records-service-lrs,/education/further-and-higher-education-skills-and-vocational-training
+72244cf7-8d58-430b-ad67-cdb56bf4d14e,Local authority further education financial reporting and assurance,/education/local-authority-further-education-financial-reporting-and-assurance,/education/further-education-financial-management-and-data-collection
+ab119d7a-df10-4514-9e19-dae40d9b3bae,Local authority schools financial reporting and assurance,/education/local-authority-schools-financial-reporting-and-assurance,/education/school-and-academy-financial-management-and-assurance
+eb84ac26-209d-4089-b043-3186efac07b6,Local authority schools funding,/education/local-authority-schools-funding,/education/funding-for-different-types-of-schools-and-settings
+23a4b289-98fd-4a6b-86a5-ecb69eb4a24b,Parental responsibility measures attendance censuses,/education/parental-responsibility-measures-attendance-censuses,/education/data-collection-and-censuses-for-schools
+92308b68-643c-4777-96f5-108db367dc5c,"Personal, social, health and economic education",/education/personal-social-health-and-economic-education,/education/school-curriculum
+9166abb8-40e8-4b80-91fa-e8d061d5b7d1,Phonics screening checks,/education/phonics-screening-checks,/education/data-collection-and-censuses-for-schools
+a124be08-4ad5-484f-ab7a-9ef7c4577847,Science (key stage 1),/education/primary-curriculum-key-stage-1-science,/education/primary-curriculum-key-stage-1
+656daf5e-4bfc-44cf-8043-c139d51ad724,"Primary curriculum, key stage 2",/education/primary-curriculum-key-stage-2,/education/school-curriculum
+ad1be012-723b-4898-a6ac-8dce829f89de,Tests and assessments (key stage 1),/education/primary-curriculum-key-stage-1-tests-and-assessments,/education/primary-curriculum-key-stage-1
+734f6c2b-c0e0-44d8-aac8-a99c23032fbd,English (key stage 2),/education/primary-curriculum-key-stage-2-english,/education/primary-curriculum-key-stage-2
+1b429be4-72a3-452c-b6d3-744be4889d55,Programmes of study (key stage 2),/education/primary-curriculum-key-stage-2-programmes-of-study,/education/primary-curriculum-key-stage-2
+c82f457e-90b6-45d5-8487-4a3d0c28d3ff,Science (key stage 2),/education/primary-curriculum-key-stage-2-science,/education/primary-curriculum-key-stage-2
+92de7df6-d00b-4f43-91f2-dc102dc5c422,Tests and assessments (key stage 2),/education/primary-curriculum-key-stage-2-tests-and-assessments,/education/primary-curriculum-key-stage-2
+2c4ccdca-b2d4-4d33-9f39-04d606f5b85e,Principal learning qualifications,/education/principal-learning-qualifications,/education/further-and-higher-education-courses-and-qualifications
+0d7712c0-62b3-4390-a086-1aa152ba956b,Pupil performance in schools,/education/pupil-performance-in-schools,/education/inspection-and-performance-of-schools
+73f63e9f-da1e-4be8-a67e-35a1dff04956,Pupil premium and other school premiums ,/education/pupil-premium-and-other-school-premiums,/education/school-and-academy-funding
+b1e4ccd8-0722-4e05-a64e-bb8099da01dd,Qualified Teacher Status (QTS),/education/qualified-teacher-status-qts,/education/teacher-training-and-professional-development
+f19dcb9d-0ed4-44dc-8619-b1285f8806bd,Recruiting and managing non-teaching school staff,/education/recruiting-and-managing-non-teaching-school-staff,/education/running-and-managing-a-school
+560cdc86-f450-47da-aa91-344267b8c0c3,Special educational needs surveys,/education/special-educational-needs-surveys,/education/data-collection-and-censuses-for-schools
+bccc0785-b965-4224-8321-89f8e003413e,Running a further or higher education institution,/education/running-a-further-or-higher-education-institution,/education/further-and-higher-education-skills-and-vocational-training
+b41df987-8c6e-401f-b7c4-c0ae312920d9,Safeguarding pupils,/education/safeguarding-pupils,/education/pupil-wellbeing-behaviour-and-attendance
+9cd3d34c-9544-4a95-b1a9-165982b115d2,School admissions,/education/school-admissions,/education/running-and-managing-a-school
+eb4a15b6-5527-404f-b580-ccd8c5bf3e2b,School attendance and absence,/education/school-attendance-and-absence,/education/pupil-wellbeing-behaviour-and-attendance
+0af3f987-e479-43a5-a1ed-b115fb0088c0,School behaviour and exclusions,/education/school-behaviour-and-exclusions,/education/pupil-wellbeing-behaviour-and-attendance
+ab9b9d3d-9952-4718-b130-26d134849616,School buildings and land,/education/school-buildings-and-land,/education/running-and-managing-a-school
+9c8c1ff8-e814-403a-b770-7a4b156c56db,School buildings and land guidelines,/education/school-buildings-and-land-guidelines,/education/school-buildings-and-land
+aaf547bf-e228-4d55-a3a6-af98b1db87aa,School censuses and school-level annual school censuses (SLASC),/education/school-censuses-and-slasc,/education/data-collection-and-censuses-for-schools
+fdefc40e-37d4-42a6-9069-9ff77e53cbeb,School buildings and land transactions,/education/school-buildings-and-land-transactions,/education/school-buildings-and-land
+38526fbb-2095-44bb-9ff4-b7eaddd09a63,School bullying,/education/school-bullying,/education/pupil-wellbeing-behaviour-and-attendance
+c34f11e4-7b11-45ef-a414-24c224532507,School capacity surveys,/education/school-capacity-surveys,/education/data-collection-and-censuses-for-schools
+63ca6752-d72d-426d-b48d-59a33b5076ed,School complaints and whistleblowing,/education/school-complaints-and-whistleblowing,/education/running-and-managing-a-school
+33c43883-8feb-4766-bc2a-a5a41b4aba02,School Direct funding,/education/school-direct-funding,/education/initial-teacher-training-funding
+65284c4e-4ae3-4760-8ba0-4cbc93162b10,School exclusion reviews,/education/school-exclusion-reviews,/education/data-collection-and-censuses-for-schools
+0561248b-b729-4f16-bdeb-f8f97280b38d,"School food, accommodation, transport and uniform",/education/school-food-accommodation-transport-and-uniform,/education/running-and-managing-a-school
+2b1c2a05-e9fd-46b6-b984-cc23b9d02cc4,School governance,/education/school-governance,/education/running-and-managing-a-school
+b725e996-372a-4593-98b6-d6829c610e1e,School leadership,/education/school-leadership,/education/teacher-training-and-professional-development
+d8754675-989f-4ea6-a02c-83f979466e09,School performance measures,/education/school-performance-measures,/education/inspection-and-performance-of-schools
+e23f8db1-a731-439d-96ea-9163d8ab39d9,School performance tables and Ofsted reports,/education/school-performance-tables-and-ofsted-reports,/education/inspection-and-performance-of-schools
+9a9d63f3-6d35-41eb-b79c-d81618516e1e,School places,/education/school-places,/education/school-buildings-and-land
+48ce2330-0f88-4f72-af86-cd38593b0b09,School planning,/education/school-planning,/education/running-and-managing-a-school
+a6badf29-bfeb-45da-92af-20277f9fcf18,School preference and admission appeals data collection,/education/school-preference-admission-appeals-data-collection,/education/data-collection-and-censuses-for-schools
+817ae71f-3e06-4952-a3af-90d1b5d20e29,School procurement,/education/school-procurement,/education/school-and-academy-financial-management-and-assurance
+2a36b14d-aab7-4c92-b091-15f1042452ee,School-to-school support,/education/school-to-school-support,/education/running-and-managing-a-school
+68e380b4-2f2c-4895-b6be-c8d6b99af706,School trips and extracurricular activity,/education/school-trips-and-extracurricular-activity,/education/running-and-managing-a-school
+5deb901b-8128-455c-9aa2-13ef76a11d9b,School workforce censuses,/education/school-workforce-censuses,/education/data-collection-and-censuses-for-schools
+47090e9c-7ec8-4d06-8aa2-9198222f211c,Schools forums,/education/schools-forums,/education/school-and-academy-funding
+b1bf79e7-e72f-473d-a152-4811bb424156,"Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",/education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses,/education/school-curriculum
+a893a957-cf00-4be0-9eb0-f0f8d953a107,Sending a child to school,/education/sending-a-child-to-school,/education/starting-and-attending-school
+b68281df-91b1-413a-b6d7-a51ab5d5f8b0,Set up a free school,/education/set-up-a-free-school,/education/setting-up-or-changing-the-status-of-a-school
+e4971422-6714-4b5e-a527-1fcb6ab687ad,Set up and develop a multi-academy trust (MAT),/education/set-up-develop-multi-academy-trust,/education/setting-up-or-changing-the-status-of-a-school
+ea433086-f35d-4690-8a7c-89f3572e4442,Set up or convert to an academy,/education/set-up-or-convert-to-an-academy,/education/setting-up-or-changing-the-status-of-a-school
+2f46f24b-098c-4029-87fa-3eddd4728cb7,Setting up or changing the status of a school,/education/setting-up-or-changing-the-status-of-a-school,/education/running-and-managing-a-school
+9f2d2226-d602-465b-b700-f0ec320e823c,Special schools funding,/education/special-schools-funding,/education/funding-for-different-types-of-schools-and-settings
+a9e29437-1767-4e43-a0d3-ceceb573fbea,UK financial sanctions,/business-and-industry/uk-financial-sanctions,/business-and-industry/business-regulation
+59b5219c-b2a5-4a5a-a068-29780421774d,Drink and drug driving,/transport/drink-and-drug-driving,/transport/road-safety-driving-rules-and-penalties
+c13f0923-539c-41ff-a7bc-353da0b23be9,Speeding,/transport/speeding,/transport/road-safety-driving-rules-and-penalties
+1bae6929-26b0-4cb4-bf63-c0e67f4494ed,Driving and mobile phones,/transport/driving-and-mobile-phones,/transport/road-safety-driving-rules-and-penalties
+783bb850-8808-4f61-ae06-52d48d423f3d,Seat belts,/transport/seat-belts,/transport/road-safety-driving-rules-and-penalties
+09d8a2a9-bbf4-4ee5-b9a3-432da78a1434,Marine fisheries,/environment/marine-fisheries,/environment/fishing-fisheries-and-vessels
+21ea0982-056f-44d5-bd4b-f627c0104c9a,Major project management,/government/major-project-management,/government/government-efficiency-transparency-and-accountability
+863781a9-53c7-4d10-8744-d30dbfe84f00,Economic growth,/government/economic-growth,/government/missions
+6715e925-ca20-43ca-8e56-36c51cda2776,Clean energy,/government/clean-energy,/government/missions
+369344f0-f02b-475d-9675-391794f3b30e,Dentistry ,/health-and-social-care/dentistry,/health-and-social-care/public-health
+d20429ff-cb06-4f72-9f8b-fd217f995f93,Legal aid reform,/crime-justice-and-law/legal-aid-reform,/crime-justice-and-law
+d5520772-9c1a-4fd1-825f-9be2ec6bc412,MAPPA,/crime-justice-and-law/prisons-probation-mappa,/crime-justice-and-law/prisons-probation
+a03cd843-6c55-48ba-be00-d0dbecafaafe,Reporting crimes and getting compensation,/crime-justice-and-law/reporting-crimes-compensation,/crime-justice-and-law
+e5032158-56d8-4fad-838b-ea3ac8c75c78,Your rights and the law,/crime-justice-and-law/rights,/crime-justice-and-law
+2a6b605e-d089-49a6-80d5-4bc69af27066,Sentencing reform,/crime-justice-and-law/sentencing-reform,/crime-justice-and-law
+b899e7d2-280a-4c10-8ca9-c56666c900ba,Statutory rights,/crime-justice-and-law/statutory-rights,/crime-justice-and-law
+cdab3c1d-33ec-455a-b8be-7d7568916c5c,Victims of crime,/crime-justice-and-law/victims-of-crime,/crime-justice-and-law
+22206413-da0c-40c4-8255-9403f7051ec2,Young people and the law,/crime-justice-and-law/young-people-and-the-law,/crime-justice-and-law
+849aa378-4061-45be-8bfd-bfd3de0659c4,Data collection for further education providers,/education/data-collection-for-further-education-providers,/education/further-education-financial-management-and-data-collection
+1335bf33-5db7-42e1-b5ee-ebff0044090c,Inspection of boarding and residential schools,/education/inspection-of-boarding-and-residential-schools,/education/inspection-and-performance-of-schools
+28280350-ebe2-438b-81a6-8b300b638e1d,UK Trade Tariff and classification of goods,/business/business-tax-import-export-uk-trade-tariff-and-classification-of-goods,/business-and-industry/customs-declarations-duties-tariffs
+a6af4d06-30ac-49b4-a147-70d3df01a9d6,Early years education,/government/early-years-education,/government/missions
+7fe4414b-1b1f-47b1-b806-ac4f7a70e123,Strong foundations,/government/strong-foundations,/government/missions
+bcb1c84e-6e51-49ab-8c44-88b9fd05967b,Safer Streets,/government/safer-streets,/government/missions
+540e9e28-f26d-4edb-9938-a3adb7b1fd6a,Animal welfare,/environment/animal-welfare,/environment/wildlife-animals-biodiversity-and-ecosystems
+64f79448-f605-4f13-9490-a5f4fbbd5dd1,Local government spending,/regional-and-local-government/local-government-spending,/regional-and-local-government
+6ed4eac3-a1aa-4487-9557-be97e0bef3fd,Non-resident landlord scheme,/money/non-resident-landlord-scheme,/money/personal-tax
+b93dcf8c-4450-4c94-add1-38eb4752cfc7,"Spiritual, moral, social and cultural development",/education/spiritual-moral-social-and-cultural-development,/education/school-curriculum
+66cd80c4-58e4-4125-98fe-9467b7f4e9d3,"Student grants, bursaries and scholarships",/education/student-grants-bursaries-scholarships,/education/funding-and-finance-for-students
+e8a3843f-61d6-4e92-a51a-768c9f22b6de,Student loans,/education/student-loans-bursaries-and-sponsorship,/education/funding-and-finance-for-students
+770baedf-c82a-44aa-a4fb-a82eeb332a99,Student performance in further education,/education/student-performance-in-further-education,/education/inspection-and-performance-of-further-education-providers
+2e968692-eacd-4cd3-b8f4-a920aea794ab,Subject Knowledge Enhancement (SKE) funding,/education/subject-knowledge-enhancement-ske,/education/initial-teacher-training-funding
+0b51847b-33c0-40be-9cdd-ad56a462b281,T levels,/education/t-levels,/education/further-and-higher-education-courses-and-qualifications
+4136b7bb-389d-4e0b-a46c-75f7a10a458b,"Teacher pay, pensions and conditions",/education/teacher-pay-pensions-and-conditions,/education/teaching-and-leadership
+436f4eed-cae3-474b-8c74-247be41c87f7,Teacher records,/education/teacher-records,/education/teaching-and-leadership
+e65f417c-60e8-48b1-8af8-fa06e6dde4aa,Teacher training and professional development,/education/teacher-training-and-professional-development,/education/teaching-and-leadership
+4b5415b8-a1e8-4b9c-9591-e23a9caccca8,Teaching and leadership,/education/teaching-and-leadership,/education
+2a036bce-abea-4296-a8a6-0767c8b28787,"Teaching standards, misconduct and practice",/education/teaching-standards-misconduct-and-practice,/education/teaching-and-leadership
+4b004685-82e4-4e58-9e6c-cd557704f40c,Types of apprenticeships,/education/types-of-apprenticeships,/education/apprenticeships-traineeships-and-internships
+73e2a383-f4d9-47b5-827a-58157af067de,Science and innovation,/business-and-industry/science-and-innovation,/business-and-industry
+8117c9a6-2a7a-4941-bdf9-ebfc91374211,Exam regulation and administration,/education/exam-regulation-and-administration,/education/school-curriculum
+7a2036b6-aa54-4b36-993b-040f2755e462,"Penalty points, fines and driving bans",/transport/penalty-points-fines-and-driving-bans,/transport/road-safety-driving-rules-and-penalties
+dccb81b4-be22-4296-8137-ade8e6b59680,Brexit,/government/brexit,/government/all
+99c9db03-bcab-4f27-ae29-787ceb73fe41,Maths (key stage 2),/education/primary-curriculum-key-stage-2-maths,/education/primary-curriculum-key-stage-2
+b6a7f537-3144-42fb-92f2-d26ba4e5402b,Working and time off when you're having a baby,/childcare-parenting/working-time-off-when-having-a-baby,/childcare-parenting/pregnancy-and-birth
+635f2676-58ee-44b4-8633-ab723af70a2a,Cycling and walking,/transport/cycling-and-walking,/transport/driving-and-road-transport
+d87c931f-b6dd-4fba-9c95-7c479dfac7fe,GOV.UK services,/government/govuk-services,/government/government-technology-and-digital-services
+9f9b2a37-1aeb-4586-b869-341d16618ddb,"Primary curriculum, key stage 1",/education/primary-curriculum-key-stage-1,/education/school-curriculum
+76b72189-db8f-474f-9561-90119e7f328d,Reduce NHS waiting lists,/government/reduce-nhs-waiting-lists,/government/missions
+ea8210fc-3634-486b-aa56-0d9817717d38,NHS newborn and infant physical examination (NIPE) screening programme,/health-and-social-care/population-screening-programmes-newborn-infant-physical-examination,/health-and-social-care/population-screening-programmes
+cce68af7-f6af-4537-be18-f87bfa99e31d,Arts and culture,/society-and-culture/arts-and-culture,/society-and-culture
+2b8073fa-08b8-4876-8b21-7133204c356c,Health surveillance and reporting programmes,/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes,/health-and-social-care/health-protection
+d2e7e6a5-119d-42ed-9316-caedc37aab88,"Oil, gas and coal",/environment/oil-gas-coal,/environment/climate-change-energy-energy-infrastructure
+7defaa36-4e47-4459-912c-bcc48acc8bc6,English (key stage 1),/education/primary-curriculum-key-stage-1-english,/education/primary-curriculum-key-stage-1
+48a62eaf-6dcf-44d0-ab25-d226fc358937,Foreign nationals working in the UK,/entering-staying-uk/Foreign-nationals-working-in-UK,/entering-staying-uk/rights-foreign-nationals-uk
+6ad4071a-4144-476b-9c32-3868a1089783,Asylum for children,/entering-staying-uk/asylum-children,/entering-staying-uk/refugees-asylum-human-rights
+502a4d51-5101-4c28-bfba-52cc8e3f85af,Asylum decisions and appeals,/entering-staying-uk/asylum-decisions-appeals,/entering-staying-uk/refugees-asylum-human-rights
+5910c0d4-b7b1-4ba5-992e-3d83f2139afe,"Refugee, asylum and human rights claims",/entering-staying-uk/asylum-refugee-human-rights-claims,/entering-staying-uk/refugees-asylum-human-rights
+34eb3c89-2d51-4afb-a124-29f5258ebfa9,"Deportation, removals and curtailment",/entering-staying-uk/deportation-removals-curtailment,/entering-staying-uk/immigration-offences
+b42247d5-f02e-4905-853f-0476177708aa,Giving unqualified immigration advice,/entering-staying-uk/giving-unqualified-immigration-advice,/entering-staying-uk/immigration-offences
+497820b5-06f7-4724-972e-c52b248d0465,Family visas,/entering-staying-uk/family-visas,/entering-staying-uk/visas-entry-clearance
+268d4844-0f16-4911-97a1-d66583dd56d6,Immigration detention,/entering-staying-uk/immigration-detention,/entering-staying-uk/immigration-offences
+242b3a04-3d88-44a3-ac9e-ae482818bb5b,Immigration offences,/entering-staying-uk/immigration-offences,/entering-staying-uk
+11e18d0b-3258-484e-8a44-f366c81b569a,Immigration penalties,/entering-staying-uk/immigration-penalties,/entering-staying-uk/immigration-offences
+8fd1f77e-482e-431d-bcfb-9370c6158c7e,Immigration rules,/entering-staying-uk/immigration-rules,/entering-staying-uk
+92185463-2d15-40a4-ad63-5705241e342c,"Inspections of border, immigration and asylum services",/entering-staying-uk/inspections-of-border-immigration-asylum-services,/entering-staying-uk
+24fd1873-1c86-43d7-becd-c4f2c1bd6a42,Permanent stay in the UK,/entering-staying-uk/permanent-stay-uk,/entering-staying-uk
+cb48eecf-ed12-4f4f-9257-9da0894c80d2,Right to rent in the UK,/entering-staying-uk/right-to-rent-in-the-UK,/entering-staying-uk/rights-foreign-nationals-uk
+3f08aaa8-7c3d-412f-9dd4-b2446fae7d81,Rights of EU and EEA citizens,/entering-staying-uk/rights-eu-eea-citizens,/entering-staying-uk/rights-foreign-nationals-uk
+6d53ce74-add9-47f7-abf4-d6fc2a003ece,Rights of nationals from outside the EU and EEA,/entering-staying-uk/rights-nationals-from-outside-eu-eea,/entering-staying-uk/rights-foreign-nationals-uk
+d9e5fa42-c32d-4c5e-95ee-c180dc44a736,Support for asylum claimants and refugees,/entering-staying-uk/support-asylum-claimants-refugees,/entering-staying-uk/refugees-asylum-human-rights
+961fa606-c68c-4ad8-a699-39f630effc56,Travel and identity documents for foreign nationals,/entering-staying-uk/travel-identity-documents-for-foreign-nationals,/entering-staying-uk
+1a03d9d8-4ef8-48bf-a2d6-a7c4dbc9b9a7,Tuberculosis (TB) testing,/entering-staying-uk/tuberculosis-testing,/entering-staying-uk/visas-entry-clearance
+4f6f5875-2b99-45a3-bc62-ac08776779ed,Visa application centres,/entering-staying-uk/visa-application-centres,/entering-staying-uk/visas-entry-clearance
+f9095107-51b3-4d56-9bf5-667b5396cbe9,Visa applications,/entering-staying-uk/visa-applications,/entering-staying-uk/visas-entry-clearance
+28cdad8b-0cc8-4b44-9094-4d3675b0ce5f,Visas and entry clearance,/entering-staying-uk/visas-entry-clearance,/entering-staying-uk
+c606d516-f3c3-4faf-b78f-c4c4df2bb584,Visas and immigration corporate,/entering-staying-uk/visas-immigration-corporate,/entering-staying-uk
+d9fa730c-03c5-4f0b-93e7-675abd187098,Visa sponsorship,/entering-staying-uk/visa-sponsorship,/entering-staying-uk/visas-entry-clearance
+9844c676-2c84-499b-b284-bb80b1f5d0b3,Biodiversity and ecosystems,/environment/biodiversity-and-ecosystems,/environment/wildlife-animals-biodiversity-and-ecosystems
+13ec9d9d-d763-42d2-9a8e-34e0321da6d9,Bovine tuberculosis (bovine TB),/environment/bovine-tuberculosis,/environment/keeping-farmed-animals
+cfeaf685-b755-4640-8653-0a968af1a3e8,"Cattle identification, registration and movements",/environment/cattle-identification-registration-movements,/environment/keeping-farmed-animals
+13337c84-eadb-43ae-85cf-248299b1420e,Chemicals,/environment/chemicals,/environment
+a33e9988-7554-4d83-b003-b23af387a0a8,Climate change international action,/environment/climate-change-international-action,/environment/climate-change-energy
+37d6b530-3427-48ce-bdf0-b45b2106c222,Energy infrastructure,/environment/climate-change-energy-energy-infrastructure,/environment
+b20558dc-fc6c-47e1-bf69-44eb0fb7d0a4,Property and development,/environment/coal-property-development,/environment/coal
+592c7c88-e280-4230-a799-a54b22cc26e7,Mine water management,/environment/coal-water-management,/environment/coal
+41095f6c-f528-45ff-8503-a9b1d4667f3a,Vessel licensing and lists,/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-vessel-licensing-and-lists,/environment/fishing-vessels
+d9278866-1d77-43b3-b7f7-6a84fdb82c5d,Common Agricultural Policy reform,/environment/common-agricultural-policy-reform,/environment/food-and-farming
+43427fb3-d991-4460-9121-af436a6c7875,Economic growth in rural areas,/environment/economic-growth-in-rural-areas,/environment/rural-development-land-management
+823f8832-434d-4957-ad80-290eca3004be,Contaminated land,/environment/environmental-management-chemicals-contaminated-land,/environment/chemicals
+5371a103-02a2-4685-99cc-9890a547578f,Mercury,/environment/environmental-management-chemicals-mercury,/environment/chemicals
+5c334f39-b115-4107-a710-51532a6104e7,Contaminated land,/environment/environmental-management-environmental-risk-management-contaminated-land,/environment/rural-development-land-management
+9e784374-0af2-4ee6-972e-056d2f16fd23,Commons and greens,/environment/environmental-management-land-management-commons-and-greens,/environment/rural-development-land-management
+938d87cc-93f4-46bd-9ca0-0d4c9d3a1d46,Hedgerows,/environment/environmental-management-land-management-hedgerows,/environment/rural-development-land-management
+6d7075e5-4ce2-4812-81ef-f22c7567115e,Protected sites,/environment/environmental-management-land-management-protected-sites,/environment/rural-development-land-management
+6daf8601-69a8-4c4a-acb5-891a3441878e,"Weeds and invasive, non-native plants",/environment/environmental-management-land-management-weeds-and-invasive-non-native-plants,/environment/rural-development-land-management
+1ca50674-7da7-4eb8-9ba2-c372162435fc,Marine protection and wildlife,/environment/environmental-management-marine-marine-protection-and-wildlife,/environment/marine
+56e4ab5e-0618-4e14-9315-a08d3d4277b5,Sea fishing,/environment/environmental-management-marine-sea-fishing,/environment/marine
+424ec1fe-3355-4ddc-9fae-b7c44fd3d515,Invertebrates,/environment/environmental-management-wildlife-habitat-conservation-invertebrates,/environment/wildlife-habitat-conservation
+9fe8910a-2c91-4343-bba7-80066b77ae7e,Mammals,/environment/environmental-management-wildlife-habitat-conservation-mammals,/environment/wildlife-habitat-conservation
+a5967372-fbb4-4f4e-8e33-aedae62ba360,Reptiles and amphibians,/environment/environmental-management-wildlife-habitat-conservation-reptiles-and-amphibians,/environment/wildlife-habitat-conservation
+a6b44817-30be-4955-aa75-859126e650fb,Farming and food grants and payments,/environment/farming-food-grants-payments,/environment/food-and-farming
+455d0545-7a08-4c3b-a17c-87ccf0c10354,Intervention schemes,/environment/farming-food-grants-payments-intervention-schemes,/environment/farming-food-grants-payments
+0b261900-e986-42c3-ab48-7eb9885986e9,Private storage aid,/environment/farming-food-grants-payments-private-storage-aid,/environment/farming-food-grants-payments
+2e5749ac-3839-4ff3-a830-6bb7a2bdcb5f,Rural grants and payments,/environment/farming-food-grants-payments-rural-grants-payments,/environment/farming-food-grants-payments
+9d75d09b-4ed8-48a0-bc4a-92ade6eb9b28,Basic Payment Scheme (BPS),/environment/farming-food-grants-payments-rural-grants-payments-basic-payment-scheme-bps,/environment/farming-food-grants-payments-rural-grants-payments
+ddec1fbc-c961-4f93-8311-54739ac6adef,Fishing vessels,/environment/fishing-vessels,/environment/fishing-fisheries-and-vessels
+2109db5b-3c23-4bcc-840f-7f73baabcf23,"Fishing regulations, monitoring and enforcement",/environment/fishing-regulations-monitoring-enforcement,/environment/fishing-fisheries-and-vessels
+b4954c98-f65c-4d2d-9fa2-98f366dfd001,School milk scheme,/environment/farming-food-grants-payments-school-milk-scheme,/environment/farming-food-grants-payments
+0b2fd697-4e27-4daa-b2d5-63cfe561b862,Common Agricultural Policy (CAP) reform,/environment/farming-food-grants-payments-rural-grants-payments-common-agricultural-policy-cap-reform,/environment/farming-food-grants-payments-rural-grants-payments
+31620472-cc09-4b8f-a17f-efe6af54e1dd,Cross-compliance,/environment/farming-food-grants-payments-rural-grants-payments-cross-compliance,/environment/farming-food-grants-payments-rural-grants-payments
+c0de3ff8-7d6e-460f-a689-cb13d6cf3e34,Online applications and payments,/environment/farming-food-grants-payments-rural-grants-payments-online-applications-and-payments,/environment/farming-food-grants-payments-rural-grants-payments
+b71213e2-a2b3-4353-b1b1-9ac093d746a2,Rural development,/environment/farming-food-grants-payments-rural-grants-payments-rural-development,/environment/farming-food-grants-payments-rural-grants-payments
+50073311-747a-4006-ac4a-24e73760a3dd,Harbour orders,/environment/harbour-orders,/environment/marine
+145f3e2a-93fb-496a-92e3-d86f576f698c,Deer farming,/environment/keeping-farmed-animals-deer-farming,/environment/keeping-farmed-animals
+7d5405ab-9393-4ef3-a0d0-2ec45b729479,Poultry registration,/environment/keeping-farmed-animals-poultry-registration,/environment/keeping-farmed-animals
+ecc48baf-c5e3-4cbf-beaa-2420680edbad,"Sheep and goats identification, registration and movements",/environment/keeping-farmed-animals-sheep-identity-registration,/environment/keeping-farmed-animals
+7b48db15-9293-4d47-abc9-2dfa2d1d92a5,Veterinary medicines,/environment/keeping-farmed-animals-veterinary-medicines,/environment/keeping-farmed-animals
+dd37a02e-fa63-46f1-ae35-b5cc1860bb0f,Marine environment,/environment/marine-environment,/environment/marine
+d3009831-4f09-420a-9590-effc1c4ea00b,Carbon capture and storage,/environment/oil-and-gas-carbon-capture-and-storage,/environment/oil-gas-coal
+7d2141ad-d274-474d-8220-2464b6f451e2,Exploration and production,/environment/oil-and-gas-exploration-and-production,/environment/oil-gas-coal
+5ce9595d-0908-4130-8c8c-74cd12d8092e,Fields and wells,/environment/oil-and-gas-fields-and-wells,/environment/oil-gas-coal
+33240f64-4501-4f39-97a6-d93283fd5efb,Oil and gas finance and taxation,/environment/oil-and-gas-finance-and-taxation,/environment/oil-gas-coal
+aa1a9b68-9275-473b-9886-f1d5d67d920c,Onshore oil and gas,/environment/oil-and-gas-onshore-oil-and-gas,/environment/oil-gas-coal
+5278fca9-8cf1-4d3b-bd53-85a47b02be46,Market values,/environment/oil-and-gas-finance-and-taxation-market-values,/environment/oil-and-gas-finance-and-taxation
+c8bb8b3f-c423-4a06-b975-d4cc6c24350c,Tax and profits,/environment/oil-and-gas-finance-and-taxation-tax-and-profits,/environment/oil-and-gas-finance-and-taxation
+1353f7dc-82fc-4b5c-aa75-b895a537676c,Infrastructure and decommissioning,/environment/oil-and-gas-infrastructure-and-decommissioning,/environment/oil-gas-coal
+6c94e73a-9e97-4427-92ad-997fdbf86e09,Oil and gas licensing,/environment/oil-and-gas-licensing,/environment/oil-gas-coal
+286ed7a1-e871-411e-9cd5-b4a5eb1a350c,Oil spills,/environment/oil-spills,/environment/oil-gas-coal
+70142ea9-a991-4a5a-8daa-2da9b4d9383e,"Parks, trails and nature reserves",/environment/parks-trails-nature-reserves,/environment/countryside
+5e5d9e7e-513e-4e77-bac4-4c9a0ab044c8,Land sites,/environment/planning-development-protected-sites-species-land-sites,/environment/protected-sites-species
+45fc5867-895e-47f3-bff8-40f6fe043724,Marine sites and species,/environment/planning-development-protected-sites-species-marine-sites-and-species,/environment/protected-sites-species
+7433093f-81e6-473d-9c36-b1318e4f357e,Dairy and milk production,/environment/producing-distributing-food-dairy-milk-production,/environment/producing-distributing-food
+a445e47f-4be8-4c91-b972-34945ec7d1c9,Sugar,/environment/producing-distributing-food-sugar,/environment/producing-distributing-food
+67304058-f322-4d32-a089-6becbf4ebd96,Protected sites and species,/environment/protected-sites-species,/environment/wildlife-animals-biodiversity-and-ecosystems
+c1bc23fb-1849-4a71-9c7a-77c7b373a8f1,"River maintenance, flooding and coastal erosion",/environment/river-maintenance-flooding-coastal-erosion,/environment
+c6632076-2326-4a7a-aae9-77b595ddc181,Rural economy and community,/environment/rural-economy-and-community,/environment/rural-development-land-management
+0106205d-059b-47b3-9404-1d030a2bafc6,Stopping or selling your business,/employment/business-tax-self-employed-stopping-or-selling-your-business,/employment/self-employed
+994e05de-0ca2-408a-ab68-6b637f993b64,Automatic enrolment in workplace pensions,/employment/automatic-enrolment-in-workplace-pensions,/work/pensions-and-ageing-society
+859fcae1-c6ca-4a2b-a764-e4ea9a96edba,Managing expenses,/employment/business-tax-self-employed-managing-expenses,/employment/self-employed
+f8dfeba6-34a1-4722-a439-7cafa60a5955,Paying HMRC,/employment/business-tax-self-employed-paying-hmrc,/employment/self-employed
+69bcffe0-10ff-45be-be84-bfc4c967c6ec,Tax and National Insurance,/employment/business-tax-self-employed-tax-and-national-insurance,/employment/self-employed
+ace65d32-bc03-4ae6-92e3-01fa7c913f19,Contracts and working hours,/employment/contract-working-hours,/employment/working
+ea03ae48-86f1-4b1f-872d-c039055c4187,Finding a job,/employment/finding-job,/employment/working
+524f3838-eeb0-4868-96a3-f32ccb38fd73,Health and safety reform,/employment/health-and-safety-reform,/work
+b496614f-8310-49c7-91ad-9588be4f91e3,Older people,/employment/older-people,/work/pensions-and-ageing-society
+5d74f8eb-c901-42f5-98d7-9d04ad139883,Payroll,/employment/payroll,/work
+2b596020-eb51-4691-abd8-043d2cf5956a,Public service pensions,/employment/public-service-pensions,/work/pensions-and-ageing-society
+99f2cadb-7126-4987-84bc-f252a8ee259e,"Redundancies, dismissals and disciplinaries",/employment/redundancies-dismissals,/employment/working
+75667bfa-b5c1-47a4-891d-a1cfad9152c6,Your rights at work and trade unions,/employment/rights-trade-unions,/employment/working
+5589b86d-f465-4b09-b6e1-6eaa762198c4,"Holidays, time off, sick leave, maternity and paternity leave",/employment/time-off,/employment/working
+4ce62a30-d033-4c91-9a6f-d27c572b39f8,Secondments with government,/employment/secondments-with-government,/work
+4f4fdae6-b1b4-447c-93f6-8892799b5dad,State Pension age,/employment/state-pension-age,/work/pensions-and-ageing-society
+d96b3157-5d29-4a46-acaf-b1318ef2dc57,State Pension simplification,/employment/state-pension-simplification,/work/pensions-and-ageing-society
+b4006efb-f802-4788-aee7-6f9f18c662fb,"Your pay, tax and the National Minimum Wage",/employment/tax-minimum-wage,/employment/working
+0277c4ea-7465-4b1b-a5a9-f2ab6c92bdca,Work and disabled people,/employment/work,/work
+a229cb3d-d59a-4097-a9a5-0579d30cfe75,State Pension,/employment/working-state-pension,/employment/working
+ba360b98-fa4e-4b0d-9902-d6cc7f1a99bf,Workplace bullying and harassment,/employment/workplace-bullying-and-harassment,/employment/working
+e7260c66-596f-49e2-af03-25db864f88fd,Workplace and personal pensions,/employment/workplace-personal-pensions,/employment/working
+db07c932-8dc8-466b-88d2-2c4e9fa183f5,Scottish devolution,/regional-and-local-government/scottish-devolution,/regional-and-local-government/scotland
+97a43579-6124-4a5b-b33e-e052cf6200e1,Civil service reform,/government/civil-service-reform,/government/government-reform
+e2904ce8-d7f7-400e-96bb-1e4d0b93d459,Counter-terrorism,/crime-justice-and-law/counter-terrorism,/crime-justice-and-law
+1924e6ec-879e-4237-8487-bd28c6982509,Conflict in fragile states,/international/government-topics-foreign-affairs-conflict-in-fragile-states,/international/foreign-affairs
+e981d94b-3bcd-4202-a852-e46cfda5ffa7,Death registration disclosure,/life-circumstances/death-registration-disclosure,/life-circumstances/death
+8b6b952a-b786-4b46-8082-38ba7a084e69,Maths (key stage 1),/education/primary-curriculum-key-stage-1-maths,/education/primary-curriculum-key-stage-1
+7f7a0ffe-f641-4714-9813-79ae3d1ab475,Veterans and family support,/defence-and-armed-forces/veterans-family-support,/defence-and-armed-forces
+60685267-eb85-45d3-9a09-8b34cef62566,"Medicines, medical devices",/health-and-social-care/medicines-medical-devices-blood,/health-and-social-care
+5bf1612e-47de-450e-95d5-339aa6f07471,Reporting disease and disease outbreaks,/environment/preventing-and-reporting-disease,/environment/keeping-farmed-animals
+172470da-8d2b-4a6f-b9bc-cdca58aab250,Deficit reduction,/government/deficit-reduction,/government/government-efficiency-transparency-and-accountability
+21bdabb0-d915-4c83-aca3-91528ea72767,Design and build of government services,/government/design-and-build-of-government-services,/government/government-technology-and-digital-services
+90ec9f90-908c-42cf-900d-8bd3db9b4222,Europe,/government/europe,/government/all
+89c226e0-c1b1-4ad4-bde1-05af5e5cdb22,Digital accessibility,/government/digital-accessibility,/government/government-technology-and-digital-services
+87117212-3a75-4a6f-87fb-82d5e9cf1c72,Digital inclusion,/government/digital-inclusion,/government/government-technology-and-digital-services
+f8d2b542-fea6-447d-b2a0-059e98887bb4,European funds,/government/european-funds,/government/europe
+5ff0852a-7a04-46bc-8cc0-da2dc28d1184,European single market,/government/european-single-market,/government/europe
+898f75e5-0ae4-4636-8a12-46f1d861c723,European Union laws and regulation,/government/european-union-laws-and-regulation-2,/government/europe
+660c0a70-1fa7-4687-8f15-7b86cee63a06,Networks and telecommunications,/government/networks-and-telecommunications,/government/government-technology-and-digital-services
+dada5894-dc11-4578-b521-c821691ce5d1,"Working, jobs and pensions",/employment/working,/work
+3a6b3b6f-29c5-4efc-9332-9839e72cb406,School curriculum,/education/school-curriculum,/education
+5ca88357-c5df-4260-b1a9-5b0c469871c0,Scientific research and development,/business-and-industry/scientific-research-and-development,/business-and-industry/science-and-innovation
+7304f992-3b16-4eb5-9bb4-8d28bac261a4,Czechia,/going-and-being-abroad/help-british-nationals-overseas-europe-czechia,/going-and-being-abroad/help-british-nationals-overseas-europe
+69e5ba24-a968-4489-a4e6-5a523abb2443,Species protection and marine conservation,/environment/species-protection-and-marine-conservation,/environment/marine
+9936db42-c67b-46b7-bac5-238b9ec7f717,Vessel surveys and inspections,/environment/vessel-surveys-inspections,/environment/fishing-vessels
+04c297fd-8630-4230-9758-9f45747af413,Technology in health and social care,/health-and-social-care/technology-in-health-and-social-care,/health-and-social-care
+b2ba45c7-2a71-4bc4-98c2-c3c824e7d706,International aid and development,/international/international-aid-and-development,/international
+8980ad5b-2d73-4deb-b14d-f324cea3baa6,Immunisation,/health-and-social-care/health-protection-immunisation,/health-and-social-care/health-protection
+019b6ab3-b76e-4a80-a8cc-9c8309b0a508,Programmes of study (key stage 1),/education/primary-curriculum-key-stage-1-programmes-of-study,/education/primary-curriculum-key-stage-1
+20617e25-fcbb-4fd7-90f9-5434f224c912,Death and bereavement,/life-circumstances/death,/life-circumstances
+244ef2ed-44ff-4c9d-be7f-deda000d171d,Living abroad,/going-and-being-abroad/living-abroad,/going-and-being-abroad
+7f9a2273-ff61-4fb7-9457-64cc592534ee,British nationals overseas,/going-and-being-abroad/british-nationals-overseas,/going-and-being-abroad
+56ea87e1-d51f-431a-a971-648f6b28b8d4,Government funding programmes,/government/funding-programmes,/government/government-spending
+3ff07024-82b9-4232-8a96-f1bf14868a45,Government reform ,/government/government-reform,/government/all
+57275e95-f8f4-4f40-a254-f7f4d2c5fb02,Government technology and digital services,/government/government-technology-and-digital-services,/government/all
+2fe66e1b-0c00-4459-993c-dc654bce41ed,Legislative process,/government/legislative-process-2,/government/democracy
+e9806c13-aa88-490c-bedd-13260fd9b50b,Job roles and talent acquisition ,/government/job-roles-and-talent-acquisition,/government/technology-guidance-technology-guidance-digital-transformation
+81f391c8-ad05-4a82-9f58-7368c53170f2,Military awards and commemorations,/defence/military-awards-commemorations,/defence-and-armed-forces
+7c66bfb0-1493-411b-8243-03f08fdddad5,Exercise and physical activity,/health-and-social-care/exercise-physical-activity,/health-and-social-care/health-improvement
+1e76e9ae-3284-44ea-9910-c0283b0a79c7,Rural development and land management,/environment/rural-development-land-management,/environment/rural-and-countryside
+0fc9be2b-106d-4a7d-aac8-bcc0dab45bcf,"Manufacturing, wholesaling, importing and exporting medicines",/health-and-social-care/medicines-medical-devices-blood-manufacturing-wholesaling-importing-exporting-medicines,/health-and-social-care/medicines-medical-devices-blood
+86431280-cea2-4313-ae28-835be208e0e8,Further education financial management and data collection,/education/further-education-financial-management-and-data-collection,/education/further-and-higher-education-skills-and-vocational-training
+85eafe22-73a3-41c8-9b26-7833d0b48662,APIs and app development,/government/apis-and-app-development,/government/government-technology-and-digital-services
+929d9bc6-22e5-4c84-9fd1-89efba3c12fc,Careers in health and social care,/health-and-social-care/careers-health-social-care,/health-and-social-care/health-workforce
+f570ae2a-4185-4724-83b3-9d8993ee795c,Transporting abnormal loads,/transport/transporting-abnormal-loads,/transport/freight-haulage-and-cargo
+0a72a00f-78bd-4a4b-936d-1342eda34ff2,Heart disease,/health-and-social-care/heart-disease,/health-and-social-care/health-conditions
+e6ae22f6-95f5-4920-8d8f-abd630b31669,Climate change and energy,/environment/climate-change-energy,/environment
+d4fe9fbc-b80f-4036-9c5d-92224afa4780,Carbon Border Adjustment Mechanism (CBAM),/money/carbon-border-adjustment-mechanism,/money/business-tax
+5a726814-812b-42fa-a3a1-71d260417d2d,Export finance,/business-and-industry/export-finance,/business-and-industry/exporting
+aaf9e99e-34b4-4310-962d-56dd4e33af7c,Healthy eating,/health-and-social-care/healthy-eating,/health-and-social-care/health-improvement
+32244644-5303-4099-992e-9e3952c2c07f,Compassionate care in the NHS,/health-and-social-care/compassionate-care-in-the-nhs,/health-and-social-care/national-health-service
+2ee88224-e394-4b05-b3eb-7210904ab634,Corporate governance,/business-and-industry/corporate-governance,/business-and-industry
+45992514-8032-4eb3-86b5-ab283b09b92b,Student visas,/entering-staying-uk/student-visas,/entering-staying-uk/visas-entry-clearance
+0f708896-1bb9-4d34-8cd5-1af8b0704d83,Housing and communities,/housing-local-and-community/housing-and-communities,/housing-local-and-community
+afb586e6-3652-4de8-bb16-c414b8b9dad9,Health workforce,/health-and-social-care/health-workforce,/health-and-social-care/national-health-service
+4ecffd04-f14f-4b30-87b6-10c97c48e5fc,Airport capacity and expansion,/transport/airport-capacity-and-expansion,/transport/aviation
+1ddd021c-90b1-4058-bdb0-a44b55bcfd6c,Drug misuse and dependency,/health-and-social-care/drug-misuse-and-dependency,/health-and-social-care/health-improvement
+8df945c4-dda1-49f6-b192-65be8d6ee41d,Harmful drinking,/health-and-social-care/harmful-drinking,/health-and-social-care/health-improvement
+e71b28e9-c9ab-43fa-a105-0cb6cf5b6edc,Smoking,/health-and-social-care/smoking,/health-and-social-care/health-improvement
+f7151999-f864-4cfc-88ef-19148e2d205b,Importing,/business-and-industry/importing,/business-and-industry/trade-and-investment
+9061d9f7-ae54-40a8-853f-46cd2501c572,Data,/government/data,/government/all
+0e3ebf45-3add-454d-a11f-94a31cbbe32f,Community amateur sports clubs (CASCs),/society-and-culture/community-amateur-sports-clubs,/society-and-culture/sports-and-leisure
+c66db4cf-acbc-47b0-8ef4-a9888a630cca,Visa refusals and appeals,/entering-staying-uk/visa-refusals-appeals,/entering-staying-uk/visas-entry-clearance
+74588886-1808-4e66-8c79-7facb1b5eacc,Competition law,/business/competition-law,/business/competition
+57b6fca9-716d-4e2c-8724-a5f3978a8794,Animal and plant health,/environment/animal-and-plant-health,/environment/wildlife-animals-biodiversity-and-ecosystems
+b08cd1fe-4532-4066-bfd6-6b905a8a9229,Food and farming,/environment/food-and-farming,/environment
+a9051504-051d-489b-a25b-e13f58c59459,Food and farming industry,/environment/food-and-farming-industry,/environment/food-and-farming
+014da0c0-168c-43d8-886e-3f2b393531dd,Cattle deaths,/environment/keeping-farmed-animals-cattle-deaths,/environment/keeping-farmed-animals
+e8641341-8299-434a-b52e-483197b83aee,Import and export of farmed animals,/environment/keeping-farmed-animals-import-export,/environment/keeping-farmed-animals
+443f67f3-b6f0-4760-857e-1577d8d6f941,Conveyancing services ,/housing-local-and-community/land-registration-business-mortgage-services-conveyancing-services,/housing-local-and-community/land-registration-business-mortgage-services
+e20f73d5-3438-4755-94c6-c13bc1f02d80,"Professional driving of lorries, buses and coaches",/transport/professional-driving-of-lorries-buses-and-coaches,/transport/driving-and-road-transport
+ab75bd9e-b443-4c5a-90e5-4060ec832e59,"Marketing authorisations, variations and licensing guidance",/health-and-social-care/medicines-medical-devices-blood-marketing-authorisations-variations-licensing,/health-and-social-care/medicines-medical-devices-blood
+2ad71550-0820-4466-9ea0-074f3d3667aa,Fire prevention and rescue,/government/fire-prevention-and-rescue,/government/emergency-preparation-reponse-and-recovery
+96c3d825-88ae-4304-a620-fb2e339d24e7,Rural and countryside,/environment/rural-and-countryside,/environment
+601ec1b4-0f76-4359-82ee-d8a2357aff97,Peace and stability in the Middle East and North Africa,/international/peace-stability-in-me-and-north-africa,/international/foreign-affairs
+67fbb421-092b-4c56-ab2d-93c1bb0f759c,Road transport emissions,/transport/road-transport-emissions,/transport/road-transport-and-the-environment
+e64a17cb-13e8-4743-a2cf-6f30b058ac32,Zero emission and electric vehicles,/transport/zero-emission-and-electric-vehicles,/transport/road-transport-and-the-environment
+b8309e36-3d87-4923-b8f6-7d8bcf47e96f,Emissions and emissions trading,/environment/climate-change-energy-emissions,/environment/climate-change-energy
+efc5385d-6e7d-47f6-b724-6223044bbae5,Councils and elections,/regional-and-local-government/local-government-councils-elections,/regional-and-local-government/local-government
+3445457b-a64d-4928-ad9f-4bdd95fba5fd,Cyber security,/government/cyber-security,/government/all
+5aad9125-997a-4b90-be42-19b60ae85c1a,Devolution,/regional-and-local-government/devolution,/regional-and-local-government
+bbb8c32d-2d7c-40fe-ba3a-2e5ad3ff2efb,Local government,/regional-and-local-government/local-government,/regional-and-local-government
+c504184e-1555-4a74-8bcc-95b8b5fe260d,Work and investor visas,/entering-staying-uk/work-and-investor-visas,/entering-staying-uk/visas-entry-clearance
+9a2b6d1e-3faf-4865-9182-d8a97fde3c64,"Knife, gun and gang crime",/crime-justice-and-law/knife-gun-and-gang-crime,/crime-justice-and-law
+ba807153-3638-40bc-9784-708345839863,Artificial intelligence,/business-and-industry/artificial-intelligence,/business-and-industry/science-and-innovation
+24921043-1b6e-40f5-817c-c6351ef3da90,Open source and open standards,/government/open-source-and-open-standards,/government/government-technology-and-digital-services
+c254c09b-6e2d-440e-a07c-e047690693ec,Visit and transit visas,/entering-staying-uk/visit-and-transit-visas,/entering-staying-uk/visas-entry-clearance
+de7af253-804e-4732-9ace-c71525dccd57,Citizenship,/entering-staying-uk/citizenship,/entering-staying-uk/permanent-stay-uk
+10c39f2e-c031-4b29-879f-568e21d07f00,Settlement,/entering-staying-uk/settlement,/entering-staying-uk/permanent-stay-uk
+5710ab47-4f97-48a0-afd7-18580ab2a001,Policing,/crime-justice-and-law/policing,/crime-justice-and-law
+d6bfb9f4-b925-433e-abd8-d730d7cd0e33,Clinical trials and investigations,/health-and-social-care/medicines-medical-devices-blood-clinical-trials-investigations,/health-and-social-care/medicines-medical-devices-blood
+830e82f2-a97e-4b5c-8db9-6739fc920697,Democracy,/government/democracy,/government/all
+a7266c85-43b4-416e-aed2-a346fd799de1,"Customs declarations, duties and tariffs (import and export)",/business-and-industry/customs-declarations-duties-tariffs,/business-and-industry/trade-and-investment
+39045853-e722-460e-a35b-c7b7c1df6b21,Mental health service reform,/health-and-social-care/mental-health-service-reform,/health-and-social-care/mental-health
+66254150-5b6c-443d-a78a-9251e30b41c8,Criminal record disclosure,/crime-justice-and-law/criminal-record-disclosure,/crime-justice-and-law
+f742346b-423f-4531-a13b-8076d850d5a7,Civil and crime contracts,/crime-justice-and-law/legal-aid-for-providers-contracts,/crime-justice-and-law/legal-aid-for-providers
+e38b3964-b5f1-4810-af2b-f17e54cfccc3,Keeping farmed animals,/environment/keeping-farmed-animals,/environment/food-and-farming
+5a13bd2c-a45b-4ca6-8431-365f3d156a7f,Equality,/society-and-culture/equality,/society-and-culture/equality-rights-and-citizenship
+b0fe1a08-5aac-4220-b030-e10fdc58823a,Government spending,/government/government-spending,/government/government-efficiency-transparency-and-accountability
+56d569a8-8383-4906-b81f-081d3d9ff074,Embargoes and trade sanctions,/business-and-industry/embargoes-and-sanctions,/business-and-industry/exporting
+29388395-cd54-425a-ac0a-e4ef5b385910,Free trade,/business-and-industry/free-trade,/business-and-industry/trade-and-investment
+d9385a29-8b9c-49a5-88d8-ecb34819e0d4,Bank regulation,/business/bank-regulation,/business-and-industry/financial-services
+88a9bbc7-1f2f-489e-bdb4-e18769722375,Postal service reform,/government/postal-service-reform,/government/government-reform
+06cda6c0-31bb-4d0b-90e5-b16e2797b55f,Public services,/government/public-services,/government/all
+e50f63eb-2e33-4680-ae7c-6daf45b444e0,"Children's centres, childminders, pre-schools and nurseries",/childcare-parenting/childrens-centres-childminders-pre-schools-and-nurseries,/childcare-parenting/providing-childcare
+0b73ef79-9cf7-4631-b782-fbf351079290,Health protection,/health-and-social-care/health-protection,/health-and-social-care/public-health
+37512c8e-ce8c-4ebb-8f54-7dccb56d7e37,Compliance checks,/money/dealing-with-hmrc-tax-agent-guidance-compliance-checks,/money/tax-agent-guidance
+dd738977-68e1-44d9-93b9-472f07448a21,Iran's nuclear programme,/international/government-topics-foreign-affairs-iran-s-nuclear-programme,/international/foreign-affairs
+e4e3e150-e1f5-4957-b690-3ba4dc8a4e1f,Brexit: business guidance,/brexit/business-guidance,/government/brexit
+6eaa101f-799b-47b6-9e79-b5c7ec09eaea,Brexit: guidance for individuals,/brexit/guidance-individuals,/government/brexit
+e8d5f513-253a-45c2-b1b5-fdb6c79c0378,"Neighbours, noise and pests",/housing-local-and-community/neighours-noise-pests,/housing-local-and-community/housing-and-communities
+65fb1ea9-44fe-4d7a-b207-21c2de81175d,City deals and growth deals,/business-and-industry/city-deals-and-growth-deals,/business-and-industry/uk-economy
+b393493f-b38c-4551-ba1f-693642b66f6d,"Import, export and distribution of food",/environment/producing-distributing-food-import-export,/environment/producing-distributing-food
+b9466f04-0460-40ec-85eb-6644ad5950bc,Help on public transport,/transport/help-on-public-transport,/transport/transport-accessibility-and-mobility
+e09c9b98-49d5-4e80-8e3f-b9a1483fb5d4,Public sector land use,/government/public-sector-land-use,/government/all
+3e576acd-93b4-4efe-9df2-29aec38dc4b9,Bus accessibility,/transport/bus-accessibility,/transport/buses
+07f9f034-a151-43f0-b8f7-7314aa0cabd2,Carers and disability benefits,/welfare/disability,/welfare
+3dd3a128-294b-4e86-88c4-8f8eb027a8f8,REACH regulations,/environment/environmental-management-chemicals-reach-regulations,/environment/chemicals
+da7156a3-6900-468b-b851-e43e4efea6a4,Vaccine development,/health-and-social-care/vaccine-development,/health-and-social-care/research-and-innovation-in-health-and-social-care
+1046637d-7927-416a-8c17-f99036ea32ad,"Charities, volunteering and honours",/society-and-culture/charities-honours,/society-and-culture
+f4bbdba5-9879-42aa-919c-7c07ad8a9b48,Changes to private renting,/housing-local-and-community/changes-to-private-renting,/housing-local-and-community/rented-housing-sector
+26c1d1df-b8a6-475e-b7b0-62ba7a1c8524,Dealing with HMRC,/money/dealing-with-hmrc,/money
+d94925c4-a62e-4196-bc0e-90637e665e5f,Software development for HMRC,/money/dealing-with-hmrc-software-development,/money/dealing-with-hmrc
+f4a2fe8e-0193-42e1-9583-05ead6e76ed4,Child Benefit,/welfare/child-benefit,/welfare
+6dc029ed-c63b-46a9-bf68-9ec282d65f62,Waste and recycling,/environment/waste-and-recycling,/environment
+102ef3b1-1ae7-4da0-b8ae-c8a072bbb32f,Planning system,/housing-local-and-community/planning-system,/housing-local-and-community/planning-and-building
+8fddc90b-2d46-47fb-b923-dce717ed45a7,Housing and accommodation during COVID-19,/health-and-social-care/housing-and-accommodation-during-covid-19,/health-and-social-care/covid-19
+9f6c2264-9dce-4a29-a78e-d552f3f75544,Prisons and probation,/crime-justice-and-law/prisons-probation,/crime-justice-and-law
+6a36cb36-88e6-4536-9ec7-b1e03eb238a2,Reoffending and rehabilitation,/crime-justice-and-law/reoffending-and-rehabilitation,/crime-justice-and-law
+f1df422d-5a49-4898-b71f-8cd60987cf7a,Rented housing sector,/housing-local-and-community/rented-housing-sector,/housing-local-and-community/housing-and-communities
+74f210a8-24d7-43f7-9c84-4fd16173901c,Pets,/environment/pets,/environment/wildlife-animals-biodiversity-and-ecosystems
+ba069f5a-04af-4dc8-aa69-e5cbce84e756,Business licensing ,/business-and-industry/business-licensing,/business-and-industry/running-a-business
+d8e87b95-9af9-4d0b-ae51-c334b9f56dbe,Children's health and welfare,/childcare-parenting/childrens-health-and-welfare,/childcare-parenting
+36c7bfa5-44db-482e-a394-9932971ed9a7,Gambling regulation,/business-and-industry/gambling-regulation,/business-and-industry/business-licensing
+1ecf24f4-f5f0-4758-b374-6e27f3e8a31f,Rules and restrictions during COVID-19,/health-and-social-care/rules-and-restrictions-during-covid-19,/health-and-social-care/covid-19
+6daa7f95-ecd0-43ef-92ec-72a9e7e70b91,Funding for 16 to 19 year olds in schools,/education/funding-for-16-to-19-year-olds-in-schools,/education/funding-for-different-types-of-schools-and-settings
+17c26b08-98d8-426e-99f6-041e158d0768,Learning disabilities,/health-and-social-care/learning-disabilities,/health-and-social-care/health-conditions
+3a10d293-6e88-4460-8d73-c3a6c533de85,Prisons healthcare,/crime-justice-and-law/prisons-probation-healthcare,/crime-justice-and-law/prisons-probation
+9cde1750-02d4-414e-a92a-76e2a6eb8358,Infectious diseases,/health-and-social-care/health-protection-infectious-diseases,/health-and-social-care/health-protection
+03913be7-520c-439e-aa11-1003be44d4bc,End of life care,/health-and-social-care/end-of-life-care,/health-and-social-care/social-care
+fcac1699-527c-40e5-8a70-2ba273ab2962,COVID-19,/health-and-social-care/covid-19,/health-and-social-care
+a8b4a352-affd-4e52-85f0-a0fd66ab7918,VAT,/money/vat,/money/business-tax
+bda32c24-f423-457e-af9e-c6118b6cc40a,"Charity money, tax and accounts",/business-and-industry/running-charity-money-accounts,/business-and-industry/charities-and-social-enterprises
+763c8e95-bdd1-4ccb-aa0b-c6e7bd9175eb,Work and financial support during COVID-19,/health-and-social-care/work-and-financial-support-during-covid-19,/health-and-social-care/covid-19
+a822fefb-b549-41c2-b0c2-289ee2b660f8,Crime prevention,/crime-justice-and-law/crime-prevention,/crime-justice-and-law
+8bad8224-8e83-43b5-bb49-b06d59867190,Driving and transport in the UK during COVID-19,/health-and-social-care/driving-and-transport-in-the-uk-during-covid-19,/health-and-social-care/covid-19
+17935273-acb2-430e-95a2-fa6b7eb054b0,Taxi and private hire vehicle licensing,/transport/taxi-and-private-hire-vehicle-licensing,/transport/vehicle-operator-licences
+463f0fb6-cc7c-48cf-8661-8e0dc2123e1e,Risk management,/housing-local-and-community/land-registration-business-mortgage-services-risk-management,/housing-local-and-community/land-registration-business-mortgage-services
+3a916e33-3048-4c1f-996d-976c2f032dba,Adoption,/childcare-parenting/adoption,/childcare-parenting/adoption-fostering-and-surrogacy
+53ef8258-8d68-46b4-9a41-892b96fb14cf,Impound (store) water,/business/environmental-management-water-impound-store-water,/environment/water-management
+f24c7e25-a9b2-40ce-a1e3-a23b53cc1f7d,National security,/government/national-security,/government/all
+14f17fb3-4f1f-49df-9e7f-d9d2b576de36,Working from home during COVID-19,/health-and-social-care/working-from-home,/health-and-social-care/work-and-financial-support-during-covid-19
+f4c4fc79-0147-4ec5-8d98-567c111b8962,Coal,/environment/coal,/environment/oil-gas-coal
+92a4afb8-35fa-45b2-8607-bc0ecfb9266a,Adult education funding,/education/adult-education-funding,/education/further-education-funding
+e529208d-e9c9-4e83-9701-cc6af9632f49,Trade and investment,/business-and-industry/trade-and-investment,/business-and-industry
+546d8412-cf6a-4f89-9b1c-1748250a8104,Media and communications,/business-and-industry/media-and-communications,/business-and-industry
+7dd5cae1-67d9-40f7-a898-049d823b6f44,Getting financial support during COVID-19,/health-and-social-care/getting-financial-support-during-covid-19,/health-and-social-care/work-and-financial-support-during-covid-19
+67d47ae0-d3d8-4266-a87e-b36033ec4e56,Alcohol duty,/money/alcohol-duty,/money/business-tax
+5a9b646d-f36b-4194-9e43-577bc4b84a1f,Large and mid-size business,/money/large-midsize-business,/money/business-tax
+7f5f55fd-7c57-4e3c-b20f-c56db0a1dbad,Energy efficiency in buildings,/housing-local-and-community/energy-efficiency-in-buildings,/housing-local-and-community/planning-and-building
+03838a9f-1b58-40bf-a5ff-89df296f77ff,Recruiting and hiring,/business-and-industry/recruiting-hiring,/business-and-industry/employing-people
+3588341b-caa8-4bd8-bba6-431fd99de2ca,Life saving appliances (LSA),/transport/life-saving-appliances,/transport/maritime-safety
+110c83a0-f45a-4c46-8e00-b98299d3f3d1,Safe and compliant operation of vessels,/transport/safe-and-compliant-operation-of-vessels,/transport/maritime-safety
+e25c21a1-9ba8-4fe4-9573-36c983bc4d9a,Animal research and testing,/business-and-industry/animal-research-and-testing,/business-and-industry/science-and-innovation
+3b375b3d-07ee-453f-808c-eecd90329d80,Wales,/regional-and-local-government/wales,/regional-and-local-government
+0dacb8d3-85c2-4a61-ae0b-cd52cd508a64,Scotland,/regional-and-local-government/scotland,/regional-and-local-government
+4e4c3c82-f090-42cb-8931-c39db0837ff3,Children's homes and other residential care inspections,/childcare-parenting/childrens-homes-other-residential-care-inspections,/childcare-parenting/inspection-of-childrens-social-care-providers
+cfb8170b-be90-4ea6-93d0-0e4b8b8a1722,Carers,/health-and-social-care/disabilities-carers,/health-and-social-care/disabilities
+c159bfad-8095-45cd-be1b-e7586bc8de91,Safeguarding and social care for children,/childcare-parenting/safeguarding-and-social-care-for-children,/childcare-parenting
+3a22415a-bfc8-474c-8279-dc40bd88c9fb,Transporting dangerous goods,/transport/transporting-dangerous-goods,/transport/freight-haulage-and-cargo
+56fd9e56-88fc-42b6-8beb-60e21bc7ea6f,Boats and waterways,/environment/boats-waterways,/environment/rural-and-countryside
+a9fea86c-6fa6-4e10-b5fa-3ea39ac88b80,Becoming a childcare provider,/childcare-parenting/becoming-a-childcare-provider,/childcare-parenting/providing-childcare
+f346fb18-126c-4197-924a-ba803b12f60e,"Court claims, debt and bankruptcy",/money/court-claims-debt-bankruptcy,/money
+f2a73147-08ec-4027-ae68-257aa7b607ab,Conferences and events,/health-and-social-care/medicines-medical-devices-blood-conferences-and-events,/health-and-social-care/medicines-medical-devices-blood
+c1809732-b017-41a9-a923-2be330fd979b,Energy industry and infrastructure licensing and regulation,/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation,/business-and-industry/business-regulation
+81440e6c-21d0-4fc4-8a1f-98e509c7b5b8,"Employees joining, leaving or changing their circumstances",/money/business-tax-paye-employees-joining-leaving-or-changing-their-circumstances,/money/paye
+6dbade15-3185-4a93-94d2-d9817f12a9fc,HGV and goods carriage vehicle licensing,/transport/hgv-and-goods-carriage-vehicle-licensing,/transport/vehicle-operator-licences
+dc32a080-545f-4c43-95fa-761fcc392aa2,Further and higher education and vocational training during COVID-19,/health-and-social-care/further-higher-education-vocational-during-covid-19,/health-and-social-care/education-and-childcare-during-covid-19
+e9418e00-98f3-4201-976f-1011438c81c2,Driving licences,/transport/driving-licences,/transport/driving-and-road-transport
+36989edf-d9d4-4d28-b078-1fb3b4d89f10,Fishing,/transport/fishing,/transport/maritime-and-shipping
+4ce996b8-db8d-43c4-a90d-da9ca4ef4d85,Producing and distributing food,/environment/producing-distributing-food,/environment/food-and-farming
+ff15e56e-c018-4114-8466-3eab2005170c,Fostering,/childcare-parenting/fostering,/childcare-parenting/adoption-fostering-and-surrogacy
+6d930074-5b54-4374-8f3c-2a15110f3d1f,Child and family social work,/childcare-parenting/child-and-family-social-work,/childcare-parenting/safeguarding-and-social-care-for-children
+41edf7ca-35af-4b61-9d83-0f2eecb8e1ee,UK nuclear deterrent,/defence-and-armed-forces/uk-nuclear-deterrent,/defence-and-armed-forces
+8a97f643-b0b0-4262-963a-7a5be7a6447b,Regulation reform,/business-and-industry/regulation-reform,/business-and-industry/business-regulation
+a9c9a225-e6dc-4f2f-a509-3eb7e36861e1,Recruiting and hiring,/employment/recruiting-hiring,/employment/working
+bb59425c-ef28-403d-bf6a-91738ada7435,Air routes,/transport/air-routes,/transport/aviation
+1c89fda2-d3fe-4b33-a1e2-2f16cd7eabe0,"Having a child, parenting and adoption",/life-circumstances/child-adoption,/life-circumstances
+e3129226-ec59-4936-a78e-b6b9c0607393,Entering England during COVID-19,/health-and-social-care/entering-england-during-covid-19,/health-and-social-care/international-travel-immigration-repatriation-during-covid-19
+be8cf2b8-90c0-4ecb-93f4-c5c38c3da148,Recreation,/society-and-culture/recreation,/society-and-culture/sports-and-leisure
+3f14b6dd-a5bf-473a-94ef-bde245998315,Conservation of historic buildings and monuments,/society-and-culture/conservation-of-historic-buildings-and-monuments,/society-and-culture/arts-and-culture
+3cd26bac-e359-405a-82e5-a62811294909,Running and managing a school,/education/running-and-managing-a-school,/education
+b901f07e-81e5-45c9-83a9-48e2231a4498,Wrecks,/transport/wrecks,/transport/maritime-and-shipping
+bb9201b2-40f7-443b-a21d-03cc5b1d4eeb,Tax avoidance,/money/tax-avoidance,/money/dealing-with-hmrc
+8204d0b7-5f84-4423-b2e5-a09360c8d310,Abstract (take) water,/business/environmental-management-water-abstract-take-water,/environment/water-management
+786a592f-170b-4a72-bbbf-684cc1e0d0db,Water and sewerage services,/environment/water-and-sewerage-services,/environment/water-management
+36b5e68c-f488-4438-986c-c2a2bc262309,Polychlorinated biphenyl (PCBs),/environment/environmental-management-chemicals-polychlorinated-biphenyl-pcbs,/environment/chemicals
+0e7a6e14-6a21-4bc9-9877-1960c4cd0171,Farming,/environment/environmental-management-land-management-farming,/environment/rural-development-land-management
+b9413812-071f-4dbf-a8a5-0b2d260eedd3,"Pig identification, registration and movements",/environment/keeping-farmed-animals-pig-identity-registration-movements,/environment/keeping-farmed-animals
+ff04f76f-4466-4311-9913-f99285fa6fa1,Animals on roads,/transport/animals-on-roads,/transport/road-infrastructure
+37473885-71ce-4381-9c3b-046840bcb0d0,Fish and shellfish,/environment/environmental-management-wildlife-habitat-conservation-fish-and-shellfish,/environment/wildlife-habitat-conservation
+5622b7ca-bbff-4003-8bdd-5553365936ef,"Vehicle registration, log books and number plates",/transport/vehicle-registration-log-books-and-number-plates,/transport/vehicle-ownership-approval-and-standards
+d4f454bf-96d0-43c5-a04f-369bb3e2099b,Meat production,/environment/producing-distributing-food-meat-production,/environment/producing-distributing-food
+d2065a1e-d457-49cd-8555-6ea86acc6b16,Marine licences,/environment/marine-licences,/environment/marine
+ef72bb1c-eb87-4615-880a-e6f5f0365286,F-gases and HCFCs,/environment/environmental-management-chemicals-f-gases-and-hcfcs,/environment/chemicals
+776d803a-c7b3-4e72-8d47-252b5b8ee6b6,Greenhouse gas emissions,/environment/greenhouse-gas-emissions,/environment/climate-change-energy
+c17dacc6-70c1-4f68-9cf3-69aa46d8e497,Maritime enforcement and prosecution,/transport/maritime-enforcement-and-prosecution,/transport/maritime-and-shipping
+3675b494-82bc-4170-a29c-5ff897b70a58,Treasure and wrecks,/environment/treasure-wrecks,/environment/marine
+9d7c4758-a261-4c0d-a47f-96c6ae9f3610,Community and society,/society-and-culture/community-and-society,/society-and-culture
+be012b76-79ab-48f8-b0e7-b347148bc46f,Export controls and licensing,/business-and-industry/export-controls,/business-and-industry/exporting
+c0d6cdf0-52f5-49f5-8c23-9af86bb0b54f,Climate change adaptation,/environment/climate-change-adaptation,/environment/climate-change-energy
+e32dfcd8-d726-43e0-9a56-1126a0fcffb7,Discharge water,/business/environmental-management-water-discharge-water,/environment/water-management
+ee4bc489-e3d1-48bf-847a-f14912aa439b,"Education, universities and childcare during COVID-19",/health-and-social-care/education-and-childcare-during-covid-19,/health-and-social-care/covid-19
+271876e3-a50e-496f-970c-ae65f670b2b9,Rights of foreign nationals in the UK,/entering-staying-uk/rights-foreign-nationals-uk,/entering-staying-uk
+41c850f0-5714-45e4-98e9-4fba193a3585,Pensions and ageing society,/work/pensions-and-ageing-society,/work
+59a16538-bb49-4cbe-ac63-3eaa8a0ebe8c,Support for self-employed people and sole traders during COVID-19,/health-and-social-care/self-employed-people-and-sole-traders-during-covid-19,/health-and-social-care/businesses-and-self-employed-people-during-covid-19
+8e0bac75-09e9-4727-bad0-ce99fff6b1d3,Funding and support for businesses during COVID-19,/health-and-social-care/funding-and-support-for-businesses-during-covid-19,/health-and-social-care/businesses-and-self-employed-people-during-covid-19
+758ac2a8-7f7b-4546-914e-d94d735d294f,Further and higher education courses and qualifications,/education/further-and-higher-education-courses-and-qualifications,/education/further-and-higher-education-skills-and-vocational-training
+cf5ba71f-c376-4ad8-89e7-86d1055b2ce8,Support for special educational needs and disability (SEND) ,/education/support-for-special-educational-needs-and-disability-send,/education/special-educational-needs-and-disability-send-and-high-needs
+890b96aa-85ee-401b-8817-2a314075c133,"Recruiting, inducting and managing teachers",/education/recruiting-inducting-and-managing-teachers,/education/teaching-and-leadership
+15167f7e-e833-4917-bc18-5db72f096a10,"International travel, immigration and repatriation during COVID-19",/health-and-social-care/international-travel-immigration-repatriation-during-covid-19,/health-and-social-care/covid-19
+5f5628eb-3ed4-4c6a-99a4-17e25e011290,Radioactive and nuclear substances and waste,/environment/radioactive-and-nuclear-substances-and-waste,/environment/waste-and-recycling
+aec38fae-7e01-4b24-812d-68c1c1317822,Waste and environmental impact,/environment/waste-environment,/environment/waste-and-recycling
+94104937-98d0-4484-ad17-96ab141ea973,Pollution and environmental quality,/environment/pollution-and-environmental-quality,/environment
+cd5f4367-7fe7-4910-84d4-5d80270068c1,Marine planning,/environment/marine-planning,/environment/marine
+f86eae74-3618-4f7e-90bb-6b2cd22be848,Pollution,/environment/environmental-management-land-management-pollution,/environment/rural-development-land-management
+5d3a9436-8dfc-4312-af48-d7a68b394246,Marine,/environment/marine,/environment
+39dd8c64-6695-420a-8134-f0aa97388457,Building regulation,/housing-local-and-community/building-regulation,/housing-local-and-community/planning-and-building
+c30ed3f5-4334-4a76-a2fd-4ce1e5b9b1ec,"Business auditing, accounting and reporting",/business-and-industry/business-auditing-accounting-reporting,/business-and-industry/running-a-business
+d6dcc499-a35b-4741-8a65-c69f3eb60a11,Vaccinations for COVID-19,/health-and-social-care/vaccinations-for-covid-19,/health-and-social-care/covid-19
+dcf74e72-ab7c-485c-b76a-30bb61646fd0,"Healthcare workers, carers and care settings during COVID-19",/health-and-social-care/healthcare-workers-carers-and-care-settings-during-covid-19,/health-and-social-care/covid-19
+53dcdf82-d3b3-4bb9-8981-ab29e77d8330,Access to the countryside,/environment/access-to-the-countryside,/environment/countryside
+cfda3536-08a7-4369-8da9-8bb82ccc6faa,Support for businesses and self-employed people during COVID-19,/health-and-social-care/businesses-and-self-employed-people-during-covid-19,/health-and-social-care/covid-19
+e265d7c5-5202-4c85-8357-4fb4617798ab,Your responsibilities as an employer during COVID-19,/health-and-social-care/your-responsibilities-as-an-employer-during-covid-19,/health-and-social-care/businesses-and-self-employed-people-during-covid-19
+73ac413a-7916-4697-b8fe-08decc4b2bcc,Dangerous goods (ADR) driver training,/transport/dangerous-goods-adr-training,/transport/transport-businesses-and-vehicle-operator-licences
+0c40d815-c932-49ee-90b7-2d3e84398933,"Positioning, Navigation and Timing (PNT)",/business-and-industry/positioning-navigation-timing,/business-and-industry/science-and-innovation
+3fdef212-c4e4-4179-b566-b49facf42dbb,Local councils and services,/regional-and-local-government/local-councils,/regional-and-local-government
+7af1d767-bb52-4cb3-90f5-56d05896e30a,Water management,/environment/water-management,/environment
+3a1808f2-680e-4f02-b3dd-89f82d733f0c,"Vigilance, safety alerts and guidance",/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts,/health-and-social-care/medicines-medical-devices-blood
+cdf60c25-cd2a-4f59-a93f-33cde506539a,Alcohol duties,/money/dealing-with-hmrc-paying-hmrc-alcohol-duties,/money/paying-hmrc
+3d53916e-46c0-4302-a17f-733dd81c9105,"Financial management, reporting and assurances for 16 to 19 year olds funding",/education/financial-management-reporting-and-assurances-for-16-to-19-year-olds-funding,/education/school-and-academy-financial-management-and-assurance
+9af9722c-53d4-4926-8b42-3f7a2e22e118,Health and wellbeing during COVID-19,/health-and-social-care/health-and-wellbeing-during-covid-19,/health-and-social-care/covid-19
+9f110da7-9b3d-41a9-ae4c-4aa637a60d24,Trade restrictions on exports,/business-and-industry/trade-restrictions-on-exports,/business-and-industry/exporting
+9b57d234-bd9e-4751-8e8c-8071f0392c96,Birds,/environment/environmental-management-wildlife-habitat-conservation-birds,/environment/wildlife-habitat-conservation
+3408349f-a852-4b54-9adc-e7886b7abaa7,Wildlife and animal welfare,/environment/wildlife-and-animal-welfare,/environment/wildlife-animals-biodiversity-and-ecosystems
+ffe5166b-c397-4765-976f-4605260bf5e7,Land species,/environment/planning-development-protected-sites-species-land-species,/environment/protected-sites-species
+d0e37192-bf1f-4f59-a15d-f115871bf1df,Immigration adviser services,/entering-staying-uk/immigration-adviser-services,/entering-staying-uk
+def4ed85-94fa-4af6-8b59-a45c32186dfe,"Further and higher education, skills and vocational training",/education/further-and-higher-education-skills-and-vocational-training,/education
+8a322d45-e143-4460-901a-8907192d9916,Safe transport of dangerous goods by road and rail,/transport/safe-transport-of-dangerous-goods-by-road-and-rail,/transport/transporting-dangerous-goods
+2a2457a1-1c9e-4b36-acf4-e4037bb4e68d,Countryside,/environment/countryside,/environment/rural-and-countryside
+3b026fd0-29c5-4cfb-a8bc-d833ba08da91,Overseas aid effectiveness,/international/overseas-aid-effectiveness,/international/international-aid-and-development
+53f2ceab-3cb9-486d-9b29-952f38fd606a,Help with redundancy and finding work during COVID-19,/health-and-social-care/help-with-redundancy-and-finding-work-during-covid-19,/health-and-social-care/work-and-financial-support-during-covid-19
+8963fbe5-f99a-4cf2-b4b7-078141cb91f4,Working safely during COVID-19,/health-and-social-care/working-safely-during-covid-19,/health-and-social-care/work-and-financial-support-during-covid-19
+9cbd1054-c9f3-4bd4-a17d-f43853847cdb,Volunteering and offering help during COVID-19,/health-and-social-care/volunteering-and-offering-help-during-covid-19,/health-and-social-care/covid-19
+8b960f85-fc0b-4df6-b608-412024afb1e7,Further education funding,/education/further-education-funding,/education/further-and-higher-education-skills-and-vocational-training
+d841d5b3-d6ba-4c69-bba5-69598715e058,"Road safety, driving rules and penalties",/transport/road-safety-driving-rules-and-penalties,/transport/driving-and-road-transport
+10cc35cf-4b73-43bc-a0b2-168a8b60c362,Business and the environment,/business-and-industry/business-and-the-environment,/business-and-industry
+4ead27cc-5daa-41b5-9720-ee0277962d6f,Adult learning,/education/adult-learning,/education/further-and-higher-education-skills-and-vocational-training
+d9d84274-3280-43cb-8e2f-4bb545569ed8,Party walls,/housing-local-and-community/party-walls,/housing-local-and-community/planning-and-building
+400ccf1f-e7cc-4833-ad5d-c6550bf4ee4c,Housing design and sustainability,/housing-local-and-community/housing-design-and-sustainability,/housing-local-and-community/planning-and-building
+fabe3b04-ee43-4af5-b0b2-daa81f88402b,Sports and leisure,/society-and-culture/sports-and-leisure,/society-and-culture
+9995629d-3e8b-4215-b811-43132fabb3a0,Labour market reform,/employment/labour-market-reform,/work
+b3a36126-d8e3-4abf-9d37-06e5918ecd85,NHS efficiency,/health-and-social-care/nhs-efficiency,/health-and-social-care/national-health-service
+3494c846-5404-49df-bacd-0e2515a845ff,Domestic abuse,/crime-justice-and-law/domestic-abuse,/crime-justice-and-law
+690a1baf-d568-4130-97c1-20092860dead,Paying HMRC,/money/paying-hmrc,/money/dealing-with-hmrc
+0e75efc1-bebe-49ee-8d62-e56ceb1d7c2d,Hydrography,/environment/hydrography,/environment/marine
+14fe142e-00b5-4bdb-b660-792923099c6d,Foreign affairs,/international/foreign-affairs,/international
+e88a4569-73e9-4df9-8e32-f9949d4ff3a6,Egg production and marketing,/environment/producing-distributing-food-egg-production-marketing,/environment/producing-distributing-food
+8ab99a5d-4218-4bf0-a2e3-fd077e9470c4,Low carbon technologies,/environment/low-carbon-technologies,/environment/climate-change-energy-energy-infrastructure
+fc0724e1-5cf3-4da6-8c56-d9473c596418,National Insurance,/money/national-insurance,/money/personal-tax
+6f0d92f0-648c-4e48-829e-7c8021fbd11c,Food labelling and safety,/environment/producing-distributing-food-food-labelling,/environment/producing-distributing-food
+4247bc74-43b4-42e6-9a80-8b8e5e9c6590,Chemical and environmental hazards,/health-and-social-care/health-protection-chemical-and-environmental-hazards,/health-and-social-care/health-protection
+64421cdb-7ff8-416c-98d4-be9753dcae10,Water quality,/business/environmental-management-water-water-quality,/environment/water-management
+f34362a4-da4d-409f-b367-5c9c3f404e84,"Closures, exams and managing a school or early years setting during COVID-19",/health-and-social-care/closures-exams-managing-school-during-covid-19,/health-and-social-care/education-and-childcare-during-covid-19
+3372e47f-ac6f-4486-a547-02cc41de2ad0,Public health,/health-and-social-care/public-health,/health-and-social-care
+beb4de12-3d77-4a55-9937-f5d9dbe4b29a,Managing your business during COVID-19,/health-and-social-care/managing-your-business-during-covid-19,/health-and-social-care/businesses-and-self-employed-people-during-covid-19
+7b1ca786-11cb-4c73-a825-16824c04adbe,Remembrance,/defence/defence-armed-forces-military-awards-commemorations-remembrance,/defence/military-awards-commemorations
+b746108a-7c74-4893-a50c-bb50528f343d,Phonics,/education/phonics,/education/primary-curriculum-key-stage-1
+8cbc421e-43dd-4be7-891b-5cf8ff0d98d7,Administering student funding,/education/administering-student-funding,/education/further-education-funding
+6fa7a541-e8e5-4113-8c41-75a06456e6f4,Transport businesses and vehicle operator licences,/transport/transport-businesses-and-vehicle-operator-licences,/transport/driving-and-road-transport
+7b07ad71-589f-487e-a13a-02a3efa976ef,Population screening programmes,/health-and-social-care/population-screening-programmes,/health-and-social-care/public-health
+e9be86c9-2475-467b-a74a-26974e874b52,"Research, testing and standards",/health-and-social-care/health-protection-services-research-testing-and-standards,/health-and-social-care/health-protection
+6e3e945a-e1ca-473c-8cee-d052db3489b5,Energy and climate change: evidence and analysis,/environment/energy-and-climate-change-evidence-and-analysis,/environment/climate-change-energy
+00daebc0-c085-44e8-9ed7-afa5afdbcc18,Business tax,/money/business-tax,/money
+465545cb-638c-4b9f-ac44-62a333fe77de,Border control,/entering-staying-uk/border-control,/entering-staying-uk
+4bedb980-dbca-49c0-aff4-d843fcca616d,Health conditions,/health-and-social-care/health-conditions,/health-and-social-care/public-health
+9a85cc4c-2e1d-4045-b3b2-c8d6c7be9ccc,"Wildlife, animals, biodiversity and ecosystems",/environment/wildlife-animals-biodiversity-and-ecosystems,/environment
+9c7de149-04ee-4d25-a2ba-02189585861e,Governance in developing countries,/international/governance-in-developing-countries,/international/international-aid-and-development
+1377fa20-69af-4c28-a6b0-593cd5198f3e,"Government efficiency, transparency and accountability",/government/government-efficiency-transparency-and-accountability,/government/all
+27543379-1eac-4597-9c0c-aa24c8ba8367,Payment problems,/money/dealing-with-hmrc-paying-hmrc-payment-problems,/money/paying-hmrc
+1a495bab-01eb-4dae-a98e-fd5bb7e27b77,Vessel monitoring systems,/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-vessel-monitoring-systems,/environment/fishing-vessels
+0d6d2546-4b57-4461-bde9-088516683fed,Sales notes and electronic recording systems,/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-sales-notes-and-electronic-recording-systems,/environment/fishing-regulations-monitoring-enforcement
+26e9861b-9dbf-4caf-ae98-6c1a235e2149,Sustainable development,/government/sustainable-development,/government/all
+8b6ec02b-91dd-4077-907d-17b157507adb,Fisheries statistics,/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-fisheries-statistics,/environment/fishing-regulations-monitoring-enforcement
+d9d56755-b345-4171-864a-4137b1bfc96f,Non-payment and fraud,/money/dealing-with-hmrc-tax-compliance-non-payment-and-fraud,/money/tax-compliance
+a866e769-10ea-4dfd-a461-c3c9927ea97c,Catch Quota Trials,/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-catch-quota-trials,/environment/fishing-regulations-monitoring-enforcement
+c00f023e-9dfe-4b8a-92a7-0e4739f75d45,Fisheries funding,/environment/fisheries-funding,/environment/fishing-fisheries-and-vessels
+17e62fdf-1ddc-475b-a3b0-f2583222f406,Self Assessment,/money/self-assessment,/money/personal-tax
+e67581bf-d7e6-4ed5-a8d7-039132bc6699,Careers guidance in further and higher education,/education/careers-guidance-in-further-and-higher-education,/education/further-and-higher-education-skills-and-vocational-training
+7e07ecb1-ba17-4df7-aee9-7ebb4f70d878,"Military recruitment, training and operations",/defence/military-recruitment-training-operations,/defence-and-armed-forces
+e2850141-7087-4b20-9ed4-ec73758a72ed,Inspection of children's social care providers,/childcare-parenting/inspection-of-childrens-social-care-providers,/childcare-parenting/childrens-social-care-providers
+ce2d980a-83a8-48ea-99b2-c39319103b67,Low carbon fuels,/transport/low-carbon-fuels,/transport/road-transport-and-the-environment
+2191d64f-9e40-4b68-92ec-55069bb463f8,Passports,/going-and-being-abroad/passports,/going-and-being-abroad
+c7a590ca-8e4f-4cd3-b90a-20ae2b4a633e,National Health Service,/health-and-social-care/national-health-service,/health-and-social-care
+ee0be165-6733-4ce6-8b7e-820d6f5ccd22,Laboratories and reference facilities,/health-and-social-care/health-protection-services-laboratories-and-reference-facilities,/health-and-social-care/health-protection
+9959bad0-54bc-4148-a319-616a72a8a688,Wildlife and habitat conservation,/environment/wildlife-habitat-conservation,/environment/wildlife-animals-biodiversity-and-ecosystems
+91efa2d4-190a-4169-8b14-71ff91d182cb,Digital security,/government/technology-guidance-digital-security,/government/government-technology-and-digital-services
+ea292756-7f1f-4ba4-af84-e17bfdeb05eb,Phishing ,/government/technology-guidance-phishing,/government/technology-guidance-digital-security
+00526943-93f8-44af-a862-cc78b2b27446,APIs,/government/technology-guidance-technology-guidance-apis,/government/apis-and-app-development
+e74beb13-f9e8-4a55-8fb8-21bb6d60fd75,Application development,/government/technology-guidance-technology-guidance-application-development,/government/apis-and-app-development
+98d232de-159f-4cc2-806c-2d92567e6673,Cloud security,/government/technology-guidance-technology-guidance-cloud-security,/government/technology-guidance-digital-security
+f865b60e-9e9f-41c9-b355-a8734179865f,Cloud strategy,/government/technology-guidance-technology-guidance-cloud-strategy,/government/technology-guidance-technology-guidance-digital-transformation
+7ee55fe4-7ccc-47e1-99cb-741baefa741a,Design principles,/government/technology-guidance-technology-guidance-design-principles,/government/design-and-build-of-government-services
+b3fff622-49d3-4b00-831a-1ea474b1ed58,Digital Marketplace,/government/technology-guidance-technology-guidance-digital-marketplace,/government/technology-guidance-technology-guidance-buying-technology
+0e2d07c5-5dc9-4a9b-a6c6-1dd782bdae2b,Digital outcomes and specialists framework,/government/technology-guidance-technology-guidance-digital-outcomes-and-specialists-framework,/government/technology-guidance-technology-guidance-buying-technology
+97f2ca78-86ad-4423-8a03-5cd3148e4b02,Digital service security,/government/technology-guidance-technology-guidance-digital-service-security,/government/technology-guidance-digital-security
+1a51283d-357e-42a4-853b-2728d82c7817,Digital Service Standard,/government/technology-guidance-technology-guidance-digital-service-standard,/government/design-and-build-of-government-services
+064d0e71-13a6-4d57-a768-a9dbeaac103f,Email,/government/technology-guidance-technology-guidance-email,/government/technology-guidance-digital-security
+1220caf8-e5ba-4be4-9cf1-8437674ab5ff,End user devices,/government/technology-guidance-technology-guidance-end-user-devices,/government/technology-guidance-digital-security
+502a976f-1a53-441a-9660-58dee96bb62f,GOV.UK Notify,/government/technology-guidance-technology-guidance-govuk-notify,/government/govuk-services
+97da6ed7-1d10-4880-944b-832d15767d11,GOV.UK Pay,/government/technology-guidance-technology-guidance-govuk-pay,/government/govuk-services
+675df7eb-a8bb-4ffa-9192-fd48ff248940,GovWifi,/government/technology-guidance-technology-guidance-govwifi,/government/govuk-services
+d84d1594-f338-43bb-8a2d-116f4087aef5,GOV.UK Platform as a Service (PaaS),/government/technology-guidance-technology-guidance-govuk-platform-as-a-service,/government/govuk-services
+778f0d57-dd5a-44c6-b27d-046573d7d783,GOV.UK Proposition,/government/technology-guidance-technology-guidance-govuk-proposition,/government/govuk-services
+e5e301c4-32c7-4491-b05f-e4597f202dbe,GOV.UK Registers,/government/technology-guidance-technology-guidance-govuk-registers,/government/govuk-services
+5313332f-f867-4aa4-a23b-63d95c98bb7d,GOV.UK Verify,/government/technology-guidance-technology-guidance-govuk-verify,/government/govuk-services
+68dccc87-1f13-4650-9f5a-d93ee903e420,Green technology,/government/technology-guidance-technology-guidance-green-technology,/government/technology-guidance-technology-guidance-digital-transformation
+9dd1deb9-0b6e-4fc1-a7aa-1b5cb6b323ba,Hosting your service,/government/technology-guidance-technology-guidance-hosting-your-service,/government/technology-guidance-technology-guidance-managing-government-websites
+b6254b78-ae7a-4749-91a9-93941f22dfbc,Public Service Network (PSN),/government/technology-guidance-technology-guidance-psn,/government/government-technology-and-digital-services
+d8a50c1c-1bc4-4eca-9ff1-383374feb086,Identity assurance,/government/technology-guidance-technology-guidance-identity-assurance,/government/technology-guidance-digital-security
+48db5dbd-5894-4d87-834e-b38c2246feae,Legacy,/government/technology-guidance-technology-guidance-legacy,/government/technology-guidance-technology-guidance-digital-transformation
+95628e18-0008-4fa0-a118-25f35f092efa,Managing government websites,/government/technology-guidance-technology-guidance-managing-government-websites,/government/government-technology-and-digital-services
+20ce7953-c797-4606-9bbe-a7d940c65d4d,Networking,/government/technology-guidance-technology-guidance-networking,/government/networks-and-telecommunications
+c33660e9-40fc-48ab-8405-24f01f9e1b3b,Open source,/government/technology-guidance-technology-guidance-open-source,/government/open-source-and-open-standards
+5b58dc86-1179-4bba-b35e-6af1496147ae,Open standards,/government/technology-guidance-technology-guidance-open-standards,/government/open-source-and-open-standards
+9b5f839b-3147-495e-a522-73853651843f,Passwords,/government/technology-guidance-technology-guidance-passwords,/government/technology-guidance-digital-security
+a29ed344-b9d8-4466-aa28-1bd40f02a8ca,Performance platform,/government/technology-guidance-technology-guidance-performance-platform,/government/govuk-services
+8329ee2c-9f39-40c6-82c3-f2a5d8b4cb35,Risk management,/government/technology-guidance-technology-guidance-risk-management,/government/technology-guidance-digital-security
+b3ba77a4-8942-4fb9-a4f5-e298bb906146,Smarter working,/government/technology-guidance-technology-guidance-smarter-working,/government/technology-guidance-technology-guidance-digital-transformation
+c624aa2d-3e37-40d4-baaa-8932f31fc1c3,Telecommunications,/government/technology-guidance-technology-guidance-telecommunications,/government/networks-and-telecommunications
+25b4224c-68e1-441e-9b9e-c77f6c3a1344,User research,/government/technology-guidance-technology-guidance-user-research,/government/government-technology-and-digital-services
+e9959af5-d74b-434d-950b-9116501da30e,Mental health,/health-and-social-care/mental-health,/health-and-social-care/public-health
+81ff0b1d-506c-4975-9446-e6860aa758a0,Business premises and business rates,/business/premises-rates,/business-and-industry/running-a-business
+29a279ce-d2b2-4e8a-a79c-3b4954824b45,Tourism,/society-and-culture/tourism,/society-and-culture
+38df3413-5ca5-4788-b1dd-96562707a5bb,"Marriage, civil partnership and divorce",/life-circumstances/marriage-divorce,/life-circumstances
+e6e5e089-7157-40d4-8278-25f468798ce8,Waste exemptions,/environment/waste-exemptions,/environment/environmental-permits
+d5c8bbf3-b7c1-4cfa-9975-e9285f36959c,Social care,/health-and-social-care/social-care,/health-and-social-care
+cf366a07-8fc1-471d-985e-109d361c60f0,Vessel licensing,/environment/vessel-licensing,/environment/fishing-vessels
+94b3a5e7-b14b-4edb-a5b8-4e529d1fa1f4,Child poverty,/childcare-parenting/child-poverty,/childcare-parenting/childrens-health-and-welfare
+2a5c8974-552e-4197-8562-f40599fe8406,First sale marine fish,/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-first-sale-marine-fish,/environment/fishing-regulations-monitoring-enforcement
+2c34e342-3ad8-4df5-987f-0029fb00bcba,VAT,/money/dealing-with-hmrc-paying-hmrc-vat,/money/paying-hmrc
+95aa4b52-9851-47e0-a8a4-1f911e18cd87,Road transport and the environment,/transport/road-transport-and-the-environment,/transport/driving-and-road-transport
+5f0b9078-21cd-45d5-a235-396b297e45e7,Inspection and performance of schools,/education/inspection-and-performance-of-schools,/education/inspections-and-performance-of-education-providers
+3fce8a7b-7fa1-4f0e-8593-d838ecbc6b77,Vaping Products Duty,/money/vaping-products-duty,/money/business-tax
+dd948805-fc09-41dd-9b51-a7710966cda1,Mining reports and data,/environment/coal-reports-data,/environment/coal
+4142ddea-94be-42d2-8801-77cdf113419b,Buying technology,/government/technology-guidance-technology-guidance-buying-technology,/government/government-technology-and-digital-services
+ad5588f7-5ff6-4e38-805a-12a433e12815,Voting,/government/voting,/government/democracy
+a013a9b6-230f-4186-9687-95dcfcd00bb4,UK energy security,/business/uk-energy-security,/business-and-industry/business-and-the-environment
+8d094a01-413e-46f3-a24a-3f342c991771,Research and innovation in health and social care,/health-and-social-care/research-and-innovation-in-health-and-social-care,/health-and-social-care
+83b9845d-6252-40d5-903d-023e621a0d1b,Plants,/environment/environmental-management-wildlife-habitat-conservation-plants,/environment/wildlife-habitat-conservation
+54de4dae-72c1-467c-8418-1493cfbf0f9e,"Fishing, fisheries and fishing vessels",/environment/fishing-fisheries-and-vessels,/environment
+92bae456-395a-4f42-9490-f6f7ade637f2,Vessel and crew safety and certification,/environment/vessel-crew-safety-certification,/environment/fishing-vessels
+8d790034-9139-471b-af6a-f456442d174e,Armed forces support for activities in the UK,/defence-and-armed-forces/armed-forces-support-for-activities-in-the-uk,/defence-and-armed-forces
+6d705af8-be8c-4145-a2d3-0e7bb7ebfad1,Intellectual property,/business/intellectual-property,/business-and-industry/business-regulation
+6377d8e0-55d0-4ea2-a8ef-16d2bfe346a3,Government missions,/government/missions,/government/government-efficiency-transparency-and-accountability
+79235d03-aeb0-4fab-a8fc-07b0dfcf348a,Pharmacy,/health-and-social-care/pharmacy,/health-and-social-care/medicines-medical-devices-blood
+98f1df25-d3b2-47c1-b86b-ed1b55d8f523,Vaping Products Duty and Stamps Scheme,/money/vaping-products-stamp-scheme,/money/vaping-products-duty
+6836bd78-2b5e-488e-9af4-d77e95226b77,Autism,/health-and-social-care/autism,/health-and-social-care/health-conditions
+67023266-816d-4b8d-8db6-ef9afcf0f3a3,Antimicrobial resistance (AMR),/health-and-social-care/antimicrobial-resistance,/health-and-social-care/health-protection
+98828080-b148-4f3c-9a51-0d905a62409d,Carers' health,/health-and-social-care/carers-health,/health-and-social-care/social-care
+eaa638c9-241e-41d9-b221-bbc12af4ec6b,Health improvement,/health-and-social-care/health-improvement,/health-and-social-care/public-health
+f2b2cf3a-c5c4-4e2a-b17b-37249a596b9f,Disability rights,/health-and-social-care/disabilities-rights,/health-and-social-care/disabilities
+0ac7ec0e-1be9-4fc0-970e-99893f2b6b1f,Dementia,/health-and-social-care/dementia,/health-and-social-care/health-conditions
+231546c1-a675-4745-b98a-752cd4d560a8,Disabled people,/health-and-social-care/disabilities,/health-and-social-care
+b2150135-cfea-4163-b106-7289b8a7270d,Benefits and financial help,/health-and-social-care/disabilities-benefits,/health-and-social-care/disabilities
+06f53b47-b677-468d-b4e3-3faf9c918a36,Disability equipment and transport,/health-and-social-care/disabilities-equipment,/health-and-social-care/disabilities
+901cb7de-8599-4084-93ec-733cf7324d05,Health and social care integration,/health-and-social-care/health-and-social-care-integration,/health-and-social-care/social-care
+a1911cc6-065f-4a03-a3bb-1a46d8cda12a,Health emergency planning,/health-and-social-care/health-emergency-planning,/health-and-social-care/health-protection
+7739d611-bae2-49f9-a342-213505641883,Emergency response,/health-and-social-care/health-protection-emergency-response,/health-and-social-care/health-protection
+9acd67da-59e5-4545-8af0-a99cf84f46a9,Migrant health,/health-and-social-care/health-protection-migrant-health-guide,/health-and-social-care/health-protection
+a6bd3df3-a36f-424c-9e73-e80262f9cb80,"Good practice, inspections and enforcement",/health-and-social-care/medicines-medical-devices-blood-good-practice,/health-and-social-care/medicines-medical-devices-blood
+9d659d59-e105-4235-8bce-795bf98ed749,Herbal and homeopathic medicines,/health-and-social-care/medicines-medical-devices-blood-herbal-homeopathic-medicines,/health-and-social-care/medicines-medical-devices-blood
+714e4e35-ee67-4ad3-ba49-44d745f45fba,Medical devices regulation and safety,/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety,/health-and-social-care/medicines-medical-devices-blood
+a69236f7-752c-4bdd-884d-b047ed561421,Alerts and recalls,/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts-alerts-and-recalls,/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts
+846c51a9-c044-4197-a81d-2e0003dfe5ef,Ophthalmology,/health-and-social-care/ophthalmology,/health-and-social-care/public-health
+3fcbe458-451d-4f2b-abf0-783237107f11,Oral health,/health-and-social-care/oral-health,/health-and-social-care/health-improvement
+eb350a5b-e015-4f05-b6b4-0d83ab429464,NHS abdominal aortic aneurysm (AAA) programme,/health-and-social-care/population-screening-programmes-abdominal-aortic-aneurysm,/health-and-social-care/population-screening-programmes
+7213f1d7-6dd9-4855-9ed5-472de35ad041,NHS bowel cancer screening (BCSP) programme,/health-and-social-care/population-screening-programmes-bowel,/health-and-social-care/population-screening-programmes
+288b13e5-23cc-488a-abcf-1935a9420c5f,NHS breast screening (BSP) programme ,/health-and-social-care/population-screening-programmes-breast,/health-and-social-care/population-screening-programmes
+0595c662-2fd8-4946-807d-ea9f5965f288,NHS cervical screening (CSP) programme ,/health-and-social-care/population-screening-programmes-cervical,/health-and-social-care/population-screening-programmes
+b1c39174-71ea-42da-b641-e9b55f589b38,NHS diabetic eye screening (DES) programme,/health-and-social-care/population-screening-programmes-diabetic-eye,/health-and-social-care/population-screening-programmes
+f74ecdc5-0a4c-4219-a714-d9e6b8784b35,NHS fetal anomaly screening programme (FASP),/health-and-social-care/population-screening-programmes-fetal-anomaly,/health-and-social-care/population-screening-programmes
+7d5cc8ee-e0b1-4871-9d97-eb85a25a2036,Crops and horticulture ,/environment/producing-distributing-food-crops-horticulture,/environment/producing-distributing-food
+b3d095f1-9b4b-4ebe-9752-6ec08af60a58,Countryside stewardship,/environment/countryside-stewardship,/environment/farming-food-grants-payments-rural-grants-payments
+115fad5f-c59e-4224-adea-14b62a97207d,Government evaluation,/government/government-evaluation,/government/government-efficiency-transparency-and-accountability
+2961839a-9516-4081-87ac-6bbc4f6d27db,Human fertilisation and embryology,/health-and-social-care/human-fertilisation-and-embryology,/health-and-social-care/public-health
+dd3622d9-5edb-4ca0-ae3f-a8373765411a,School and academy funding,/education/school-and-academy-funding,/education
+3b0671be-e79a-4e56-aa1e-1b86fb6ab234,Planning and building,/housing-local-and-community/planning-and-building,/housing-local-and-community
+f19348ab-fe6c-4fd4-a8cc-8a4554be1cab,Registration for specific business types,/money/business-tax-money-laundering-regulations-registration-for-specific-business-types,/money/money-laundering-regulations
+04889bc5-29c6-4ae9-8d03-161fb421f692,Landfill Tax,/money/landfill-tax,/money/business-tax
+56e921b1-ec0a-4238-93c9-3f44b17bc714,Gambling duties,/money/gambling-duties,/money/business-tax
+1fc80ce6-7a34-4880-9a42-d2ae875f20f9,Tobacco Products Duty,/money/tobacco-products-duty,/money/business-tax
+04b907f1-8a6b-426b-a815-4d7fd93598f6,Mining permits and licences,/environment/coal-permits-licences,/environment/coal
+ddb78c60-a22d-43d2-9205-7e033cc6d1db,Criminal justice reform,/crime-justice-and-law/criminal-justice-reform,/crime-justice-and-law
+eb55cd25-b302-4783-890f-26c1178e77dd,NHS infectious diseases in pregnancy screening (IDPS) programme,/health-and-social-care/population-screening-programmes-infectious-diseases-in-pregnancy,/health-and-social-care/population-screening-programmes
+85c52f04-cbdb-4ecd-87a2-d93cb380a93d,NHS newborn blood spot (NBS) screening programme,/health-and-social-care/population-screening-programmes-newborn-blood-spot,/health-and-social-care/population-screening-programmes
+e7556433-6f87-4466-bb3e-22d8825ebbd7,NHS newborn hearing screening programme (NHSP),/health-and-social-care/population-screening-programmes-newborn-hearing,/health-and-social-care/population-screening-programmes
+0bc88b3b-5480-4a3f-af09-dce29025c455,NHS sickle cell and thalassaemia (SCT) screening programme,/health-and-social-care/population-screening-programmes-sickle-cell-thalassaemia,/health-and-social-care/population-screening-programmes
+ad2fbe7b-0cc3-4d2e-be36-77ce32e531e0,Quality assurance in population screening,/health-and-social-care/screening-quality-assurance,/health-and-social-care/population-screening-programmes
+1ea44374-f920-46c8-b1d9-2e5a1958c4ee,Vaping,/health-and-social-care/vaping,/health-and-social-care/health-improvement
+5f3bf571-ba69-4f51-a83a-dfd8ca8b67f0,Pensions and compensation,/defence/defence-armed-forces-support-services-military-defence-personnel-families-pensions-and-compensation,/defence/support-services-military-defence-personnel-families
+aab11e18-036e-4a89-8ad4-44d11c1f8ce0,Business regulation,/business-and-industry/business-regulation,/business-and-industry
+20bd40a6-15fb-4e26-9f34-c61a10139922,Competition,/business/competition,/business-and-industry/business-regulation
+cfb24e1b-e35c-4cb2-80d0-893db0514966,Children's health,/childcare-parenting/childrens-health,/childcare-parenting/childrens-health-and-welfare
+e89e7fff-8905-4139-953e-f9368f9bb987,Testing for COVID-19,/health-and-social-care/testing-for-covid-19,/health-and-social-care/covid-19
+b7ce40b9-de2b-4824-93a5-3167f4a19bb0,Digital transformation,/government/technology-guidance-technology-guidance-digital-transformation,/government/government-technology-and-digital-services
+18cb8281-950a-45c3-8a28-0b59bb349f1f,Health and social care training,/health-and-social-care/health-social-care-training,/health-and-social-care/health-workforce
+64fb4761-e5d3-4251-af13-d6179f67a59f,Employment of seafarers,/transport/employment-of-seafarers,/transport/seafarer-management-training-and-certification
+ab4725c2-2420-478e-aac3-c764d2dec6f3,Air navigation,/transport/air-navigation,/transport/aviation
+612e53fc-dd86-40ef-aa39-43bec0912b19,Universal Credit,/welfare/universal-credit,/welfare
+2530e2ff-11d4-4d78-b607-3bbd590f8435,"Seafarer management, training and certification",/transport/seafarer-management-training-and-certification,/transport/maritime-and-shipping
+7f7ee8af-ce72-4a18-850d-98d173baa8e2,Special educational needs and disability (SEND) and high needs,/education/special-educational-needs-and-disability-send-and-high-needs,/education
+7d0ecd35-c097-43ce-9683-02bfa7c42c36,Communications and telecomms,/business/communications-and-telecomms,/business-and-industry/media-and-communications
+01767157-0218-43ff-a151-fd29e89f98ce,Online safety,/society-and-culture/online-safety,/society-and-culture
+ce175abf-2ce8-402a-8fe8-ce3cc0505ee8,UK economy,/business-and-industry/uk-economy,/business-and-industry
+a46386a0-a035-4cc0-bf7b-a1c55c2fc363,Manufacturing,/business-and-industry/manufacturing,/business-and-industry
+92f81c1f-e97a-4598-a73d-fd8c8bb30b3b,Business and mortgage services,/housing-local-and-community/land-registration-business-mortgage-services,/housing-local-and-community/land-registration
+7bed267f-e181-40ae-9050-d1f16656e4de,Afghanistan,/international/afghanistan,/international/foreign-affairs
+f013664c-149c-4d08-8f0a-f63f6112bff5,Anti-corruption,/international/anti-corruption,/international
+e3e541cb-c473-44d3-9a24-60d93b345351,Climate change impact in developing countries,/international/climate-change-impact-in-developing-countries,/international/international-aid-and-development
+998374ec-3d2e-419d-b30c-6867d4725893,Economic growth in developing countries,/international/economic-growth-in-developing-countries,/international/international-aid-and-development
+ae89ce5b-0d62-4b28-90f1-58a05cfa819e,Education in developing countries,/international/education-in-developing-countries,/international/international-aid-and-development
+c7ca41aa-b9de-4597-8515-5d0d4be2186d,Falkland Islanders' right to self-determination,/international/government-topics-foreign-affairs-falkland-islanders-right-to-self-determination,/international/foreign-affairs
+2dfc4253-39d4-43a1-a53d-068a9fa172e3,Piracy off the coast of Somalia,/international/government-topics-foreign-affairs-piracy-off-the-coast-of-somalia,/international/foreign-affairs
+54181d8c-0d3c-4270-a6e5-cebf581f0b2a,UK Overseas Territories,/international/government-topics-foreign-affairs-uk-overseas-territories,/international/foreign-affairs
+f2ecb4f7-bf14-45cb-ac2d-a2c1cc774e4f,Health in developing countries,/international/health-in-developing-countries,/international/international-aid-and-development
+eeb54057-11c3-439a-8c6a-4a0e6a0832e4,Humanitarian emergencies,/international/humanitarian-emergencies,/international/international-aid-and-development
+89527a25-cd26-4d0b-a7f6-2fed1c057cca,Northern Ireland,/regional-and-local-government/northern-ireland,/regional-and-local-government
+404c2fcf-73f4-472f-aea4-5cb29238145d,Forests and woodland,/environment/forests-and-woodland,/environment/rural-and-countryside
+4ae54968-4689-4074-83b4-c3ec0a7690c6,Set up an independent school,/education/set-up-independent-school,/education/setting-up-or-changing-the-status-of-a-school
+b7d30f9a-91f0-48d3-9d08-39f53779728d,"Shows, fairs and markets",/environment/keeping-farmed-animals-shows-fairs-markets,/environment/keeping-farmed-animals
+f30933c7-607c-46b1-9523-4d639dc5cac9,Import controls,/business-and-industry/import-controls,/business-and-industry/importing
+17aa5bfb-5250-48ac-bdf7-3372391a1793,Government graduate schemes,/employment/government-graduate-schemes,/work
+90d024e3-960c-443b-ae1b-2c1de8d9aec3,Abortion,/health-and-social-care/abortion,/health-and-social-care/public-health
+50bf23f2-fda6-46b6-a67d-d62e67c618fa,Benefits entitlement,/welfare/entitlement,/welfare
+bc92c712-45a5-4f21-a590-d003ab9c2802,Regulatory appeals and references,/business/competition-regulatory-appeals-references,/business/competition
+2d6e9eec-5cd2-4536-975a-d8ba838e91d3,MOTs,/transport/mots,/transport/vehicle-ownership-approval-and-standards
+fc900e96-fb8f-4181-863d-cbda59fbef55,Council housing and housing association,/housing-local-and-community/council-housing-association,/housing-local-and-community/housing-and-communities
+c1e86079-f793-4944-94d9-82a2d95d0309,Environmental planning,/housing-local-and-community/environmental-planning,/housing-local-and-community/planning-and-building
+ea369242-76fd-419e-861c-1f6f1cbb88c4,Freehold and leasehold property,/housing-local-and-community/freehold-leasehold-property,/housing-local-and-community/housing-and-communities
+c3ef25c0-6bfa-4bf3-aeab-0b154c7d2779,Housing funding programmes,/housing-local-and-community/funding-programmes,/housing-local-and-community/housing-and-communities
+b1d663e3-c8ab-4629-b7c5-c99ce620ee7c,High streets and town centres,/housing-local-and-community/high-streets-and-town-centres,/business-and-industry/uk-economy
+8c278874-a46c-465c-bb6a-f63f910cf7e5,Homebuying,/housing-local-and-community/homebuying,/housing-local-and-community/housing-and-communities
+dd9c8efc-4b80-4e94-b200-900b4eff1fbc,Homelessness and rough sleeping,/housing-local-and-community/homelessness-rough-sleeping,/housing-local-and-community/housing-and-communities
+67ddd673-3ec5-4284-aed0-6194faf73b97,House building,/housing-local-and-community/house-building,/housing-local-and-community/planning-and-building
+c1c3d63b-caea-4916-bb99-b873f685e5a9,Household energy,/housing-local-and-community/household-energy,/housing-local-and-community
+1e5af3db-9ef1-4635-b03e-1cf11a2ea134,Housing for older and vulnerable people,/housing-local-and-community/housing-for-older-and-vulnerable-people,/housing-local-and-community/housing-and-communities
+831aeecb-22f0-4411-9797-fb70b9a02897,Safety and the environment in your community,/housing-local-and-community/housing-local-services-safety-environment,/housing-local-and-community/housing-and-communities
+3063f98b-4217-44a0-a718-ade7a1c4e4d8,Land and development opportunities,/housing-local-and-community/land-development-opportunities,/housing-local-and-community/planning-and-building
+db391dcf-da74-4452-b3f9-2bffebf5bd78,Land registration,/housing-local-and-community/land-registration,/housing-local-and-community
+7b4bf59f-dbe2-4cd2-816b-c571283487e6,Mortgage services,/housing-local-and-community/land-registration-business-mortgage-services-mortgage-services,/housing-local-and-community/land-registration-business-mortgage-services
+308b08cf-7014-4638-89f6-d9bbd7beb602,Ownership verification ,/housing-local-and-community/land-registration-business-mortgage-services-ownership-verification,/housing-local-and-community/land-registration-business-mortgage-services
+6ed8d14f-518d-47ee-b186-ffb924041249,Property portfolio management ,/housing-local-and-community/land-registration-business-mortgage-services-property-portfolio-management,/housing-local-and-community/land-registration-business-mortgage-services
+627badd0-faa9-4043-9ae2-02b8e7776a1c,Spatial data,/housing-local-and-community/land-registration-business-mortgage-services-spatial-data,/housing-local-and-community/land-registration-business-mortgage-services
+b5169f79-2c57-46b5-825b-0e90d5dcd688,Land Registration Data ,/housing-local-and-community/land-registration-data,/housing-local-and-community/land-registration
+fe6d06f6-7142-4b22-b41c-86c9b90d9cc0,"Land registration searches, fees and forms",/housing-local-and-community/land-registration-searches-fees-forms,/housing-local-and-community/land-registration
+0ac4e613-8271-427b-8291-4b83ce9d469b,Harbours,/environment/environmental-management-marine-harbours,/environment/marine
+3efae00f-9156-4b95-9b7b-8fac3594108c,Being a landlord and renting out a room,/housing-local-and-community/landlords,/housing-local-and-community/housing-and-communities
+8d8fe4e5-fd4f-4987-8533-e2f21de813d9,Landscape,/housing-local-and-community/landscape,/housing-local-and-community/planning-and-building
+3999f3a8-6d6f-4527-9d13-d314b5336d0e,Local Plans,/housing-local-and-community/local-plans,/housing-local-and-community/planning-and-building
+9c52a63e-5c2c-4f39-9974-9afd58c0ea2f,Owning and renting a property,/housing-local-and-community/owning-renting-property,/housing-local-and-community/housing-and-communities
+1ea5e1ad-a83e-4e2d-9f87-3c3be1cb94dc,Planning reform,/housing-local-and-community/planning-reform,/housing-local-and-community/planning-and-building
+47de1835-6390-4dbb-accd-58afb29c45a6,"Recycling, rubbish, streets and roads",/housing-local-and-community/recycling-rubbish,/housing-local-and-community/housing-and-communities
+c4a77890-bee6-454d-acf0-61de5a18ed3f,Housing regulation,/housing-local-and-community/regulation,/housing-local-and-community/housing-and-communities
+281bac65-6ab2-40cd-b189-34ad5d81ec12,"Repossessions, emergency housing and evictions",/housing-local-and-community/repossessions-evictions,/housing-local-and-community/housing-and-communities
+6aace1cb-cd9f-4e5f-9fbd-2ed8337886b1,Tenancies and leases,/housing-local-and-community/tenancies-leases,/housing-local-and-community/housing-and-communities
+fcfb54f6-c786-4a36-9c2b-a314e5a2d7bd,Traveller communities,/housing-local-and-community/traveller-communities,/housing-local-and-community/housing-and-communities
+00daed8e-4aec-4bb3-b871-54f26bb844a4,Filing your return,/money/business-tax-corporation-tax-filing-your-return,/money/corporation-tax
+2ea42e6c-2ab2-42fd-abca-8eda3302a268,Aggregates Levy,/money/aggregates-levy,/money/business-tax
+db125f81-6e5d-4bdf-9ac2-a5045abd4d88,Air Passenger Duty,/money/air-passenger-duty,/money/business-tax
+a459c40a-18e3-4d17-9edf-5990d3442c21,Payments and reliefs (aggregates levy),/money/business-tax-aggregates-levy-payments-and-reliefs,/money/aggregates-levy
+6fdbd719-f600-4c78-83fd-0bebf40b4b95,Moving and storing goods,/money/business-tax-alcohol-duties-moving-and-storing-goods,/money/alcohol-duty
+ea37b25e-882a-41a1-8b4c-a9de87c29d83,Payments and reliefs (Alcohol duty),/money/business-tax-alcohol-duties-payments-and-reliefs,/money/alcohol-duty
+39b60151-dcb0-4429-84bc-b30a3dce5f12,Contractors,/money/business-tax-construction-industry-scheme-contractors,/money/construction-industry-scheme
+bb325ee6-e286-4d30-abfb-7a85d137f5b0,Digital Services Tax,/money/digital-services-tax,/money/business-tax
+b68316af-664e-4456-b00d-79ecea2ff083,Payments,/money/business-tax-construction-industry-scheme-payments,/money/construction-industry-scheme
+cc915d26-f04d-49d2-8c9f-5be066915f43,Subcontractors,/money/business-tax-construction-industry-scheme-subcontractors,/money/construction-industry-scheme
+f679e04d-204d-49f8-9ac3-b70ce87fe1ec,Changes to your company,/money/business-tax-corporation-tax-changes-to-your-company,/money/corporation-tax
+a4082c5b-daa6-47a3-a603-8b362fe8fe58,Payments and refunds,/money/business-tax-corporation-tax-payments-and-refunds,/money/corporation-tax
+9da737e8-d99a-446e-9244-afe9d6f3fd34,Preparing accounts for Corporation Tax,/money/business-tax-corporation-tax-preparing-accounts-for-corporation-tax,/money/corporation-tax
+462dfd15-e9f3-4f5a-a625-aec8b7b37c82,Coming to the UK,/money/coming-to-uk,/money/personal-tax
+1dac98a7-846e-41dc-861e-3c5408b377d5,Reliefs,/money/business-tax-corporation-tax-reliefs,/money/corporation-tax
+c65dddf5-6c2d-4b3a-8fa6-10b47fa09d8b,Working out your Corporation Tax,/money/business-tax-corporation-tax-working-out-your-corporation-tax,/money/corporation-tax
+04bd623a-9929-40f5-b13f-bf021ce4f562,Asset valuation,/money/business-tax-employment-related-securities-asset-valuation,/money/employment-related-securities
+fd12bb43-7869-4fa3-8bd4-3d079b654cca,National Insurance transfers,/money/business-tax-employment-related-securities-national-insurance-transfers,/money/employment-related-securities
+ed1c31fd-fc60-437b-92fc-c6d9e496429e,Payments and reliefs (Fuel duty),/money/business-tax-fuel-duty-payments-and-reliefs,/money/fuel-duty
+cc83a150-3f55-4942-8593-5a5dc6ccf6a3,Life insurance policies,/money/life-insurance-policies,/money/business-tax
+d927667c-d149-4928-a926-07804e1aa0dd,Returns and notifications,/money/business-tax-employment-related-securities-returns-and-notifications,/money/employment-related-securities
+5bf923d0-e885-424b-bd5b-68808a129e5e,SAYE bonus rates,/money/business-tax-employment-related-securities-saye-bonus-rates,/money/employment-related-securities
+2384c30a-27a9-4158-8ca4-028c8394843d,Moving and storing goods,/money/business-tax-fuel-duty-moving-and-storing-goods,/money/fuel-duty
+6262f3a6-e60c-4db4-be87-c3d290469756,Bingo Duty,/money/business-tax-gambling-duties-bingo-duty,/money/gambling-duties
+4b26cd20-b8c0-4bfe-8673-355125cc90ea,Gaming Duty,/money/business-tax-gambling-duties-gaming-duty,/money/gambling-duties
+a174f376-8bb3-4e74-b456-fbcb36ff18ca,"General Betting Duty, Pool Betting Duty and Remote Gaming Duty",/money/business-tax-gambling-duties-general-betting-duty-pool-betting-duty-and-remote-gaming-duty,/money/gambling-duties
+a09cb2c4-6abf-46d5-9268-77b13619c295,Lottery Duty,/money/business-tax-gambling-duties-lottery-duty,/money/gambling-duties
+17973115-9f90-4a5f-9f8f-195646d80f98,Machine Games Duty,/money/business-tax-gambling-duties-machine-games-duty,/money/gambling-duties
+0b4529fe-4458-440d-9709-833bf28e1eee,Corporation Tax,/money/corporation-tax,/money/business-tax
+5e3cdedc-2ab4-40e6-b320-f42147a20e4c,Paying HMRC,/money/business-tax-gambling-duties-paying-hmrc,/money/gambling-duties
+182ae59e-3163-489f-9506-d40f76c5b76c,Insurance Premium Tax,/money/business-tax-insurance-premium-tax,/money/business-tax
+e049304e-72dd-41c4-a0d8-21d8c85daedb,Paying Insurance Premium Tax,/money/business-tax-insurance-premium-tax-paying-insurance-premium-tax,/money/business-tax-insurance-premium-tax
+bc200fda-fc9f-45b9-903f-6b3ae375f3d6,Complaints and appeals,/money/complaints-appeals,/money/dealing-with-hmrc
+9ee64813-1fe1-4265-b468-0d4e568bdc18,Double taxation,/money/business-tax-international-tax-double-taxation,/money/international-tax
+b99f14aa-027f-4a60-accb-c799ff8b50f6,Shipping,/money/business-tax-international-tax-shipping,/money/international-tax
+fb4e5961-16e4-466f-9f00-c74cc16dbfa4,Collective Investment Schemes,/money/business-tax-investment-schemes-collective-investment-schemes,/money/investment-schemes
+3bd93bbe-becc-4d5a-9716-aadcb4c9dc26,Leaving the UK,/money/leaving-uk,/money/personal-tax
+4bc2391d-d4c1-4b4d-8fee-686e109e2110,Problems and compliance checks,/money/business-tax-money-laundering-regulations-problems-and-compliance-checks,/money/money-laundering-regulations
+6265ca7a-c899-4d9a-a30e-61633865f59b,Venture capital schemes,/money/business-tax-investment-schemes-venture-capital-schemes,/money/investment-schemes
+1d918e0b-5909-4f5f-9327-a8277a2e0439,Employment intermediaries,/money/business-tax-ir35-employment-intermediaries,/money/ir35
+cd04e99f-3519-4248-a305-053d68fbf24c,Employment status,/money/business-tax-ir35-employment-status,/money/ir35
+e399d255-20f4-470c-aa43-09a4ec16af3b,Off-payroll working rules,/money/business-tax-ir35-off-payroll-working-rules,/money/ir35
+0a917695-70a1-4d36-84ed-f07980065e7d,Payments and reliefs (landfill tax),/money/business-tax-landfill-tax-payments-and-reliefs,/money/landfill-tax
+5509c53a-8637-40f9-bf6a-031a6acb42b7,Large businesses,/money/business-tax-large-midsize-business-guidance-large-businesses,/money/large-midsize-business
+bea2294f-3004-4ab4-aa24-54d6432ec300,Your role under the regulations,/money/business-tax-money-laundering-regulations-your-role-under-the-regulations,/money/money-laundering-regulations
+c0ac090c-076a-4f5d-aec0-60e0df1d7f91,Annual PAYE and payroll tasks,/money/business-tax-paye-annual-paye-and-payroll-tasks,/money/paye
+13c92181-c540-42bd-a4cf-f5d8df5c5e83,Climate Change Levy,/money/climate-change-levy,/money/business-tax
+a802e087-a983-40f4-8fae-57236a06c085,Changes to the business that affect PAYE,/money/business-tax-paye-changes-to-the-business-that-affect-paye,/money/paye
+5c168c5e-cc90-4154-82f1-73a831a8b9a0,Expenses and benefits,/money/business-tax-paye-expenses-and-benefits,/money/paye
+d1741b5e-1aba-4b13-b5bd-5f2f0544591a,Paying HMRC,/money/business-tax-paye-paying-hmrc,/money/paye
+08dc43da-3a9e-4eae-b44d-47b6e0eeead7,Registering and getting started,/money/business-tax-paye-registering-and-getting-started,/money/paye
+e65db533-070d-4040-8b58-6c134238777c,Special types of employee pay,/money/business-tax-paye-special-types-of-employee-pay,/money/paye
+de201816-df39-40b8-8362-6ced34c41bb2,Statutory pay and leave,/money/business-tax-paye-statutory-pay-and-leave,/money/paye
+e59a0ba5-d9f9-4922-ae39-26850b33f939,Administering a pension scheme,/money/business-tax-pension-scheme-administration-administering-a-pension-scheme,/money/pension-scheme-administration
+78751e11-1844-45e3-8faa-aee2a65bf7c6,Overseas schemes,/money/business-tax-pension-scheme-administration-overseas-schemes,/money/pension-scheme-administration
+df888abf-f09f-4efc-bcf0-ba737ad974ff,Paying into a pension scheme,/money/business-tax-pension-scheme-administration-paying-into-a-pension-scheme,/money/pension-scheme-administration
+63e04674-7fba-4d38-a073-ed47c3be4178,Pension scheme trustees,/money/business-tax-pension-scheme-administration-pension-scheme-trustees,/money/pension-scheme-administration
+ebb66a26-81ba-4c78-9f7e-c246e7757c3a,Tax on pensions,/money/business-tax-pension-scheme-administration-tax-on-pensions,/money/pension-scheme-administration
+08117f33-bee9-4219-beea-936d91800a50,Business tax reform,/money/business-tax-reform,/money/business-tax
+21af21d3-3b6b-46dc-845c-f08d095857c3,Stamp tax on electronic shares,/money/business-tax-stamp-duty-on-shares-stamp-tax-on-electronic-shares,/money/stamp-duty-on-shares
+d5798b28-7d5e-4ef4-b1f2-1c9931df32fe,Stamp tax on paper shares,/money/business-tax-stamp-duty-on-shares-stamp-tax-on-paper-shares,/money/stamp-duty-on-shares
+32d2f930-f66b-4284-87e7-6ae7df6d4b9b,Annual Tax on Enveloped Dwellings,/money/business-tax-stamp-taxes-annual-tax-on-enveloped-dwellings,/money/stamp-taxes
+c96999eb-62d8-4143-9ea7-bd8d2767f4cc,Filing a SDLT return,/money/business-tax-stamp-taxes-file-your-sdlt-return,/money/stamp-taxes
+c1fb340e-7a55-46a3-85df-a6c6ae1408d4,Pay your SDLT bill,/money/business-tax-stamp-taxes-pay-your-sdlt-bill,/money/stamp-taxes
+71e53e1e-29eb-4f53-b8be-8a6af7077452,SDLT on specific transactions,/money/business-tax-stamp-taxes-sdlt-on-specific-transactions,/money/stamp-taxes
+b02c52e3-cff9-471c-8789-dff5c83862c8,Stamp Duty before December 2003,/money/business-tax-stamp-taxes-stamp-duty-before-december-2003,/money/stamp-taxes
+be1dadce-1549-4444-8aee-e3daf043dd6c,Moving and storing goods,/money/business-tax-tobacco-products-duty-moving-and-storing-goods,/money/tobacco-products-duty
+31c3076f-5eb3-468d-b4b9-7e24509cebe7,Payments and reliefs (tobacco products duty),/money/business-tax-tobacco-products-duty-payments-and-reliefs,/money/tobacco-products-duty
+333cb153-b2b0-40ce-9364-76eeb2b4e45b,Accounting for VAT,/money/business-tax-vat-accounting-for-vat,/money/vat
+8b6d028c-d019-4f2c-a67b-0be46f0e80a9,Charging VAT,/money/business-tax-vat-charging-vat,/money/vat
+adb13b09-6008-44dc-8b75-3959ae8f8c76,Exporting goods and services,/money/business-tax-vat-exporting-goods-and-services,/money/vat
+f7c931fd-c478-447b-88d8-469ba8dae13c,Importing goods and services,/money/business-tax-vat-importing-goods-and-services,/money/vat
+bf7205bb-6973-4321-aa8a-f9aaf6dce055,Overseas businesses and UK VAT,/money/business-tax-vat-overseas-businesses-and-uk-vat,/money/vat
+cb5df372-9721-4495-8398-4466a7970a6d,Paying,/money/business-tax-vat-paying,/money/vat
+eaf4120e-4ba0-42e6-96cf-7b175e91f6e4,Reclaiming VAT on a new home,/money/business-tax-vat-reclaiming-vat-on-a-new-home,/money/vat
+be0ca369-e69a-42ec-9bc9-7895f40ffcb7,Rules for particular trades,/money/business-tax-vat-rules-for-particular-trades,/money/vat
+cc5224ac-ca31-4ffd-aac9-7d88186b0572,VAT MOSS,/money/business-tax-vat-vat-moss,/money/vat
+fd3530ba-02a4-414c-bf1c-0b54bffd2c69,VAT returns,/money/business-tax-vat-vat-returns,/money/vat
+c279d69b-cb84-48e3-9122-3d65e60fb41a,Capital allowances,/money/capital-allowances,/money/business-tax
+6a34e52a-02b2-47f1-82db-f0aeeebca827,Hunger and malnutrition in developing countries,/international/hunger-and-malnutrition-in-developing-countries,/international/international-aid-and-development
+9a33685b-f01f-43b6-ac2f-694c69dbd228,Overseas aid transparency,/international/overseas-aid-transparency,/international/international-aid-and-development
+c2f15b87-b0ce-4a42-b729-164820e2c8e4,Sexual violence in conflict,/international/sexual-violence-in-conflict,/international
+cdf0f0d8-5c38-486a-ac27-a812475c2870,The Commonwealth,/international/the-commonwealth,/international
+3be7a0a9-87fe-4868-954a-34ba0626a9c9,Water and sanitation in developing countries,/international/water-and-sanitation-in-developing-countries,/international/international-aid-and-development
+a86668f2-75f9-48d6-9834-8ce64ab1e532,Women and girls in developing countries,/international/women-and-girls-in-developing-countries,/international/international-aid-and-development
+cb7048d6-afdf-47c5-8414-5e12a9cf66a3,Child maintenance,/life-circumstances/births-deaths-marriages-marriage-divorce-child-maintenance,/life-circumstances/marriage-divorce
+def79a61-4c6e-4e1c-86e2-41e49593f574,Getting separated or divorced,/life-circumstances/births-deaths-marriages-marriage-divorce-getting-separated-or-divorced,/life-circumstances/marriage-divorce
+3c200705-6440-4415-b0a6-be14b2ff82d5,Help and support if you have children,/life-circumstances/births-deaths-marriages-marriage-divorce-help-and-support-if-you-have-children,/life-circumstances/marriage-divorce
+29658074-889b-4d6d-90e1-a2bf731a968e,"Lasting power of attorney, being in care and managing finances",/life-circumstances/lasting-power-attorney,/life-circumstances
+6a74d34e-2e28-44d0-9a99-aa4333079a50,Missing persons,/life-circumstances/missing-persons,/life-circumstances
+e1779882-fc20-4a86-b662-b9cc94afc86d,"Certificates, register offices, changes of name or gender",/life-circumstances/register-offices,/life-circumstances
+79f4b68a-0a36-4a42-8e7e-0d6b0d93d020,Child Benefit overpayments,/money/dealing-with-hmrc-paying-hmrc-child-benefit-overpayments,/money/paying-hmrc
+6a072526-869d-4011-a80d-1bbc343b6679,Construction Industry Scheme (through PAYE),/money/dealing-with-hmrc-paying-hmrc-construction-industry-scheme-through-paye,/money/paying-hmrc
+7e66334d-d082-474c-b5a1-35757627e892,Corporation Tax,/money/dealing-with-hmrc-paying-hmrc-corporation-tax,/money/paying-hmrc
+47fb1cc8-9873-4014-9c93-4f66398f8d3a,Gambling duties,/money/dealing-with-hmrc-paying-hmrc-gambling-duties,/money/paying-hmrc
+15776fb3-512e-4b38-8af5-9492a0632b7c,Income Tax and National Insurance,/money/dealing-with-hmrc-paying-hmrc-income-tax-and-national-insurance,/money/paying-hmrc
+e2cfff48-7557-4060-afee-704bbf2b1f8b,Inheritance Tax,/money/dealing-with-hmrc-paying-hmrc-inheritance-tax,/money/paying-hmrc
+66ccfb9b-9af2-4ec7-98ee-3c077aa94bdb,Insurance Premium Tax,/money/dealing-with-hmrc-paying-hmrc-insurance-premium-tax,/money/paying-hmrc
+a20bc697-3105-4422-b8ba-5979b03559c6,Money laundering regulation fees,/money/dealing-with-hmrc-paying-hmrc-money-laundering-regulation-fees,/money/paying-hmrc
+bb6a8710-1e01-41c3-afac-9598becfb178,PAYE ,/money/dealing-with-hmrc-paying-hmrc-paye,/money/paying-hmrc
+8e0ac061-0079-4fdf-a3cc-490f881a567f,Pension schemes,/money/dealing-with-hmrc-paying-hmrc-pension-schemes,/money/paying-hmrc
+62297621-7e0d-403c-bca1-7f0099e7dba1,Property taxes,/money/dealing-with-hmrc-paying-hmrc-property-taxes,/money/paying-hmrc
+0003fba8-909f-49cf-8107-bb46e01ebbcb,Shares,/money/dealing-with-hmrc-paying-hmrc-shares,/money/paying-hmrc
+64d8b78f-e682-4631-af5c-f98c492d545c,Tax credit overpayments,/money/dealing-with-hmrc-paying-hmrc-tax-credit-overpayments,/money/paying-hmrc
+a9b78615-bd7a-461c-b2ee-4d4e0d81a809,Transport and environmental duties,/money/dealing-with-hmrc-paying-hmrc-transport-and-environmental-duties,/money/paying-hmrc
+bacabc02-c5d7-4e5a-8732-dc672bf4dd83,HMRC recognition scheme,/money/dealing-with-hmrc-software-development-hmrc-recognition-scheme,/money/dealing-with-hmrc-software-development
+10902fd4-6778-4e4e-8dc5-6e2424571a47,New to HMRC development,/money/dealing-with-hmrc-software-development-new-to-hmrc-development,/money/dealing-with-hmrc-software-development
+7d3df405-2b41-4282-bf47-a8a526f2ff14,Software development support,/money/dealing-with-hmrc-software-development-software-development-support,/money/dealing-with-hmrc-software-development
+d95cd850-797c-43b7-9eca-3374f898f7d3,Working in partnership,/money/dealing-with-hmrc-software-development-working-in-partnership,/money/dealing-with-hmrc-software-development
+305e126e-97fe-4d9d-9867-4da0d96328c7,Agent authorisation,/money/dealing-with-hmrc-tax-agent-guidance-agent-authorisation,/money/tax-agent-guidance
+453a42f8-637c-43a8-b0ba-4fc08218121f,Oil and gas,/money/oil-and-gas,/money/international-tax
+ad3c05ff-4bed-40d1-9956-6470789f3f6e,Appeals and penalties,/money/dealing-with-hmrc-tax-agent-guidance-appeals-and-penalties,/money/tax-agent-guidance
+6f9a927e-92a4-4eb7-82bb-6a4926961546,Disclosing avoidance schemes,/money/dealing-with-hmrc-tax-avoidance-disclosing-avoidance-schemes,/money/tax-avoidance
+99208e6f-a893-4f0c-9a1e-a976b36c69dd,Money laundering regulations,/money/dealing-with-hmrc-tax-agent-guidance-money-laundering-regulations,/money/tax-agent-guidance
+e14000d3-1261-4893-8b2d-cc27cc125e65,PAYE,/money/paye,/money/business-tax
+1cc88f92-8c9d-408f-8aa5-d022b9eb5070,Working with HMRC - joint initiatives,/money/dealing-with-hmrc-tax-agent-guidance-working-with-hmrc-joint-initiatives,/money/tax-agent-guidance
+5758527a-e852-4b6e-8e59-0d0119059330,Disguised remuneration schemes,/money/dealing-with-hmrc-tax-avoidance-disguised-remuneration-schemes,/money/tax-avoidance
+cb4123f3-046e-4a19-be8f-9b4aca3cd926,Identifying avoidance schemes,/money/dealing-with-hmrc-tax-avoidance-identifying-avoidance-schemes,/money/tax-avoidance
+9ff489e0-896c-4e22-aeb4-738d0db68dc3,Pension scheme administration,/money/pension-scheme-administration,/money/business-tax
+fd9883a9-5d5d-4b59-b894-f8acfd61f3a4,Clearances and approvals,/money/dealing-with-hmrc-tax-compliance-clearances-and-approvals,/money/tax-compliance
+cd437973-d9f1-4a52-9bce-8d98a3280327,Compliance checks,/money/dealing-with-hmrc-tax-compliance-compliance-checks,/money/tax-compliance
+1fd69b1a-d676-47ee-b2a2-30bf2d226071,Disclosing offshore income,/money/dealing-with-hmrc-tax-compliance-disclosing-offshore-income,/money/tax-compliance
+165a8592-58c2-4373-9820-f03225195b47,Disputes,/money/dealing-with-hmrc-tax-compliance-disputes,/money/tax-compliance
+63f49d3c-c492-485d-bb91-a7825a66348a,International agreements and FATCA,/money/dealing-with-hmrc-tax-compliance-international-agreements-and-fatca,/money/tax-compliance
+cba77995-583c-4aed-9adc-d21411813f82,Reporting tax evasion,/money/dealing-with-hmrc-tax-compliance-reporting-tax-evasion,/money/tax-compliance
+d99709ab-788a-400c-a3c3-e528c73d2d95,Employment related securities,/money/employment-related-securities,/money/business-tax
+8784edc0-b2f4-4003-805a-d6850bb16e50,Personal tax reform,/money/personal-tax-reform,/money/personal-tax
+64174dfe-ddf6-4b1b-8fe4-567c07f853ba,Business,/money/personal-tax-capital-gains-tax-business,/money/capital-gains-tax
+6d41f633-8b35-48ad-8073-7dfbb48508ad,Divorce and separation,/money/personal-tax-capital-gains-tax-divorce-and-separation,/money/capital-gains-tax
+c9c7fa72-13aa-4d60-8bc5-1cd850af8911,Pensions,/money/personal-tax-income-tax-pensions,/money/income-tax
+ba4e7ee7-18b8-4d14-abf9-e1a4bc60b448,Expenses and employee benefits,/money/expenses-employee-benefits,/money
+9710f30c-3c56-4a72-a4a6-be8eec465184,Foreign entertainer tax rules,/money/foreign-entertainer-rules,/money/personal-tax
+76eba677-d9f0-44f0-883a-1b18d873d53c,Fuel Duty,/money/fuel-duty,/money/business-tax
+90cc11db-3dd4-43ae-9376-0d55de4b34c6,International tax,/money/international-tax,/money/business-tax
+97fdeaea-dee4-4c60-b3c8-a2a0bcfa2a22,Investment schemes,/money/investment-schemes,/money/business-tax
+e222462f-79d3-49fc-b7be-6f95662bd0eb,IR35: working through an intermediary,/money/ir35,/money/business-tax
+d8bbe483-d4b3-4999-9f26-b492a11ca161,Living or working abroad or offshore,/money/living-working-abroad-offshore,/money/personal-tax
+39cafdcc-4fa1-41d1-98a0-68a7d5809618,Money laundering regulations,/money/money-laundering-regulations,/money
+9e08c8a9-f716-410c-afc3-e11b65f6f5bf,Paying HMRC,/money/personal-tax-capital-gains-tax-paying-hmrc,/money/capital-gains-tax
+fc4223e2-19b6-4c62-aca8-dee3e57155fa,Personal possessions,/money/personal-tax-capital-gains-tax-personal-possessions,/money/capital-gains-tax
+b4c01eb9-99ec-40dc-bfb7-c9beff51d627,Property,/money/personal-tax-capital-gains-tax-property,/money/capital-gains-tax
+3528951f-f03d-4062-a9de-cb5c6d356bc9,Shares and investments,/money/personal-tax-capital-gains-tax-shares-and-investments,/money/capital-gains-tax
+ca0e4746-0b66-4115-b95f-e2d79abddd76,Company benefits and share schemes,/money/personal-tax-income-tax-company-benefits-and-share-schemes,/money/income-tax
+e1a320f6-4af5-48e0-96a8-229cbc2d59ea,Student jobs and loans,/money/personal-tax-income-tax-student-jobs-and-loans,/money/income-tax
+10e1d72f-9fc9-40cc-b9fe-11de7bb0b75c,Overpayments and underpayments,/money/personal-tax-income-tax-overpayments-and-underpayments,/money/income-tax
+c795f465-3dfb-4bce-934a-2388ae2aad12,Tax compliance,/money/tax-compliance,/money/dealing-with-hmrc
+9daad47a-a8d8-40c6-94a7-e19c9d1033a4,"Rates, allowances and reliefs",/money/personal-tax-income-tax-rates-allowances-and-reliefs,/money/income-tax
+9c45ddb6-a5a7-4504-8570-88d35a53aec9,Scottish rate of Income Tax,/money/personal-tax-income-tax-scottish-rate-of-income-tax,/money/income-tax
+7c66dbb0-c898-413b-a8f6-d3fc49a6c149,Special types of pay,/money/personal-tax-income-tax-special-types-of-pay,/money/income-tax
+2b867e11-f4ff-406f-bd12-4b76f40c9ef8,Welsh rate of Income Tax,/money/personal-tax-income-tax-welsh-rate-of-income-tax,/money/income-tax
+fa055811-33d0-4b6e-8bd6-1c8991d8c582,Working out the tax,/money/personal-tax-inheritance-tax-working-out-the-tax,/money/personal-tax-inheritance-tax
+6afd2c48-799c-4ef7-99c0-a2709f0a743f,Inheritance Tax,/money/personal-tax-inheritance-tax,/money/personal-tax
+0e7aeae1-3ca0-4fd6-99f1-29a7beb6243d,Paying HMRC,/money/personal-tax-inheritance-tax-paying-hmrc,/money/personal-tax-inheritance-tax
+e58f5e1d-43bf-469d-96f2-1001ee0d30be,Reliefs,/money/personal-tax-inheritance-tax-reliefs,/money/personal-tax-inheritance-tax
+0e38a3d4-81f6-4644-9bf6-69315f5e75d9,Wills and probate,/money/personal-tax-inheritance-tax-wills-and-probate,/money/personal-tax-inheritance-tax
+194a7983-5072-48cb-a050-78f710fb291e,Living and working abroad,/money/personal-tax-living-working-abroad-offshore-living-and-working-abroad,/money/living-working-abroad-offshore
+66cecc88-a05e-4fa6-8dd3-a98f9c9b46af,Rules for specific occupations,/money/personal-tax-living-working-abroad-offshore-rules-for-specific-occupations,/money/living-working-abroad-offshore
+dfd7980a-bbf7-488e-941d-67f64b8bc90f,National Insurance numbers,/money/personal-tax-national-insurance-national-insurance-numbers,/money/national-insurance
+75ea0349-de28-4b48-8316-f5b0c96403ca,Rates and classes,/money/personal-tax-national-insurance-rates-and-classes,/money/national-insurance
+d3b7995f-a34c-473b-916c-6ef4fc9042f1,Refunds,/money/personal-tax-national-insurance-refunds,/money/national-insurance
+0c3c0b58-c123-41d4-b3e6-610d77b441b3,Voluntary contributions,/money/personal-tax-national-insurance-voluntary-contributions,/money/national-insurance
+65623fbb-48e0-4cb7-8d90-93bbe82a994a,Guidance for financial institutions,/money/personal-tax-savings-investment-tax-guidance-for-financial-institutions,/money/savings-investment-tax
+f384d7e3-9b31-41bc-8fb2-010b2343b365,Paying your tax bill,/money/personal-tax-self-assessment-paying-your-tax-bill,/money/self-assessment
+3a9d63aa-117d-4f74-801f-ab177ef3ccb3,Tax efficient savings and investments,/money/personal-tax-savings-investment-tax-tax-efficient-savings-and-investments,/money/savings-investment-tax
+e2b3a7f2-c6b5-4ea1-b040-b5678025a3fa,Tax on savings,/money/personal-tax-savings-investment-tax-tax-on-savings,/money/savings-investment-tax
+543112fb-d178-4e93-97e9-4d29c302cba3,Waste management,/environment/waste-management,/environment/waste-and-recycling
+112ced44-4668-42db-9632-f9ec71876f48,Scottish constitution,/regional-and-local-government/scottish-constitution,/regional-and-local-government/scotland
+735cdded-1e05-4b0c-9255-bdb44cf6d977,Government content and publishing,/government/content-publishing,/government/design-and-build-of-government-services
+7502c774-4d56-4133-b9fe-cb82665f806e,Local government pensions,/regional-and-local-government/pensions,/regional-and-local-government/local-government
+2c9daf3d-3cca-42ff-9def-431ebf2df510,Council Tax reform,/regional-and-local-government/council-tax-reform,/regional-and-local-government/local-government-council-tax
+425e753f-154c-4117-b0a1-a8ce865054c7,Economic growth in Wales,/regional-and-local-government/economic-growth-in-wales,/regional-and-local-government/wales
+95f0c94e-c939-48b5-8c88-1da117108ad9,Local government finance and capital assets,/regional-and-local-government/finance-capital-assets,/regional-and-local-government/local-government
+4f9cdc90-df74-4f92-b9fc-3d366fb46f73,Local Housing Allowance,/regional-and-local-government/local-government-local-housing-allowance,/regional-and-local-government/local-government
+1151f1b0-7905-4a43-987d-4258294b91df,Business rates,/regional-and-local-government/local-government-business-rates,/regional-and-local-government/local-government
+3c5ba810-7a2a-47e7-9d8e-cef6dea2da0f,"Relief, refunds and rebates",/regional-and-local-government/local-government-business-rates-relief-refunds-and-rebates,/regional-and-local-government/local-government-business-rates
+98f83fed-715a-4be1-aa07-b9241b99cdda,Council Tax,/regional-and-local-government/local-government-council-tax,/regional-and-local-government/local-government
+cf015555-abb4-48bc-939f-b7bbf1a0157a,Submit your rent or lease details,/regional-and-local-government/local-government-business-rates-submit-your-rent-or-lease-details,/regional-and-local-government/local-government-business-rates
+13e8305b-1388-434a-86f8-16f828f4c20b,Your rateable value,/regional-and-local-government/local-government-business-rates-your-rateable-value,/regional-and-local-government/local-government-business-rates
+dec73814-0711-4325-a95b-c94ea485c6f1,Appeals and reductions,/regional-and-local-government/local-government-council-tax-appeals-and-reductions,/regional-and-local-government/local-government-council-tax
+1d321fcf-8f75-4354-8e38-2dfa48d58060,Council Tax bands,/regional-and-local-government/local-government-council-tax-council-tax-bands,/regional-and-local-government/local-government-council-tax
+ad34a855-f6ec-47c3-bd9c-446c90c13a69,Data collection and reporting,/regional-and-local-government/local-government-data-collection-reporting,/regional-and-local-government/local-government
+f1065e92-7fe8-4da8-83bd-82a077c27e1c,Localism,/regional-and-local-government/localism,/regional-and-local-government
+549e963e-acec-40a1-939b-5c8dab9f0c0f,Northern Ireland economy,/regional-and-local-government/northern-ireland-economy,/regional-and-local-government/northern-ireland
+80db3499-154c-4b2e-9f59-f16ef0f1fe2e,Northern Ireland political stability,/regional-and-local-government/northern-ireland-political-stability,/regional-and-local-government/northern-ireland
+6baff65b-1a01-41dc-b442-f456358ef120,Welsh devolution,/regional-and-local-government/welsh-devolution,/regional-and-local-government/wales
+26efe97f-5bd7-4728-bb2a-1bbe95e744fe,Aviation,/transport/aviation,/transport
+3518a8ad-3d84-4682-b15b-2e1866a3eff1,"Car, motorcycle and van MOT tests",/transport/car-motorcycle-and-van-mot-tests,/transport/mots
+feaf2327-8bcd-4d99-af00-886610e8b46d,Local transport,/transport/local-transport,/transport
+1ed45a79-d742-4aad-a29e-930604444047,Capital Gains Tax,/money/capital-gains-tax,/money/personal-tax
+1fb5aa81-ebab-4e8a-9cff-d8d4325ceca6,Construction Industry Scheme (CIS),/money/construction-industry-scheme,/money/business-tax
+eb87c179-654e-4d2a-acbd-39754105d159,Capital Gains Tax,/money/dealing-with-hmrc-paying-hmrc-capital-gains-tax,/money/paying-hmrc
+0c6b168c-d5b9-447f-b34a-70b3a73adab8,Phishing and scams,/money/phishing-scams,/money/dealing-with-hmrc
+4ecdf546-3ad5-44c5-bd3c-8878beed70ee,Blood regulation and safety,/health-and-social-care/medicines-medical-devices-blood-blood-regulation-safety,/health-and-social-care
+0dc68259-8796-4ade-84e4-2257321e0302,2012 Olympic and Paralympic legacy,/society-and-culture/2012-olympic-and-paralympic-legacy,/society-and-culture/sports-and-leisure
+febef99d-ee9d-407c-9d66-ee1611cc1d6c,British citizenship ,/society-and-culture/citizenship,/society-and-culture
+f25773d7-eb3d-4357-90a4-85b90950042a,City of Culture,/society-and-culture/city-of-culture,/society-and-culture/arts-and-culture
+67237c4c-fb02-4f07-ad8c-0a1bff9cbb36,Community integration,/society-and-culture/community-integration,/society-and-culture/community-and-society
+1b1a711e-850a-4e64-8f2e-2d966d5ab0d4,Digital inclusion and accessibility in society,/society-and-culture/digital-inclusion-and-accessibility-in-society,/society-and-culture
+12ad160a-be38-4f05-93d4-cc2dabc2de55,Elite sports performance,/society-and-culture/elite-sports-performance,/society-and-culture/sports-and-leisure
+ddf24acd-2620-4857-8e46-c7b0bd55e6eb,Library services,/society-and-culture/library-services,/society-and-culture/arts-and-culture
+90b57eec-e8dd-4b15-a96e-b1788e90af08,Loneliness,/society-and-culture/loneliness,/society-and-culture
+f09510a6-a105-4a95-83b4-6a1cbeaecb47,Museums and galleries,/society-and-culture/museums-and-galleries,/society-and-culture/arts-and-culture
+d3f19c8a-1a26-4f99-8529-6b90757a3d58,Social action,/society-and-culture/social-action,/society-and-culture/community-and-society
+687ee2fc-f474-4dff-8634-63b89ae38060,National events and ceremonies,/society-and-culture/national-events-and-ceremonies,/society-and-culture
+0da80097-0d38-4285-b42b-dab1eecd187f,National Lottery funding,/society-and-culture/national-lottery-funding,/society-and-culture/community-and-society
+1bfde917-52dc-4e7b-a461-40d858eae92f,Poverty and social justice,/society-and-culture/poverty-and-social-justice,/society-and-culture/equality-rights-and-citizenship
+10f4d32d-a87d-4f98-8953-a0c61f7cd237,Social investment,/society-and-culture/social-investment,/society-and-culture/community-and-society
+7886d075-76b4-4679-b53d-8199b8699fa6,Social mobility,/society-and-culture/social-mobility,/society-and-culture/equality-rights-and-citizenship
+5ec92416-8b61-4943-bebf-b5560ed0a62b,Sports participation,/society-and-culture/sports-participation,/society-and-culture/sports-and-leisure
+8f41fc7b-1eda-432b-bd89-45922896a6f7,Young people,/society-and-culture/young-people,/society-and-culture
+fb0ebe55-1091-49b4-a5cb-6d6f6bbd061f,High Income Tax Charge,/welfare/benefits-credits-child-benefit-high-income-tax-charge,/welfare/child-benefit
+4ca7f20b-b241-4acf-b4c1-539c6ed8e3c9,Death and benefits,/welfare/bereavement,/welfare
+78203642-e829-4f16-aed7-2e4c0295ba09,Child maintenance reform,/welfare/child-maintenance-reform,/welfare
+b6f56225-9c0d-4f8b-872c-33ff2442fc0f,Benefits for families,/welfare/families,/welfare
+74143619-55bd-476f-99c6-b326a662824b,Heating and housing benefits,/welfare/heating,/welfare
+8cf2f438-a37d-44d9-9b6f-a3a3d2ef8034,Jobseeker's Allowance and low income benefits,/welfare/jobseekers-allowance,/welfare
+2a7e3b12-d08e-4bb3-9661-5e9877882620,Support for families,/welfare/support-for-families,/welfare/child-benefit
+dfe7313e-8ea7-4351-8c4f-97906dce5989,Tax credits,/welfare/tax-credits,/welfare
+542853c6-c283-4bed-93fd-791ddc6fcc8c,Tax on shares,/money/personal-tax-savings-investment-tax-tax-on-shares,/money/savings-investment-tax
+0c0d32cf-9d0d-4bbc-be9b-9560403eea81,Soft Drinks Industry Levy,/money/soft-drinks-industry-levy,/money/business-tax
+981d6540-f069-4ee9-9b58-3a89e789edae,Filing a tax return,/money/personal-tax-self-assessment-filing-a-tax-return,/money/self-assessment
+ff735399-e915-43b2-b187-423ff4528e86,Records you must keep,/money/personal-tax-self-assessment-records-you-must-keep,/money/self-assessment
+8954dd38-de9e-4324-ba0c-247a7435567e,"Refunds, appeals and penalties",/money/personal-tax-self-assessment-refunds-appeals-and-penalties,/money/self-assessment
+27ff7386-baf5-499f-85e5-453867140617,Registering for Self Assessment,/money/personal-tax-self-assessment-registering-for-self-assessment,/money/self-assessment
+5d6324fe-2926-438e-86f9-985f8c33492e,Tax on savings and investments,/money/savings-investment-tax,/money/personal-tax
+19c2d91d-179e-4b8f-9fdc-d16011a3e477,Shared Workspace service,/money/shared-workspace,/money/dealing-with-hmrc
+79350740-02a1-471e-b525-b85e2692ecb5,Stamp duty on shares,/money/stamp-duty-on-shares,/money/business-tax
+7907d50e-e0c5-4da5-bbae-47856858307e,Stamp duty and other tax on property,/money/stamp-taxes,/money/business-tax
+6e1938a5-bfee-43af-aa5b-edaa5da49373,Tax evasion and avoidance,/money/tax-evasion-and-avoidance,/money
+5a0daf5e-be84-4457-aa0a-530d65c8d035,Trusts,/money/trusts,/money/personal-tax
+a3fcc296-bad8-4be6-a403-958cccf6b6eb,Renting,/regional-and-local-government/local-government-council-tax-renting,/regional-and-local-government/local-government-council-tax
+2dd5cbc1-f51c-4ce5-aedf-269c8fed0d7c,HS2,/transport/hs2,/transport/rail
+024965ff-2a13-4860-a0ed-59bfe62f6efe,Careers in transport,/transport/careers-in-transport,/transport
+782d285a-89a9-4bad-9eb0-3d5fae7b3b25,Safe transport of dangerous goods by sea,/transport/safe-transport-of-dangerous-goods-by-sea,/transport/transporting-dangerous-goods
+60958290-64c8-43fa-9c7e-03dd439431bb,Self-driving vehicles,/transport/self-driving-vehicles,/transport/driving-and-road-transport
+1e975562-b628-438b-94b1-631692848d9f,Ship crew health and safety,/transport/ship-crew-health-and-safety,/transport/seafarer-management-training-and-certification
+8d732f7c-585e-45ab-ad49-8e9175195c53,Vessel registration and design,/transport/vessel-registration-and-design,/transport/maritime-and-shipping
+e32ce48d-dc1d-4eee-a78a-516d1325ce8f,Ship crew training and certification,/transport/ship-crew-training-and-certification,/transport/seafarer-management-training-and-certification
+2786d159-0154-40e0-b982-9fc056274e25,Transport modelling and appraisal,/transport/transport-modelling-and-appraisal,/transport
+2b2cd3a2-3c7f-49a2-ae74-6726bb89fe4a,Ship equipment,/transport/ship-equipment,/transport/vessel-registration-and-design
+d33a4e4d-2ddc-4ce3-b385-f0d34a715438,Smart motorways,/transport/smart-motorways,/transport/road-infrastructure
+195a483f-ac69-40be-890d-225d0bb380d7,Spaceflight,/transport/spaceflight,/transport/new-aviation-technology
+ea991889-d829-42b0-9d05-de4b5f8da73f,Speed limits and traffic cameras,/transport/speed-limits-and-traffic-cameras,/transport/road-infrastructure
+d8ee0740-6149-4f1e-8ae6-b7d88a480e4a,Surface access to airports,/transport/surface-access-to-airports,/transport/aviation
+05b1f045-3acd-4dc6-982b-b16862236781,Tachographs,/transport/tachographs,/transport/professional-driving-of-lorries-buses-and-coaches
+220d6b4f-c07f-40b9-bbb9-1db2893bbd08,Taxi and private hire accessibility,/transport/taxi-and-private-hire-accessiblity,/transport/transport-accessibility-and-mobility
+dff1a896-7842-4316-9d23-67042de71bc5,Theory tests,/transport/theory-tests,/transport/driving-and-motorcycle-tests
+168691f8-f2ac-4d86-9d19-2163ad78f5ef,Towing,/transport/towing,/transport/road-safety-driving-rules-and-penalties
+f6437160-6f88-44e9-9a08-294ad1c997d1,"Traffic signs, signals and markings",/transport/traffic-signs-signals-and-markings,/transport/road-infrastructure
+62cb5539-980c-4ed8-a733-bcd94e2da739,Transport accessibility and disability,/transport/transport-accessibility-and-mobility,/transport
+0157f057-b5ff-4537-9d25-793d4952d2a1,Vehicle operator licences,/transport/vehicle-operator-licences,/transport/transport-businesses-and-vehicle-operator-licences
+a349e072-5978-4dd6-a361-b2b56e922cf1,Transport planning,/transport/transport-planning,/transport
+20610870-b506-4d1b-b70e-656be3d1aa75,Tube,/transport/tube,/transport/local-transport
+e9181672-d1c4-4783-a374-92b858d9ca78,Transport security,/transport/transport-security,/transport
+b8591ad8-ede9-4932-9a5a-82a553692418,Vans and minibuses,/transport/vans-and-minibuses,/transport/driving-and-road-transport
+a2012c1c-9c84-4899-af36-2d08148de94b,Travel passes and concessions,/transport/travel-passes-and-concessions,/transport/local-transport
+ea713b3e-3000-4b7b-b45a-fccd77bfef62,UK sea passengers,/transport/uk-sea-passengers,/transport/maritime-and-shipping
+9b2d2e44-0cdc-48b1-a399-f55fa884989b,Vehicle import and export,/transport/vehicle-import-and-export,/transport/vehicle-ownership-approval-and-standards
+c19bb853-1e08-4e8c-95cb-c9ca4e40737c,Vehicle insurance,/transport/vehicle-insurance,/transport/vehicle-ownership-approval-and-standards
+de440bc6-86fa-4b68-9eb5-be580f1d2c64,Vehicle manufacturing and modification,/transport/vehicle-manufacturing-and-modification,/transport/vehicle-ownership-approval-and-standards
+24f5059f-6c1b-4f06-876b-efe7bf2caebf,Vehicle recalls,/transport/vehicle-recalls,/transport/vehicle-ownership-approval-and-standards
+ad1a9758-96ec-4eb4-ab19-19660efb5e98,Vehicle tax,/transport/vehicle-tax,/transport/vehicle-ownership-approval-and-standards
+02fe958c-b1d3-4e5f-bb1f-d691781ee8e3,Vessel cargo,/transport/vessel-cargo,/transport/freight-haulage-and-cargo
+2d67b740-f027-4f82-9f8e-533e8a51e045,Vessel design,/transport/vessel-design,/transport/vessel-registration-and-design
+21cf7cb1-e089-456e-880a-b4c8facb5af3,Vessel registration,/transport/vessel-registration,/transport/vessel-registration-and-design
+1f1291a1-3d68-4799-a783-268aa22c45ca,Waterways (maritime),/transport/waterways-maritime,/transport/maritime-and-shipping
+3284440f-8a59-4a2d-9e0b-6e30f4f45a08,Weekend closures,/transport/weekend-closures,/transport/road-works-and-streetworks
+551e73f7-400a-4d5e-86fa-f9672553fe94,Welfare reform,/welfare/welfare-reform,/welfare
+03a31c2c-9751-43e7-bf00-48f764a7b5c7,Health and safety at work,/work/health-safety-at-work,/work
+7a752718-0e36-41c8-93e3-d632b4891a65,Trade unions,/work/trade-unions,/work
+a5c042f0-5a6e-4499-8397-e59d99dfd20a,"Emergency preparation, response and recovery",/government/emergency-preparation-reponse-and-recovery,/government/all
+8a02e03a-5e21-47af-8570-6db1092e406c,Maritime and shipping,/transport/maritime-and-shipping,/transport
+80737df7-798d-4aa4-bcf1-a311ab08fb4b,Driving instructor registration and renewals,/transport/driving-instructor-registration-and-renewals,/transport/driving-instruction-and-driving-lessons
+20150935-6fa0-4c19-b3fe-bdca15e9f44e,Advice for drivers,/transport/advice-for-drivers,/transport/road-infrastructure
+dbfac056-247d-4d4e-8b16-329d399b2057,Air accidents and serious incidents,/transport/air-accidents-and-serious-incidents,/transport/aviation
+88fbd41a-f724-4890-a2a2-eeee6ffd2ec7,Air passenger duty,/transport/air-passenger-duty,/transport/aviation
+5870e1b8-117f-437e-b190-565a8be8dc47,Aviation and Europe,/transport/aviation-and-europe,/transport/aviation
+4030bd1e-2715-47d2-8b96-c03b7b0463b3,Aviation and the environment,/transport/aviation-and-the-environment,/transport/aviation
+5171dcd4-4a60-4458-ad37-482cd7520a23,Aviation passenger experience,/transport/aviation-passenger-experience,/transport/aviation
+5fea3d9b-bd47-4335-9187-bc7efaabdb0e,Aviation safety and security,/transport/aviation-safety-and-security,/transport/aviation
+983567db-0e7b-4630-8cff-2a766d309bfb,Blue badges,/transport/blue-badges,/transport/transport-accessibility-and-mobility
+08fd0109-186a-47c1-8f6b-af6760d63d49,Bus operators,/transport/bus-operators,/transport/buses
+f55e8c9e-0e17-4128-ae6d-5a9bc9bb6242,Bus passenger experience,/transport/bus-passenger-experience,/transport/buses
+927170be-a7f3-4188-9f44-d64d74b12491,"Bus services, routes and timetables",/transport/bus-services-routes-and-timetables,/transport/buses
+080e639a-1261-495b-9fdc-f622b399561a,Buses,/transport/buses,/transport/local-transport
+11d266df-6d15-40ce-839e-3836f7c92122,Buses and the environment,/transport/buses-and-the-environment,/transport/buses
+4082e384-e615-4904-bf5d-72c375fa3958,"Buying, selling, registering and scrapping a vehicle",/transport/buying-selling-registering-and-scrapping-a-vehicle,/transport/vehicle-ownership-approval-and-standards
+96fb6473-237e-4846-84bb-5d9be17d6202,Car driving tests,/transport/car-driving-tests,/transport/driving-and-motorcycle-tests
+c6b535c3-178d-4a96-921c-f762b94f744c,Driving and road transport,/transport/driving-and-road-transport,/transport
+318cd4ef-070a-4e72-bd60-c6e3ff9cc18b,Driving and motorcycle tests,/transport/driving-and-motorcycle-tests,/transport/driving-and-road-transport
+fcf5d810-51ea-42ae-9b0c-8edcf9732932,Coastguard search and rescue,/transport/coastguard-search-and-rescue,/transport/maritime-and-shipping
+3713e2f5-52e1-47b4-bb5b-1bd84d20c067,Driving instruction and driving lessons,/transport/driving-instruction-and-driving-lessons,/transport/driving-and-road-transport
+f1584ee5-6e31-4f2d-8c46-8537efa8e2e4,Community rail,/transport/community-rail,/transport/rail
+7afc8ebc-8b34-4306-8c99-c5f69a2b61f0,Corporate and operational information (transport),/transport/corporate-and-operational-information-transport,/transport
+998595b6-d2b7-47b2-98cc-40f654db6825,Crossrail,/transport/crossrail,/transport/rail
+cdeebefc-fd5c-4e45-8e7c-6658628dc727,Driver and vehicle record,/transport/driver-and-vehicle-record,/transport/vehicle-ownership-approval-and-standards
+13568bbb-2477-438d-957e-ad20e2319053,Drones,/transport/drones,/transport/new-aviation-technology
+189e0d35-76ec-47a5-8aae-c7f713e99359,Driver CPC training,/transport/driver-cpc-training,/transport/professional-driving-of-lorries-buses-and-coaches
+a1da826d-b794-4c20-b788-f26ca1fe2b98,Driver CPC training centres,/transport/driver-cpc-training-centres,/transport/transport-businesses-and-vehicle-operator-licences
+33e5f6eb-a218-4610-af68-1a1ea81bc3c8,Drivers' hours,/transport/drivers-hours,/transport/road-safety-driving-rules-and-penalties
+5a8957d6-dedc-4ffc-a665-a641cf14e24c,Driving abroad,/transport/driving-abroad,/transport/driving-licences
+1f21b856-4013-4091-9257-2fe4b5faf0fe,Driving and medical conditions,/transport/driving-and-medical-conditions,/transport/road-safety-driving-rules-and-penalties
+119a303e-c02b-4c99-8cf1-5023c25fa013,Driving examination,/transport/driving-examination,/transport/driving-instruction-and-driving-lessons
+6cca92c1-1d08-455d-9c98-7db29eccd957,Driving licence applications and renewals,/transport/driving-licence-applications-and-renewals,/transport/driving-licences
+a6f2c87e-9e6c-402f-84c9-727e81d7669a,"Freight, haulage and cargo",/transport/freight-haulage-and-cargo,/transport
+b26f21e3-354f-451c-bc8e-63c2ae47ed9d,Driving licence categories,/transport/driving-licence-categories,/transport/driving-licences
+66894b71-ab42-4cd2-8fc2-db9ba109593c,Driving licences and medical conditions,/transport/driving-licences-and-medical-conditions,/transport/driving-licences
+29d5d0bc-5a33-4600-b310-e452925db8a1,"Driving, motorcycle and LGV instructor qualification process",/transport/driving-motorcycle-and-lgv-instructor-qualification-process,/transport/driving-instruction-and-driving-lessons
+a428dd36-172a-4d61-98c0-fd5d39083462,Employing drivers,/transport/employing-drivers,/transport/transport-businesses-and-vehicle-operator-licences
+0401746f-cddc-4ca3-84df-d15d71114041,Fleet management,/transport/fleet-management,/transport/transport-businesses-and-vehicle-operator-licences
+9de5d4d3-dff8-450f-9114-c4812061125e,Foreign driving licences,/transport/foreign-driving-licences,/transport/driving-licences
+0a21764a-1a90-4f6b-ae73-33d1c31a1df2,General aviation,/transport/general-aviation,/transport/aviation
+0aa4c3e1-bb80-43e0-80dc-1bd48a882b83,"HGV, bus and trailer MOT tests",/transport/hgv-bus-and-trailer-mot-tests,/transport/mots
+50fff9c2-a63d-4e3c-950c-11dd8ec2bc8c,HGV standards and checks,/transport/hgv-standards-and-checks,/transport/vehicle-ownership-approval-and-standards
+0fa33b55-8718-44c6-92f1-4613850f1005,HS2 additional provisions,/transport/hs2-additional-provisions,/transport/hs2
+b907da06-2984-4676-95db-43f02cf6e690,HS2 and the environment,/transport/hs2-and-the-environment,/transport/hs2
+090a8f82-ee60-41e1-abc9-58de5789058b,HS2 archaeology,/transport/hs2-archaeology,/transport/hs2
+9771a500-3a52-4032-8caf-5280a99fea63,HS2 business case,/transport/hs2-business-case,/transport/hs2
+47ab548d-2dc4-4b71-bc47-356b79d7d650,HS2 construction and engineering,/transport/hs2-construction-and-engineering,/transport/hs2
+437202f4-22c8-41fa-b39c-e9d38f53f19c,HS2 corporate,/transport/hs2-corporate,/transport/hs2
+d59ed186-94b3-4bbe-b2c7-3f8b855fcfac,HS2 costs,/transport/hs2-costs,/transport/hs2
+ae1ed6f0-7a27-480a-8e3c-0d7f4e03636e,HS2 design,/transport/hs2-design,/transport/hs2
+0d7b6946-0939-4394-979f-efbc184fbc93,HS2 legislation,/transport/hs2-legislation,/transport/hs2
+0d591fd4-c91b-4978-a18b-09efd08d2946,HS2 Phase 2a,/transport/hs2-phase-2a,/transport/hs2-phase-two
+dfa78319-0ef5-4148-b229-c0726b8e6f82,HS2 Phase 2b,/transport/hs2-phase-2b,/transport/hs2-phase-two
+8cd41b50-8289-4e4f-a95c-07f6a8446bff,HS2 Phase One,/transport/hs2-phase-one,/transport/hs2
+f74938dd-7632-4b1e-95d1-7f9763d0fb73,HS2 Phase Two,/transport/hs2-phase-two,/transport/hs2
+78c6e5aa-fe98-4d83-b7ec-9ba0274b7bb8,HS2 planning,/transport/hs2-planning,/transport/hs2
+f6d67692-5b10-4514-b44b-630de3806f1d,"Lorry, bus, coach and specialist vehicle driving tests",/transport/lorry-bus-coach-and-specialist-vehicle-driving-tests,/transport/driving-and-motorcycle-tests
+3f5efa08-be14-4ad4-bbca-66aa591e1e44,HS2 property,/transport/hs2-property,/transport/hs2
+26f77f82-6703-4f33-bf4b-25cec503e3fa,HS2 stakeholder and community engagement,/transport/hs2-stakeholder-and-community-engagement,/transport/hs2
+dcf4b337-ab79-453b-9ed8-0eb018aa26dd,Rail franchising,/transport/rail-franchising,/transport/rail
+70e9aded-2a57-4727-843f-2d8c13e5a874,HS2 stations,/transport/hs2-stations,/transport/hs2
+8bc5a57e-e716-4552-a01b-a5af19d51d23,HS2 supply chain,/transport/hs2-supply-chain,/transport/hs2
+e7616b8c-eeb8-4a0e-9916-bb266a0c0239,Maritime safety,/transport/maritime-safety,/transport/maritime-and-shipping
+40cedbb7-8c67-421a-8eea-9eed35543d88,Improvements to buses,/transport/improvements-to-buses,/transport/buses
+40f78853-e0b2-41cf-b5e5-9d265933f3da,Inland waterways,/transport/inland-waterways,/transport/local-transport
+aa133156-720e-4db6-8cc0-aab351696308,Light rail and trams,/transport/light-rail-and-trams,/transport/local-transport
+cdd5a7ac-b93e-4171-9482-34857138b68c,Local roads,/transport/local-roads,/transport/road-improvement-and-investment
+bb988dfb-a4b7-4285-9ad2-c10136bd9bb6,Local transport funding,/transport/local-transport-funding,/transport/local-transport
+9b18902e-4bea-4c29-9e24-f0e64a21157d,Major roads,/transport/major-roads,/transport/road-improvement-and-investment
+de0bd496-0fb7-4711-ab3c-36ad48aeca13,Maritime and the environment,/transport/maritime-and-the-environment,/transport/maritime-and-shipping
+7b258514-aef7-4ad4-96a2-47ed70e74b57,Making roads safer,/transport/making-roads-safer,/transport/road-improvement-and-investment
+1be40e00-18d1-4ef9-98e7-58c88232b7b8,Maritime accidents and serious incidents,/transport/maritime-accidents-and-serious-incidents,/transport/maritime-and-shipping
+1d7925d5-f069-4b75-a420-a1d6c70b1652,Maritime navigation,/transport/maritime-navigation,/transport/maritime-and-shipping
+4d4a1e3a-f4f3-4f7e-81d5-70338a2eb75e,Maritime passenger rights,/transport/maritime-passenger-rights,/transport/maritime-and-shipping
+6f7642ac-ce5f-400c-8902-b06f83389342,Maritime security,/transport/maritime-security,/transport/maritime-and-shipping
+12b98f0d-6810-4549-b761-c6d29da9bde5,Vessel surveys and inspection,/transport/maritime-surveying,/transport/maritime-and-shipping
+291ee0d2-742e-4740-bc59-fd9282d9301f,Mobility scooters and wheelchairs,/transport/mobility-scooters-and-wheelchairs,/transport/transport-accessibility-and-mobility
+4ffbf76d-82b4-40d0-9a70-5f46775d2f0d,Motorcycle and moped tests,/transport/motorcycle-and-moped-tests,/transport/driving-and-motorcycle-tests
+6b3c3cab-335b-42bb-ac87-6a9d45567b4e,Motorcycle training,/transport/motorcycle-training,/transport/driving-and-motorcycle-tests
+cfae17f0-1052-4483-9263-01000883caef,Motorways,/transport/motorways,/transport/road-improvement-and-investment
+4fab3f2b-cc89-4d75-805a-275abcb47b0b,New aviation technology,/transport/new-aviation-technology,/transport/aviation
+e6b16cc4-8ad6-46d0-b9c9-3c4bfafc4570,Night flights,/transport/night-flights,/transport/aviation
+a4b60878-f427-47ad-8873-ea03222cd783,Overnight works,/transport/overnight-works,/transport/road-works-and-streetworks
+ec155f05-c72a-4258-8736-917de200db5f,Parking,/transport/parking,/transport/road-infrastructure
+7d31bc9c-20ce-4d1e-a403-a17c4aeeb82d,Personal driving licence information,/transport/personal-driving-licence-information,/transport/driving-licences
+cfbf3091-fe78-4c3b-9055-82b4bcf84655,Planned roadworks,/transport/planned-roadworks,/transport/road-works-and-streetworks
+eb873013-f3cc-46c0-88ea-6e735718c76c,"Ports, harbours and offshore installations",/transport/ports-harbours-and-offshore-installations,/transport/maritime-and-shipping
+ebb8b938-4777-4af4-b808-188f23f686e2,Professional development for driving and motorcycle instructors,/transport/professional-development-for-approved-driving-instructors,/transport/driving-instruction-and-driving-lessons
+f8aa5def-6050-4242-b122-b8600e8295eb,Property affected by roadworks and street works,/transport/property-affected-by-roadworks-and-streetworks,/transport/road-works-and-streetworks
+092fe76f-0d38-456f-81eb-f411429d2d65,PSV standards and checks,/transport/psv-standards-and-checks,/transport/vehicle-ownership-approval-and-standards
+37369dd9-249b-4185-a332-6fba221edc3a,Public service vehicles licensing,/transport/public-service-vehicles-licensing,/transport/vehicle-operator-licences
+baa51f38-c863-4ac1-beeb-1593689da4e2,Rail,/transport/rail,/transport
+69e2cd78-2ffa-47df-826b-3e98d73c80d4,Rail accessibility,/transport/rail-accessibility,/transport/rail
+028dca5c-afd1-491b-af9b-f3ead93d945b,Rail accidents and serious incidents,/transport/rail-accidents-and-serious-incidents,/transport/rail
+6e0dc95f-ee57-4086-a0d4-bf9330866884,Rail franchise procurement,/transport/rail-franchise-procurement,/transport/rail-franchising
+82896d7e-e46b-4553-b14a-fdfccf8a82ae,Rail franchise public register,/transport/rail-franchise-public-register,/transport/rail-franchising
+652b3cc9-983c-4d45-8f64-9c4022058acc,Rail freight and cargo,/transport/rail-freight,/transport/freight-haulage-and-cargo
+79e97e4b-37c6-482d-aa3d-e02c2c087d2f,"Vehicle ownership, approval and standards",/transport/vehicle-ownership-approval-and-standards,/transport/driving-and-road-transport
+9081586a-3c79-43e6-b7e6-0b522ef71d4b,Rail interoperability,/transport/rail-interoperability,/transport/rail
+ce7be01d-8aeb-4040-badc-f13d927a71f9,Rail network,/transport/rail-network,/transport/rail
+56f401ab-d37c-4de8-9908-7056128b31e4,Rail network and the environment,/transport/rail-network-and-the-environment,/transport/rail
+0377397b-6500-4cc8-92ec-4565ac10def2,Rail passenger experience,/transport/rail-passenger-experience,/transport/rail
+76171fa1-6511-48b4-94cf-dc86556d4cb6,Rail safety and security,/transport/rail-safety-and-security,/transport/rail
+52b5655e-30ab-44ba-852c-1a4ae464d93f,Rail stations,/transport/rail-stations,/transport/rail
+355ecc86-67ac-4837-b7a0-6060d33eb19c,Rail ticketing and fares,/transport/rail-ticketing-and-fares,/transport/rail
+14b05d54-e113-4a21-aa97-9f48fb48900d,Road accidents and serious accidents,/transport/road-accidents-and-serious-accidents,/transport/road-safety-driving-rules-and-penalties
+4a524ea9-6b8d-48a7-b8bd-e9dcdfd1a42d,Road closures,/transport/road-closures,/transport/road-works-and-streetworks
+c3cef86e-916b-4d47-aaf1-7e0212e07ba1,Road haulage,/transport/road-haulage,/transport/freight-haulage-and-cargo
+c3da428d-c93e-499f-ae46-15a0ff74140a,Road improvement and investment,/transport/road-improvement-and-investment,/transport/road-infrastructure
+f34b85aa-554c-473d-b42c-bae8b62b2f75,Road maintenance,/transport/road-maintenance,/transport/road-infrastructure
+2a100dc2-ec5e-4e1d-b758-d03beda61c45,Road resurfacing,/transport/road-resurfacing,/transport/road-improvement-and-investment
+70ae8f8f-3381-4ad6-a47d-2bed16744c97,Road tolls and charges,/transport/road-tolls-and-charges,/transport/road-infrastructure
+08123e4f-6ab2-449a-8749-c99cd9eed11a,Road traffic,/transport/road-traffic,/transport/driving-and-road-transport
+1e9e52a6-128c-4a53-8b82-1299eef116db,Road works and street works,/transport/road-works-and-streetworks,/transport/road-infrastructure
+76494a94-0a8f-46ec-b58b-7caed6530bb8,Roads and the environment,/transport/roads-and-the-environment,/transport/road-infrastructure
+b12df1f2-ba5b-44bc-b87e-dd3872ab0c29,Rolling stock (passenger trains),/transport/rolling-stock-passenger-trains,/transport/rail
+cda34328-9eaf-4ceb-a26b-731cf7c03b9a,Funding and finance for students,/education/funding-and-finance-for-students,/education
+fd355be5-23db-49a9-b611-bc9f4a71de20,Mid-sized businesses,/money/business-tax-large-midsize-business-guidance-mid-sized-businesses,/money/large-midsize-business
+59d94626-0ca6-416f-93ad-9b19465bf8ae,Road infrastructure,/transport/road-infrastructure,/transport
+35f6cb56-b32b-49d9-967d-6f1070af07e6,Rail infrastructure,/transport/rail-infrastructure,/transport/rail
+c6097f65-ba18-4c6d-ab0c-5f3d1b1ff640,Law and practice,/crime-justice-and-law/law-practice,/crime-justice-and-law
