@@ -25,7 +25,7 @@
   </p>
 <% end %>
 
-<h3 class="govuk-heading-s">Taxons</h3>
+<h3 class="govuk-heading-s">Existing topic taxonomy tags</h3>
 
 <% if @document.taxons.any? %>
   <ol class="govuk-list govuk-list--number">
@@ -35,10 +35,10 @@
     <% end %>
   </ol>
 <% else %>
-  <p class="govuk-body">The document has no taxons.</p>
+  <p class="govuk-body">The document has no topic taxonomy tags.</p>
 <% end %>
 
-<h3 class="govuk-heading-s">Suggested taxons</h3>
+<h3 class="govuk-heading-s">Suggested topic taxonomy tags</h3>
 
 <% if @suggested_taxons.any? %>
   <ol class="govuk-list govuk-list--number">
@@ -48,11 +48,11 @@
     <% end %>
   </ol>
 <% else %>
-  <p class="govuk-body">There are no other suitable taxons.</p>
+  <p class="govuk-body">There are no other suitable topic taxonomy tags.</p>
 <% end %>
 
 <h3 class="govuk-heading-s">Similar documents</h3>
-<p class="govuk-body">These are the 5 documents most similar to the source document, from which we've derived the suggested taxons above.</p>
+<p class="govuk-body">These are the 5 documents most similar to the source document, from which we've derived the suggested topic taxonomy tags above.</p>
 
 <ol class="govuk-list govuk-list--number">
   <% @similar_documents.each do |document| %>
