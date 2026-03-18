@@ -13,7 +13,9 @@ Add README for https://github.com/freerange/gds-topic-suggestion
 
 Add "Back links" using Design System?
 
-Add a "Phase banner" to indicate this is in "alpha"?
+Add a "Phase banner" Design System component to indicate this is in "alpha"?
+
+Use "Tag" Design System component for each taxon?
 
 Tidy up GOV.UK footer
 
