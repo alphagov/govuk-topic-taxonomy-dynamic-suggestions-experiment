@@ -17,7 +17,7 @@
           <ol class="govuk-breadcrumbs__list">
             <% taxon.breadcrumbs.reverse.each do |taxon| %>
               <li class="govuk-breadcrumbs__list-item">
-                <a class="govuk-breadcrumbs__link" href="#"><%= taxon.title %></a>
+                <a class="govuk-breadcrumbs__link" href="<%= taxon.govuk_url %>"><%= taxon.title %></a>
               </li>
             <% end %>
           </ol>
@@ -50,7 +50,7 @@
           <ol class="govuk-breadcrumbs__list">
             <% taxon.breadcrumbs.reverse.each do |taxon| %>
               <li class="govuk-breadcrumbs__list-item">
-                <a class="govuk-breadcrumbs__link" href="#"><%= taxon.title %></a>
+                <a class="govuk-breadcrumbs__link" href="<%= taxon.govuk_url %>"><%= taxon.title %></a>
               </li>
             <% end %>
           </ol>

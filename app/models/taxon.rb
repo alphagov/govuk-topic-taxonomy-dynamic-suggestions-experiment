@@ -12,4 +12,8 @@ class Taxon < ApplicationRecord
     end
     taxons
   end
+
+  def govuk_url
+    URI.join('https://www.gov.uk', base_path)
+  end
 end
