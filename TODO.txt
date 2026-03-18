@@ -6,8 +6,6 @@ Add README for https://github.com/freerange/gds-topic-suggestion
 
 Add "Back links" using Design System?
 
-Make "New document" link into a button?
-
 Add a "Phase banner" Design System component to indicate this is in "alpha"?
 
 Use "Tag" Design System component for each taxon?
