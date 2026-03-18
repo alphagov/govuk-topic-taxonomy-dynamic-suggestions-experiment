@@ -8,6 +8,22 @@
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
 
+require 'csv'
+
+CSV.foreach(Rails.root.join('db/seeds/topic_taxonomy.csv'), headers: true) do |row|
+  content_store_id = row['id']
+  title = row['title']
+  base_path = row['base_path']
+  parent_base_path = row['parent_base_path']
+
+  taxon = Taxon.find_by(content_store_id:)
+  if taxon
+    taxon.update!(title:, base_path:, parent_base_path:)
+  else
+    Taxon.create!(content_store_id:, title:, base_path:, parent_base_path:)
+  end
+end
+
 embeddings = Dir[Rails.root.join('db/seeds/embeddings/*.json')]
 total = embeddings.length
 embeddings.each.with_index do |path, index|
