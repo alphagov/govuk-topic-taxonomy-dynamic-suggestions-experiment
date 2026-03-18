@@ -4,6 +4,8 @@ Use design system to make it look more GOV.UK'y
 
 Consistent use of "taxon" or "tag" in UI
 
+Update README to explain what it does/how to get it running
+
 ---
 
 Ensure we always recommend n? taxons (e.g. by not necessarily taking just the first 5 similar documents)
