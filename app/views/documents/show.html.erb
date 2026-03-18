@@ -26,6 +26,7 @@
 <% end %>
 
 <h3 class="govuk-heading-s">Existing topic taxonomy tags</h3>
+<p class="govuk-body">Tags already associated with the document.</p>
 
 <% if @document.taxons.any? %>
   <ol class="govuk-list govuk-list--number">
@@ -39,6 +40,7 @@
 <% end %>
 
 <h3 class="govuk-heading-s">Suggested topic taxonomy tags</h3>
+<p class="govuk-body">Tags which are used on similar documents.</p>
 
 <% if @suggested_taxons.any? %>
   <ol class="govuk-list govuk-list--number">
