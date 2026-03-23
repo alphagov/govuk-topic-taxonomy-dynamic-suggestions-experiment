@@ -27,9 +27,12 @@ A bunch of reference data is included in the project and is loaded into the data
 * [Replicate](https://docs.publishing.service.gov.uk/repos/govuk-docker/how-tos.html#how-to-replicate-data-locally) the production data for Content Tagger locally.
 * Run the following shell commands:
 
-    govuk-docker up -d content-store-lite
-    docker exec -i govuk-docker-content-store-lite-1 rails db < db/seeds/export-topic-taxonomy.sql > db/seeds/topic_taxonomy.csv
-    govuk-docker down content-store-lite
+
+```
+govuk-docker up -d content-store-lite
+docker exec -i govuk-docker-content-store-lite-1 rails db < db/seeds/export-topic-taxonomy.sql > db/seeds/topic_taxonomy.csv
+govuk-docker down content-store-lite
+```
 
 ### Document embeddings
 
