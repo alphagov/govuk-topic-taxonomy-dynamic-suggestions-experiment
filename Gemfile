@@ -13,6 +13,7 @@ gem "puma", ">= 5.0"
 gem "tzinfo-data", platforms: %i[ windows jruby ]
 
 gem "csv"
+gem "dotenv"
 gem "neighbor"
 gem "ruby_llm"
 
