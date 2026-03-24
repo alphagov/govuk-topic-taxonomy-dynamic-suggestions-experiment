@@ -1,4 +1,4 @@
-# GOV.UK Topic Taxonomy Suggestions Experiment
+# GOV.UK Topic Taxonomy Dynamic Suggestions Experiment
 
 A simple Rails app demonstrating how document similarity could be used to come up with [Topic Taxonomy](https://docs.publishing.service.gov.uk/manual/taxonomy.html) tag suggestions. This builds on the work we did in [the gds-topic-suggestion repo](https://github.com/freerange/gds-topic-suggestion) by providing a dynamic user interface which allows users to see a list of suggested tags for a new or existing document on GOV.UK.
 
