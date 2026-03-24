@@ -1,6 +1,6 @@
 # GOV.UK Topic Taxonomy Dynamic Suggestions Experiment
 
-A simple Rails app demonstrating how document similarity could be used to come up with [Topic Taxonomy](https://docs.publishing.service.gov.uk/manual/taxonomy.html) tag suggestions. This builds on the work we did in [the gds-topic-suggestion repo](https://github.com/freerange/gds-topic-suggestion) by providing a dynamic user interface which allows users to see a list of suggested tags for a new or existing document on GOV.UK.
+A simple Rails app demonstrating how document similarity could be used to come up with [Topic Taxonomy](https://docs.publishing.service.gov.uk/manual/taxonomy.html) tag suggestions. This builds on the work we did in [the govuk-topic-taxonomy-static-suggestions-experiment repo](https://github.com/freerange/govuk-topic-taxonomy-static-suggestions-experiment) by providing a dynamic user interface which allows users to see a list of suggested tags for a new or existing document on GOV.UK.
 
 ## Requirements
 
@@ -36,6 +36,6 @@ govuk-docker down content-store-lite
 
 ### Document embeddings
 
-This data is obtained from [the gds-topic-suggestion repo](https://github.com/freerange/gds-topic-suggestion):
-* Copy all the JSON files from [the `transform/embeddings` directory](https://github.com/freerange/gds-topic-suggestion/tree/main/transform/embeddings) in the `gds-topic-suggestion` repo to `db/seeds/embeddings`.
-* Copy all the JSON files from [the `transform/clean` directory](https://github.com/freerange/gds-topic-suggestion/tree/main/transform/clean) in the `gds-topic-suggestion` repo to `db/seeds/clean`.
+This data is obtained from [the govuk-topic-taxonomy-static-suggestions-experiment repo](https://github.com/freerange/govuk-topic-taxonomy-static-suggestions-experiment):
+* Copy all the JSON files from [the `transform/embeddings` directory](https://github.com/freerange/govuk-topic-taxonomy-static-suggestions-experiment/tree/main/transform/embeddings) in the `govuk-topic-taxonomy-static-suggestions-experiment` repo to `db/seeds/embeddings`.
+* Copy all the JSON files from [the `transform/clean` directory](https://github.com/freerange/govuk-topic-taxonomy-static-suggestions-experiment/tree/main/transform/clean) in the `govuk-topic-taxonomy-static-suggestions-experiment` repo to `db/seeds/clean`.
