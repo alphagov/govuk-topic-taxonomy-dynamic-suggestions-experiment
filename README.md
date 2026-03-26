@@ -39,3 +39,7 @@ govuk-docker down content-store-lite
 This data is obtained from [the govuk-topic-taxonomy-static-suggestions-experiment repo](https://github.com/alphagov/govuk-topic-taxonomy-static-suggestions-experiment):
 * Copy all the JSON files from [the `transform/embeddings` directory](https://github.com/alphagov/govuk-topic-taxonomy-static-suggestions-experiment/tree/main/transform/embeddings) in the `govuk-topic-taxonomy-static-suggestions-experiment` repo to `db/seeds/embeddings`.
 * Copy all the JSON files from [the `transform/clean` directory](https://github.com/alphagov/govuk-topic-taxonomy-static-suggestions-experiment/tree/main/transform/clean) in the `govuk-topic-taxonomy-static-suggestions-experiment` repo to `db/seeds/clean`.
+
+## Hosting
+
+As of 26 Mar 2027, this app is hosted at https://govuk-topic-taxonomy-suggestions.onrender.com on [Go Free Range](https://gofreerange.com/)'s render.com account, but it's just a demo/prototype so it won't be kept running in perpetuity. However, it would be easy for a developer to spin this app up again on any PaaS that supports Rails & PostgreSQL (e.g. Heroku, render.com, fly.io) or on the GOV.UK infrastructure if necessary. The current hosting is using a very standard [`bin/render-build.sh`](https://github.com/alphagov/govuk-topic-taxonomy-dynamic-suggestions-experiment/blob/836882285c7fbfed4c613e4b62d85aaeea566e81/bin/render-build.sh).
